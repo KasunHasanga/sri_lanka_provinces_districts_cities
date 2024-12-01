@@ -1,7 +1,7 @@
 name: sri_lanka_provinces_districts_cities
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/KasunHasanga/sri_lanka_provinces_districts_cities
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
