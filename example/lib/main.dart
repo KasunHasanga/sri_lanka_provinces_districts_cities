@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sri_lanka_provinces_districts_cities/models/cities.dart';
-import 'package:sri_lanka_provinces_districts_cities/models/districs.dart';
-import 'package:sri_lanka_provinces_districts_cities/models/province.dart';
+import 'package:sri_lanka_provinces_districts_cities/sri_lanka_provinces_districts_cities.dart';
 
 
 void main() {
@@ -34,9 +32,9 @@ class _CitiesHomePageState extends State<CitiesHomePage> {
   void initState() {
     super.initState();
     // Load all provinces, districts, and cities
-    localProvinces = provinces; // Assume `provincesList` contains all provinces
-    localDistricts = districts; // Assume `districtsList` contains all districts
-    localCities = locations;       // Assume `citiesList` contains all cities
+    localProvinces = slProvinces; // Assume `provincesList` contains all provinces
+    localDistricts = slDistricts; // Assume `districtsList` contains all districts
+    localCities = slCities;       // Assume `citiesList` contains all cities
   }
 
   void _searchProvince(int id) {
