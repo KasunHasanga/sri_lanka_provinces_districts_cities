@@ -1,6 +1,6 @@
 name: sri_lanka_provinces_districts_cities
-description: "A Flutter package to access information about Sri Lanka's provinces, districts, and cities. This package provides models and helper functions to work with Sri Lankan geographic data, including the ability to search, filter, and retrieve details about provinces, districts, and cities by different criteria (ID, name, postcode)."
-version: 0.0.1
+description: "A Flutter package to access information about Sri Lanka's provinces, districts, and cities."
+version: 0.0.2
 homepage: https://github.com/KasunHasanga/sri_lanka_provinces_districts_cities
 
 environment:
@@ -18,3 +18,4 @@ dev_dependencies:
 
 
 flutter:
+  uses-material-design: true
