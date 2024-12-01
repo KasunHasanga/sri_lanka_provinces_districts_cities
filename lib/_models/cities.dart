@@ -20,7 +20,7 @@ class Cities {
   });
 }
 
-final List<Cities> locations = [
+final List<Cities> slCities = [
   Cities(
     id: 1,
     districtId: 1,
@@ -21575,26 +21575,26 @@ final List<Cities> locations = [
 
 // Optional: Helper function to find a city by ID
 Cities? getCityById(int id) {
-  return locations.firstWhere(
+  return slCities.firstWhere(
     (location) => location.id == id,
   );
 }
 
 // Optional: Helper function to find all cities in a district by district ID
 List<Cities> getCitiesByDistrictId(int districtId) {
-  return locations
+  return slCities
       .where((location) => location.districtId == districtId)
       .toList();
 }
 
 // Optional: Helper function to find all cities by a postal code
 List<Cities> getCitiesByPostcode(String postcode) {
-  return locations.where((location) => location.postcode == postcode).toList();
+  return slCities.where((location) => location.postcode == postcode).toList();
 }
 
 // Optional: Helper function to search cities by English name
 List<Cities> searchCitiesByNameEn(String name) {
-  return locations
+  return slCities
       .where((location) =>
           location.nameEn.toLowerCase().contains(name.toLowerCase()))
       .toList();
@@ -21602,7 +21602,7 @@ List<Cities> searchCitiesByNameEn(String name) {
 
 // Optional: Helper function to search cities by Sinhala name
 List<Cities> searchCitiesByNameSi(String name) {
-  return locations
+  return slCities
       .where((location) =>
           location.nameSi.toLowerCase().contains(name.toLowerCase()))
       .toList();
@@ -21610,7 +21610,7 @@ List<Cities> searchCitiesByNameSi(String name) {
 
 // Optional: Helper function to search cities by Tamil name
 List<Cities> searchCitiesByNameTa(String name) {
-  return locations
+  return slCities
       .where((location) =>
           location.nameTa.toLowerCase().contains(name.toLowerCase()))
       .toList();

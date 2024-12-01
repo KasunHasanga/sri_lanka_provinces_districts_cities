@@ -23,7 +23,7 @@ class Province {
 }
 
 // Creating a list of provinces based on your SQL data
-final List<Province> provinces = [
+final List<Province> slProvinces = [
   Province(id: 1, nameEn: 'Western', nameSi: 'බස්නාහිර', nameTa: 'மேல்'),
   Province(id: 2, nameEn: 'Central', nameSi: 'මධ්‍යම', nameTa: 'மத்திய'),
   Province(id: 3, nameEn: 'Southern', nameSi: 'දකුණු', nameTa: 'தென்'),
@@ -37,5 +37,5 @@ final List<Province> provinces = [
 
 // Optional: Helper function to find a province by ID
 Province? getProvinceById(int id) {
-  return provinces.firstWhere((province) => province.id == id, );
+  return slProvinces.firstWhere((province) => province.id == id, );
 }

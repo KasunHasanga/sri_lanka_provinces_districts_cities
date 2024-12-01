@@ -26,7 +26,7 @@ class District {
 }
 
 // Creating a list of districts based on your SQL data
-final List<District> districts = [
+final List<District> slDistricts = [
   District(id: 1, provinceId: 6, nameEn: 'Ampara', nameSi: 'අම්පාර', nameTa: 'அம்பாறை'),
   District(id: 2, provinceId: 8, nameEn: 'Anuradhapura', nameSi: 'අනුරාධපුරය', nameTa: 'அனுராதபுரம்'),
   District(id: 3, provinceId: 7, nameEn: 'Badulla', nameSi: 'බදුල්ල', nameTa: 'பதுளை'),
@@ -56,10 +56,10 @@ final List<District> districts = [
 
 // Optional: Helper function to find a district by ID
 District? getDistrictById(int id) {
-  return districts.firstWhere((district) => district.id == id,);
+  return slDistricts.firstWhere((district) => district.id == id,);
 }
 
 // Optional: Helper function to find districts by province ID
 List<District> getDistrictsByProvinceId(int provinceId) {
-  return districts.where((district) => district.provinceId == provinceId).toList();
+  return slDistricts.where((district) => district.provinceId == provinceId).toList();
 }
