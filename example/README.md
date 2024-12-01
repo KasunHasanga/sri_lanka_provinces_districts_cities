@@ -1,16 +1,29 @@
-# example
+# sri_lanka_provinces_districts_cities
 
-A new Flutter project.
+example of double to words package https://pub.dev/packages/sri_lanka_provinces_districts_cities
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the application, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Install FVM**
+    - FVM (Flutter Version Management) is essential for managing Flutter versions. Install it from the terminal:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+      ```sh
+      pub global activate fvm
+      ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Use Specific Flutter Version**
+    - Set the Flutter version for this project:
+
+      ```sh
+      fvm use 3.22.1
+      ```
+
+3 **Run Project**
+    - Set the Flutter version for this project:
+
+      ```sh
+      fvm flutter run
+      ```
