@@ -18,6 +18,33 @@ class Cities {
     required this.latitude,
     required this.longitude,
   });
+  // Convert a Cities object to a JSON map
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'districtId': districtId,
+      'nameEn': nameEn,
+      'nameSi': nameSi,
+      'nameTa': nameTa,
+      'postcode': postcode,
+      'latitude': latitude,
+      'longitude': longitude,
+    };
+  }
+
+  // Create a Cities object from a JSON map
+  factory Cities.fromJson(Map<String, dynamic> json) {
+    return Cities(
+      id: json['id'],
+      districtId: json['districtId'],
+      nameEn: json['nameEn'],
+      nameSi: json['nameSi'],
+      nameTa: json['nameTa'],
+      postcode: json['postcode'],
+      latitude: json['latitude'].toDouble(),
+      longitude: json['longitude'].toDouble(),
+    );
+  }
 }
 
 final List<Cities> slCities = [
