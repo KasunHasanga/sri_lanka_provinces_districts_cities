@@ -3,13 +3,15 @@ import 'package:sri_lanka_provinces_districts_cities/sri_lanka_provinces_distric
 
 
 void main() {
-  runApp(CitiesApp());
+  runApp(const CitiesApp());
 }
 
 class CitiesApp extends StatelessWidget {
+  const CitiesApp({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       title: 'Cities Helper Demo',
       home: CitiesHomePage(),
     );
@@ -17,6 +19,8 @@ class CitiesApp extends StatelessWidget {
 }
 
 class CitiesHomePage extends StatefulWidget {
+  const CitiesHomePage({super.key});
+
   @override
   _CitiesHomePageState createState() => _CitiesHomePageState();
 }
@@ -77,7 +81,7 @@ class _CitiesHomePageState extends State<CitiesHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cities Helper Demo'),
+        title: const Text('Cities Helper Demo'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -85,24 +89,24 @@ class _CitiesHomePageState extends State<CitiesHomePage> {
           children: [
             ElevatedButton(
               onPressed: () => _searchProvince(3),
-              child: Text('Find Province by ID (e.g., 3)'),
+              child: const Text('Find Province by ID (e.g., 3)'),
             ),
             ElevatedButton(
               onPressed: () => _searchDistricts(1),
-              child: Text('Find Districts by Province ID (e.g., 1)'),
+              child: const Text('Find Districts by Province ID (e.g., 1)'),
             ),
             ElevatedButton(
               onPressed: () => _searchCities(2),
-              child: Text('Find Cities by District ID (e.g., 1)'),
+              child: const Text('Find Cities by District ID (e.g., 1)'),
             ),
             ElevatedButton(
               onPressed: () => _searchCityByName('Ampara'),
-              child: Text('Search Cities by English Name (e.g., Ampara)'),
+              child: const Text('Search Cities by English Name (e.g., Ampara)'),
             ),
-            SizedBox(height: 20),
+            const SizedBox(height: 20),
             Text(
               result,
-              style: TextStyle(fontSize: 16, color: Colors.black),
+              style: const TextStyle(fontSize: 16, color: Colors.black),
               textAlign: TextAlign.center,
             ),
           ],
