@@ -31,11 +31,14 @@ final List<Province> slProvinces = [
   Province(id: 5, nameEn: 'Sabaragamuwa', nameSi: 'සබරගමුව', nameTa: 'சபரகமுவ'),
   Province(id: 6, nameEn: 'Eastern', nameSi: 'නැගෙනහිර', nameTa: 'கிழக்கு'),
   Province(id: 7, nameEn: 'Uva', nameSi: 'ඌව', nameTa: 'ஊவா'),
-  Province(id: 8, nameEn: 'North Central', nameSi: 'උතුරු මැද', nameTa: 'வட மத்திய'),
+  Province(
+      id: 8, nameEn: 'North Central', nameSi: 'උතුරු මැද', nameTa: 'வட மத்திய'),
   Province(id: 9, nameEn: 'Northern', nameSi: 'උතුරු', nameTa: 'வட'),
 ];
 
 // Optional: Helper function to find a province by ID
 Province? getProvinceById(int id) {
-  return slProvinces.firstWhere((province) => province.id == id, );
+  return slProvinces.firstWhere(
+    (province) => province.id == id,
+  );
 }
