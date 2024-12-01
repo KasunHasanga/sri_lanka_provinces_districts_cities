@@ -1,4 +1,3 @@
-
 class Cities {
   final int id;
   final int districtId;
@@ -22,7 +21,6 @@ class Cities {
 }
 
 final List<Cities> locations = [
-
   Cities(
     id: 1,
     districtId: 1,
@@ -33,7 +31,6 @@ final List<Cities> locations = [
     latitude: 7.21842790,
     longitude: 81.85411610,
   ),
-
   Cities(
     id: 2,
     districtId: 1,
@@ -44,7 +41,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 3,
     districtId: 1,
@@ -55,7 +51,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 4,
     districtId: 1,
@@ -66,7 +61,6 @@ final List<Cities> locations = [
     latitude: 7.02963180,
     longitude: 81.68020540,
   ),
-
   Cities(
     id: 5,
     districtId: 1,
@@ -77,7 +71,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 6,
     districtId: 1,
@@ -88,7 +81,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 7,
     districtId: 1,
@@ -99,7 +91,6 @@ final List<Cities> locations = [
     latitude: 7.39012540,
     longitude: 81.69658760,
   ),
-
   Cities(
     id: 8,
     districtId: 1,
@@ -110,7 +101,6 @@ final List<Cities> locations = [
     latitude: 7.35886970,
     longitude: 81.30142840,
   ),
-
   Cities(
     id: 9,
     districtId: 1,
@@ -121,7 +111,6 @@ final List<Cities> locations = [
     latitude: 7.43037350,
     longitude: 81.55892520,
   ),
-
   Cities(
     id: 10,
     districtId: 1,
@@ -132,7 +121,6 @@ final List<Cities> locations = [
     latitude: 6.92847170,
     longitude: 81.65467140,
   ),
-
   Cities(
     id: 11,
     districtId: 1,
@@ -143,7 +131,6 @@ final List<Cities> locations = [
     latitude: 7.39567810,
     longitude: 81.83336560,
   ),
-
   Cities(
     id: 12,
     districtId: 1,
@@ -154,7 +141,6 @@ final List<Cities> locations = [
     latitude: 7.49350210,
     longitude: 81.79578880,
   ),
-
   Cities(
     id: 13,
     districtId: 1,
@@ -165,7 +151,6 @@ final List<Cities> locations = [
     latitude: 7.37702820,
     longitude: 81.84150650,
   ),
-
   Cities(
     id: 14,
     districtId: 1,
@@ -176,7 +161,6 @@ final List<Cities> locations = [
     latitude: 7.50745450,
     longitude: 81.33512840,
   ),
-
   Cities(
     id: 15,
     districtId: 1,
@@ -187,7 +171,6 @@ final List<Cities> locations = [
     latitude: 7.22390810,
     longitude: 81.56234740,
   ),
-
   Cities(
     id: 16,
     districtId: 1,
@@ -198,7 +181,6 @@ final List<Cities> locations = [
     latitude: 7.29429160,
     longitude: 81.27941230,
   ),
-
   Cities(
     id: 17,
     districtId: 1,
@@ -209,7 +191,6 @@ final List<Cities> locations = [
     latitude: 6.98626030,
     longitude: 81.86477870,
   ),
-
   Cities(
     id: 18,
     districtId: 1,
@@ -220,7 +201,6 @@ final List<Cities> locations = [
     latitude: 6.87208720,
     longitude: 81.72262980,
   ),
-
   Cities(
     id: 19,
     districtId: 1,
@@ -231,7 +211,6 @@ final List<Cities> locations = [
     latitude: 7.24424420,
     longitude: 81.74588450,
   ),
-
   Cities(
     id: 20,
     districtId: 1,
@@ -242,7 +221,6 @@ final List<Cities> locations = [
     latitude: 7.53121600,
     longitude: 81.35609520,
   ),
-
   Cities(
     id: 21,
     districtId: 1,
@@ -253,7 +231,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 22,
     districtId: 1,
@@ -264,7 +241,6 @@ final List<Cities> locations = [
     latitude: 7.33119270,
     longitude: 81.53221490,
   ),
-
   Cities(
     id: 23,
     districtId: 1,
@@ -275,7 +251,6 @@ final List<Cities> locations = [
     latitude: 7.42577260,
     longitude: 81.77456990,
   ),
-
   Cities(
     id: 24,
     districtId: 1,
@@ -286,7 +261,6 @@ final List<Cities> locations = [
     latitude: 7.32116800,
     longitude: 81.85785230,
   ),
-
   Cities(
     id: 25,
     districtId: 1,
@@ -297,7 +271,6 @@ final List<Cities> locations = [
     latitude: 7.29444730,
     longitude: 81.86068210,
   ),
-
   Cities(
     id: 26,
     districtId: 1,
@@ -308,7 +281,6 @@ final List<Cities> locations = [
     latitude: 7.39251260,
     longitude: 81.24362270,
   ),
-
   Cities(
     id: 27,
     districtId: 1,
@@ -319,7 +291,6 @@ final List<Cities> locations = [
     latitude: 7.22268810,
     longitude: 81.58980160,
   ),
-
   Cities(
     id: 28,
     districtId: 1,
@@ -330,7 +301,6 @@ final List<Cities> locations = [
     latitude: 6.75805890,
     longitude: 81.80877210,
   ),
-
   Cities(
     id: 29,
     districtId: 1,
@@ -341,7 +311,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 30,
     districtId: 1,
@@ -352,7 +321,6 @@ final List<Cities> locations = [
     latitude: 7.25777050,
     longitude: 81.60898730,
   ),
-
   Cities(
     id: 31,
     districtId: 1,
@@ -363,7 +331,6 @@ final List<Cities> locations = [
     latitude: 7.45160600,
     longitude: 81.81423800,
   ),
-
   Cities(
     id: 32,
     districtId: 1,
@@ -374,7 +341,6 @@ final List<Cities> locations = [
     latitude: 7.24344700,
     longitude: 81.55690030,
   ),
-
   Cities(
     id: 33,
     districtId: 1,
@@ -385,7 +351,6 @@ final List<Cities> locations = [
     latitude: 6.87527060,
     longitude: 81.83063340,
   ),
-
   Cities(
     id: 34,
     districtId: 1,
@@ -396,7 +361,6 @@ final List<Cities> locations = [
     latitude: 7.39304920,
     longitude: 81.83609770,
   ),
-
   Cities(
     id: 35,
     districtId: 1,
@@ -407,7 +371,6 @@ final List<Cities> locations = [
     latitude: 7.35748410,
     longitude: 81.79510540,
   ),
-
   Cities(
     id: 36,
     districtId: 1,
@@ -418,7 +381,6 @@ final List<Cities> locations = [
     latitude: 7.45677530,
     longitude: 81.27872420,
   ),
-
   Cities(
     id: 37,
     districtId: 1,
@@ -429,7 +391,6 @@ final List<Cities> locations = [
     latitude: 7.62289350,
     longitude: 81.37293720,
   ),
-
   Cities(
     id: 38,
     districtId: 1,
@@ -440,7 +401,6 @@ final List<Cities> locations = [
     latitude: 7.12851220,
     longitude: 81.84861640,
   ),
-
   Cities(
     id: 39,
     districtId: 1,
@@ -451,7 +411,6 @@ final List<Cities> locations = [
     latitude: 7.11531220,
     longitude: 81.85248820,
   ),
-
   Cities(
     id: 40,
     districtId: 1,
@@ -462,7 +421,6 @@ final List<Cities> locations = [
     latitude: 7.36303600,
     longitude: 81.63527700,
   ),
-
   Cities(
     id: 41,
     districtId: 1,
@@ -473,7 +431,6 @@ final List<Cities> locations = [
     latitude: 7.12631470,
     longitude: 81.57335280,
   ),
-
   Cities(
     id: 42,
     districtId: 1,
@@ -484,7 +441,6 @@ final List<Cities> locations = [
     latitude: 7.30175630,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 43,
     districtId: 2,
@@ -495,7 +451,6 @@ final List<Cities> locations = [
     latitude: 8.18133110,
     longitude: 80.20703280,
   ),
-
   Cities(
     id: 44,
     districtId: 2,
@@ -506,7 +461,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 45,
     districtId: 2,
@@ -517,7 +471,6 @@ final List<Cities> locations = [
     latitude: 8.01014200,
     longitude: 80.51311560,
   ),
-
   Cities(
     id: 46,
     districtId: 2,
@@ -528,7 +481,6 @@ final List<Cities> locations = [
     latitude: 8.32554500,
     longitude: 80.24885960,
   ),
-
   Cities(
     id: 47,
     districtId: 2,
@@ -539,7 +491,6 @@ final List<Cities> locations = [
     latitude: 8.28333300,
     longitude: 80.58333300,
   ),
-
   Cities(
     id: 48,
     districtId: 2,
@@ -550,7 +501,6 @@ final List<Cities> locations = [
     latitude: 7.85934130,
     longitude: 81.10305730,
   ),
-
   Cities(
     id: 49,
     districtId: 2,
@@ -561,7 +511,6 @@ final List<Cities> locations = [
     latitude: 8.62798020,
     longitude: 80.86545340,
   ),
-
   Cities(
     id: 50,
     districtId: 2,
@@ -572,7 +521,6 @@ final List<Cities> locations = [
     latitude: 8.35534470,
     longitude: 80.39647510,
   ),
-
   Cities(
     id: 51,
     districtId: 2,
@@ -583,7 +531,6 @@ final List<Cities> locations = [
     latitude: 7.78077700,
     longitude: 81.07822530,
   ),
-
   Cities(
     id: 52,
     districtId: 2,
@@ -594,7 +541,6 @@ final List<Cities> locations = [
     latitude: 8.14409500,
     longitude: 80.41187210,
   ),
-
   Cities(
     id: 53,
     districtId: 2,
@@ -605,7 +551,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 54,
     districtId: 2,
@@ -616,7 +561,6 @@ final List<Cities> locations = [
     latitude: 8.61460480,
     longitude: 80.53828890,
   ),
-
   Cities(
     id: 55,
     districtId: 2,
@@ -627,7 +571,6 @@ final List<Cities> locations = [
     latitude: 8.09808990,
     longitude: 80.68262540,
   ),
-
   Cities(
     id: 56,
     districtId: 2,
@@ -638,7 +581,6 @@ final List<Cities> locations = [
     latitude: 8.29213380,
     longitude: 80.71728370,
   ),
-
   Cities(
     id: 57,
     districtId: 2,
@@ -649,7 +591,6 @@ final List<Cities> locations = [
     latitude: 8.25944620,
     longitude: 80.14425400,
   ),
-
   Cities(
     id: 58,
     districtId: 2,
@@ -660,7 +601,6 @@ final List<Cities> locations = [
     latitude: 7.92634930,
     longitude: 80.57187720,
   ),
-
   Cities(
     id: 59,
     districtId: 2,
@@ -671,7 +611,6 @@ final List<Cities> locations = [
     latitude: 8.30612950,
     longitude: 80.45037230,
   ),
-
   Cities(
     id: 60,
     districtId: 2,
@@ -682,7 +621,6 @@ final List<Cities> locations = [
     latitude: 8.03692110,
     longitude: 80.47253460,
   ),
-
   Cities(
     id: 61,
     districtId: 2,
@@ -693,7 +631,6 @@ final List<Cities> locations = [
     latitude: 8.48075710,
     longitude: 80.39369940,
   ),
-
   Cities(
     id: 62,
     districtId: 2,
@@ -704,7 +641,6 @@ final List<Cities> locations = [
     latitude: 8.08761040,
     longitude: 80.62791750,
   ),
-
   Cities(
     id: 63,
     districtId: 2,
@@ -715,7 +651,6 @@ final List<Cities> locations = [
     latitude: 8.19657290,
     longitude: 80.16797580,
   ),
-
   Cities(
     id: 64,
     districtId: 2,
@@ -726,7 +661,6 @@ final List<Cities> locations = [
     latitude: 8.31826200,
     longitude: 80.77406080,
   ),
-
   Cities(
     id: 65,
     districtId: 2,
@@ -737,7 +671,6 @@ final List<Cities> locations = [
     latitude: 8.29901660,
     longitude: 80.43682450,
   ),
-
   Cities(
     id: 66,
     districtId: 2,
@@ -748,7 +681,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 67,
     districtId: 2,
@@ -759,7 +691,6 @@ final List<Cities> locations = [
     latitude: 8.03221470,
     longitude: 80.75192720,
   ),
-
   Cities(
     id: 68,
     districtId: 2,
@@ -770,7 +701,6 @@ final List<Cities> locations = [
     latitude: 8.17185550,
     longitude: 80.75342070,
   ),
-
   Cities(
     id: 69,
     districtId: 2,
@@ -781,7 +711,6 @@ final List<Cities> locations = [
     latitude: 8.73197780,
     longitude: 80.66598420,
   ),
-
   Cities(
     id: 70,
     districtId: 2,
@@ -792,7 +721,6 @@ final List<Cities> locations = [
     latitude: 8.26194340,
     longitude: 80.41317800,
   ),
-
   Cities(
     id: 71,
     districtId: 2,
@@ -803,7 +731,6 @@ final List<Cities> locations = [
     latitude: 8.55697630,
     longitude: 80.83129110,
   ),
-
   Cities(
     id: 72,
     districtId: 2,
@@ -814,7 +741,6 @@ final List<Cities> locations = [
     latitude: 7.86666700,
     longitude: 81.08333300,
   ),
-
   Cities(
     id: 73,
     districtId: 2,
@@ -825,7 +751,6 @@ final List<Cities> locations = [
     latitude: 8.09486350,
     longitude: 80.37004070,
   ),
-
   Cities(
     id: 74,
     districtId: 2,
@@ -836,7 +761,6 @@ final List<Cities> locations = [
     latitude: 8.27086140,
     longitude: 80.75918140,
   ),
-
   Cities(
     id: 75,
     districtId: 2,
@@ -847,7 +771,6 @@ final List<Cities> locations = [
     latitude: 8.15202380,
     longitude: 80.56328840,
   ),
-
   Cities(
     id: 76,
     districtId: 2,
@@ -858,7 +781,6 @@ final List<Cities> locations = [
     latitude: 8.04226330,
     longitude: 80.50723210,
   ),
-
   Cities(
     id: 77,
     districtId: 2,
@@ -869,7 +791,6 @@ final List<Cities> locations = [
     latitude: 8.42598100,
     longitude: 80.68725300,
   ),
-
   Cities(
     id: 78,
     districtId: 2,
@@ -880,7 +801,6 @@ final List<Cities> locations = [
     latitude: 8.73523570,
     longitude: 80.79901850,
   ),
-
   Cities(
     id: 79,
     districtId: 2,
@@ -891,7 +811,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 80,
     districtId: 2,
@@ -902,7 +821,6 @@ final List<Cities> locations = [
     latitude: 8.21001910,
     longitude: 80.10754390,
   ),
-
   Cities(
     id: 81,
     districtId: 2,
@@ -913,7 +831,6 @@ final List<Cities> locations = [
     latitude: 7.90669100,
     longitude: 80.37530500,
   ),
-
   Cities(
     id: 82,
     districtId: 2,
@@ -924,7 +841,6 @@ final List<Cities> locations = [
     latitude: 8.46341190,
     longitude: 80.57161990,
   ),
-
   Cities(
     id: 83,
     districtId: 2,
@@ -935,7 +851,6 @@ final List<Cities> locations = [
     latitude: 8.32274050,
     longitude: 80.40861190,
   ),
-
   Cities(
     id: 84,
     districtId: 2,
@@ -946,7 +861,6 @@ final List<Cities> locations = [
     latitude: 7.78305910,
     longitude: 81.05890600,
   ),
-
   Cities(
     id: 85,
     districtId: 2,
@@ -957,7 +871,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 86,
     districtId: 2,
@@ -968,7 +881,6 @@ final List<Cities> locations = [
     latitude: 8.33692640,
     longitude: 80.41545860,
   ),
-
   Cities(
     id: 87,
     districtId: 2,
@@ -979,7 +891,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 88,
     districtId: 2,
@@ -990,7 +901,6 @@ final List<Cities> locations = [
     latitude: 8.64112290,
     longitude: 80.66969990,
   ),
-
   Cities(
     id: 89,
     districtId: 2,
@@ -1001,7 +911,6 @@ final List<Cities> locations = [
     latitude: 8.04210300,
     longitude: 80.59383300,
   ),
-
   Cities(
     id: 90,
     districtId: 2,
@@ -1012,7 +921,6 @@ final List<Cities> locations = [
     latitude: 8.49101270,
     longitude: 80.60420240,
   ),
-
   Cities(
     id: 91,
     districtId: 2,
@@ -1023,7 +931,6 @@ final List<Cities> locations = [
     latitude: 8.19062870,
     longitude: 80.36864880,
   ),
-
   Cities(
     id: 92,
     districtId: 2,
@@ -1034,7 +941,6 @@ final List<Cities> locations = [
     latitude: 8.53632700,
     longitude: 80.55773360,
   ),
-
   Cities(
     id: 93,
     districtId: 2,
@@ -1045,7 +951,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 94,
     districtId: 2,
@@ -1056,7 +961,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 95,
     districtId: 2,
@@ -1067,7 +971,6 @@ final List<Cities> locations = [
     latitude: 8.35485670,
     longitude: 80.45212160,
   ),
-
   Cities(
     id: 96,
     districtId: 2,
@@ -1078,7 +981,6 @@ final List<Cities> locations = [
     latitude: 8.16498510,
     longitude: 80.59799730,
   ),
-
   Cities(
     id: 97,
     districtId: 2,
@@ -1089,7 +991,6 @@ final List<Cities> locations = [
     latitude: 8.33183050,
     longitude: 80.40290170,
   ),
-
   Cities(
     id: 98,
     districtId: 2,
@@ -1100,7 +1001,6 @@ final List<Cities> locations = [
     latitude: 8.06502700,
     longitude: 80.53551070,
   ),
-
   Cities(
     id: 99,
     districtId: 2,
@@ -1111,7 +1011,6 @@ final List<Cities> locations = [
     latitude: 7.94585760,
     longitude: 80.62714150,
   ),
-
   Cities(
     id: 100,
     districtId: 2,
@@ -1122,7 +1021,6 @@ final List<Cities> locations = [
     latitude: 7.99146130,
     longitude: 80.61881560,
   ),
-
   Cities(
     id: 101,
     districtId: 2,
@@ -1133,7 +1031,6 @@ final List<Cities> locations = [
     latitude: 8.34481060,
     longitude: 80.39723910,
   ),
-
   Cities(
     id: 102,
     districtId: 2,
@@ -1144,7 +1041,6 @@ final List<Cities> locations = [
     latitude: 8.10373640,
     longitude: 80.46046430,
   ),
-
   Cities(
     id: 103,
     districtId: 2,
@@ -1155,7 +1051,6 @@ final List<Cities> locations = [
     latitude: 8.35002930,
     longitude: 80.39636870,
   ),
-
   Cities(
     id: 104,
     districtId: 2,
@@ -1166,7 +1061,6 @@ final List<Cities> locations = [
     latitude: 8.38787430,
     longitude: 80.76120640,
   ),
-
   Cities(
     id: 105,
     districtId: 2,
@@ -1177,7 +1071,6 @@ final List<Cities> locations = [
     latitude: 8.86182610,
     longitude: 80.84884980,
   ),
-
   Cities(
     id: 106,
     districtId: 2,
@@ -1188,7 +1081,6 @@ final List<Cities> locations = [
     latitude: 8.47075510,
     longitude: 80.20982190,
   ),
-
   Cities(
     id: 107,
     districtId: 2,
@@ -1199,7 +1091,6 @@ final List<Cities> locations = [
     latitude: 8.28185290,
     longitude: 80.68262540,
   ),
-
   Cities(
     id: 108,
     districtId: 2,
@@ -1210,7 +1101,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 109,
     districtId: 2,
@@ -1221,7 +1111,6 @@ final List<Cities> locations = [
     latitude: 7.90214030,
     longitude: 80.47992730,
   ),
-
   Cities(
     id: 110,
     districtId: 2,
@@ -1232,7 +1121,6 @@ final List<Cities> locations = [
     latitude: 8.11686520,
     longitude: 80.56051110,
   ),
-
   Cities(
     id: 111,
     districtId: 2,
@@ -1243,7 +1131,6 @@ final List<Cities> locations = [
     latitude: 8.11686520,
     longitude: 80.56051110,
   ),
-
   Cities(
     id: 112,
     districtId: 2,
@@ -1254,7 +1141,6 @@ final List<Cities> locations = [
     latitude: 8.53748130,
     longitude: 80.49098060,
   ),
-
   Cities(
     id: 113,
     districtId: 2,
@@ -1265,7 +1151,6 @@ final List<Cities> locations = [
     latitude: 8.21570610,
     longitude: 80.70237990,
   ),
-
   Cities(
     id: 114,
     districtId: 2,
@@ -1276,7 +1161,6 @@ final List<Cities> locations = [
     latitude: 8.35342320,
     longitude: 80.50494450,
   ),
-
   Cities(
     id: 115,
     districtId: 2,
@@ -1287,7 +1171,6 @@ final List<Cities> locations = [
     latitude: 8.50922770,
     longitude: 80.78517100,
   ),
-
   Cities(
     id: 116,
     districtId: 2,
@@ -1298,7 +1181,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 117,
     districtId: 2,
@@ -1309,7 +1191,6 @@ final List<Cities> locations = [
     latitude: 8.14464530,
     longitude: 80.58841560,
   ),
-
   Cities(
     id: 118,
     districtId: 5,
@@ -1320,7 +1201,6 @@ final List<Cities> locations = [
     latitude: 6.96547650,
     longitude: 79.87083950,
   ),
-
   Cities(
     id: 119,
     districtId: 2,
@@ -1331,7 +1211,6 @@ final List<Cities> locations = [
     latitude: 8.25549640,
     longitude: 80.48270740,
   ),
-
   Cities(
     id: 120,
     districtId: 2,
@@ -1342,7 +1221,6 @@ final List<Cities> locations = [
     latitude: 8.14396200,
     longitude: 80.74731900,
   ),
-
   Cities(
     id: 121,
     districtId: 2,
@@ -1353,7 +1231,6 @@ final List<Cities> locations = [
     latitude: 7.95785590,
     longitude: 80.51122380,
   ),
-
   Cities(
     id: 122,
     districtId: 2,
@@ -1364,7 +1241,6 @@ final List<Cities> locations = [
     latitude: 8.29255010,
     longitude: 80.22655450,
   ),
-
   Cities(
     id: 123,
     districtId: 2,
@@ -1375,7 +1251,6 @@ final List<Cities> locations = [
     latitude: 7.79264660,
     longitude: 81.00368210,
   ),
-
   Cities(
     id: 124,
     districtId: 2,
@@ -1386,7 +1261,6 @@ final List<Cities> locations = [
     latitude: 8.34481060,
     longitude: 80.39723910,
   ),
-
   Cities(
     id: 125,
     districtId: 2,
@@ -1397,7 +1271,6 @@ final List<Cities> locations = [
     latitude: 8.90344220,
     longitude: 80.77579840,
   ),
-
   Cities(
     id: 126,
     districtId: 2,
@@ -1408,7 +1281,6 @@ final List<Cities> locations = [
     latitude: 8.91950600,
     longitude: 80.80871030,
   ),
-
   Cities(
     id: 127,
     districtId: 2,
@@ -1419,7 +1291,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 128,
     districtId: 2,
@@ -1430,7 +1301,6 @@ final List<Cities> locations = [
     latitude: 8.83409980,
     longitude: 80.76073890,
   ),
-
   Cities(
     id: 129,
     districtId: 2,
@@ -1441,7 +1311,6 @@ final List<Cities> locations = [
     latitude: 8.23585720,
     longitude: 80.74734750,
   ),
-
   Cities(
     id: 130,
     districtId: 2,
@@ -1452,7 +1321,6 @@ final List<Cities> locations = [
     latitude: 8.30461820,
     longitude: 80.61799520,
   ),
-
   Cities(
     id: 131,
     districtId: 2,
@@ -1463,7 +1331,6 @@ final List<Cities> locations = [
     latitude: 8.24286010,
     longitude: 80.15319510,
   ),
-
   Cities(
     id: 132,
     districtId: 2,
@@ -1474,7 +1341,6 @@ final List<Cities> locations = [
     latitude: 8.18585380,
     longitude: 80.28230630,
   ),
-
   Cities(
     id: 133,
     districtId: 2,
@@ -1485,7 +1351,6 @@ final List<Cities> locations = [
     latitude: 8.06044070,
     longitude: 80.68817180,
   ),
-
   Cities(
     id: 134,
     districtId: 2,
@@ -1496,7 +1361,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 135,
     districtId: 2,
@@ -1507,7 +1371,6 @@ final List<Cities> locations = [
     latitude: 8.32751600,
     longitude: 80.36110910,
   ),
-
   Cities(
     id: 136,
     districtId: 2,
@@ -1518,7 +1381,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 137,
     districtId: 2,
@@ -1529,7 +1391,6 @@ final List<Cities> locations = [
     latitude: 8.48798500,
     longitude: 80.92077370,
   ),
-
   Cities(
     id: 138,
     districtId: 2,
@@ -1540,7 +1401,6 @@ final List<Cities> locations = [
     latitude: 8.35534470,
     longitude: 80.39647510,
   ),
-
   Cities(
     id: 139,
     districtId: 2,
@@ -1551,7 +1411,6 @@ final List<Cities> locations = [
     latitude: 7.81604000,
     longitude: 81.09202180,
   ),
-
   Cities(
     id: 140,
     districtId: 2,
@@ -1562,7 +1421,6 @@ final List<Cities> locations = [
     latitude: 8.49536680,
     longitude: 80.19151100,
   ),
-
   Cities(
     id: 141,
     districtId: 2,
@@ -1573,7 +1431,6 @@ final List<Cities> locations = [
     latitude: 8.35534470,
     longitude: 80.39647510,
   ),
-
   Cities(
     id: 142,
     districtId: 2,
@@ -1584,7 +1441,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 143,
     districtId: 2,
@@ -1595,7 +1451,6 @@ final List<Cities> locations = [
     latitude: 7.92807970,
     longitude: 80.59681890,
   ),
-
   Cities(
     id: 144,
     districtId: 2,
@@ -1606,7 +1461,6 @@ final List<Cities> locations = [
     latitude: 8.61016710,
     longitude: 80.46880610,
   ),
-
   Cities(
     id: 145,
     districtId: 2,
@@ -1617,7 +1471,6 @@ final List<Cities> locations = [
     latitude: 8.16572070,
     longitude: 80.19644430,
   ),
-
   Cities(
     id: 146,
     districtId: 2,
@@ -1628,7 +1481,6 @@ final List<Cities> locations = [
     latitude: 8.44010740,
     longitude: 80.50494450,
   ),
-
   Cities(
     id: 147,
     districtId: 2,
@@ -1639,7 +1491,6 @@ final List<Cities> locations = [
     latitude: 8.40259460,
     longitude: 80.63546650,
   ),
-
   Cities(
     id: 148,
     districtId: 2,
@@ -1650,7 +1501,6 @@ final List<Cities> locations = [
     latitude: 8.52339920,
     longitude: 80.69649050,
   ),
-
   Cities(
     id: 149,
     districtId: 2,
@@ -1661,7 +1511,6 @@ final List<Cities> locations = [
     latitude: 8.40542620,
     longitude: 80.41596030,
   ),
-
   Cities(
     id: 150,
     districtId: 2,
@@ -1672,7 +1521,6 @@ final List<Cities> locations = [
     latitude: 8.38161270,
     longitude: 80.58905790,
   ),
-
   Cities(
     id: 151,
     districtId: 2,
@@ -1683,7 +1531,6 @@ final List<Cities> locations = [
     latitude: 8.00068170,
     longitude: 81.15821120,
   ),
-
   Cities(
     id: 152,
     districtId: 2,
@@ -1694,7 +1541,6 @@ final List<Cities> locations = [
     latitude: 8.25643610,
     longitude: 80.63604780,
   ),
-
   Cities(
     id: 153,
     districtId: 2,
@@ -1705,7 +1551,6 @@ final List<Cities> locations = [
     latitude: 8.01668610,
     longitude: 80.42708850,
   ),
-
   Cities(
     id: 154,
     districtId: 2,
@@ -1716,7 +1561,6 @@ final List<Cities> locations = [
     latitude: 8.29881970,
     longitude: 80.37702160,
   ),
-
   Cities(
     id: 155,
     districtId: 2,
@@ -1727,7 +1571,6 @@ final List<Cities> locations = [
     latitude: 8.23651890,
     longitude: 80.35077300,
   ),
-
   Cities(
     id: 156,
     districtId: 2,
@@ -1738,7 +1581,6 @@ final List<Cities> locations = [
     latitude: 8.15400150,
     longitude: 80.30459670,
   ),
-
   Cities(
     id: 157,
     districtId: 2,
@@ -1749,7 +1591,6 @@ final List<Cities> locations = [
     latitude: 8.35002930,
     longitude: 80.39636870,
   ),
-
   Cities(
     id: 158,
     districtId: 2,
@@ -1760,7 +1601,6 @@ final List<Cities> locations = [
     latitude: 8.57228020,
     longitude: 80.25722250,
   ),
-
   Cities(
     id: 159,
     districtId: 2,
@@ -1771,7 +1611,6 @@ final List<Cities> locations = [
     latitude: 8.14312930,
     longitude: 80.31413490,
   ),
-
   Cities(
     id: 160,
     districtId: 2,
@@ -1782,7 +1621,6 @@ final List<Cities> locations = [
     latitude: 8.21330460,
     longitude: 80.52717560,
   ),
-
   Cities(
     id: 161,
     districtId: 2,
@@ -1793,7 +1631,6 @@ final List<Cities> locations = [
     latitude: 8.69645040,
     longitude: 80.77132100,
   ),
-
   Cities(
     id: 162,
     districtId: 2,
@@ -1804,7 +1641,6 @@ final List<Cities> locations = [
     latitude: 7.23197260,
     longitude: 80.56606570,
   ),
-
   Cities(
     id: 163,
     districtId: 2,
@@ -1815,7 +1651,6 @@ final List<Cities> locations = [
     latitude: 8.31380840,
     longitude: 80.66043640,
   ),
-
   Cities(
     id: 164,
     districtId: 2,
@@ -1826,7 +1661,6 @@ final List<Cities> locations = [
     latitude: 8.42457530,
     longitude: 80.25833250,
   ),
-
   Cities(
     id: 165,
     districtId: 2,
@@ -1837,7 +1671,6 @@ final List<Cities> locations = [
     latitude: 8.31135180,
     longitude: 80.40365080,
   ),
-
   Cities(
     id: 166,
     districtId: 2,
@@ -1848,7 +1681,6 @@ final List<Cities> locations = [
     latitude: 8.36304860,
     longitude: 80.40542270,
   ),
-
   Cities(
     id: 167,
     districtId: 2,
@@ -1859,7 +1691,6 @@ final List<Cities> locations = [
     latitude: 8.72249360,
     longitude: 80.83501090,
   ),
-
   Cities(
     id: 168,
     districtId: 2,
@@ -1870,7 +1701,6 @@ final List<Cities> locations = [
     latitude: 8.48070790,
     longitude: 80.50216520,
   ),
-
   Cities(
     id: 169,
     districtId: 2,
@@ -1881,7 +1711,6 @@ final List<Cities> locations = [
     latitude: 8.15586220,
     longitude: 80.49660620,
   ),
-
   Cities(
     id: 170,
     districtId: 2,
@@ -1892,7 +1721,6 @@ final List<Cities> locations = [
     latitude: 8.45887190,
     longitude: 80.86599690,
   ),
-
   Cities(
     id: 171,
     districtId: 2,
@@ -1903,7 +1731,6 @@ final List<Cities> locations = [
     latitude: 8.55929760,
     longitude: 80.83501090,
   ),
-
   Cities(
     id: 172,
     districtId: 2,
@@ -1914,7 +1741,6 @@ final List<Cities> locations = [
     latitude: 8.96404140,
     longitude: 80.78794070,
   ),
-
   Cities(
     id: 173,
     districtId: 3,
@@ -1925,7 +1751,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 174,
     districtId: 3,
@@ -1936,7 +1761,6 @@ final List<Cities> locations = [
     latitude: 7.30000000,
     longitude: 81.11666700,
   ),
-
   Cities(
     id: 175,
     districtId: 3,
@@ -1947,7 +1771,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 176,
     districtId: 3,
@@ -1958,7 +1781,6 @@ final List<Cities> locations = [
     latitude: 6.81900520,
     longitude: 81.05614580,
   ),
-
   Cities(
     id: 177,
     districtId: 3,
@@ -1969,7 +1791,6 @@ final List<Cities> locations = [
     latitude: 6.92807100,
     longitude: 80.89657580,
   ),
-
   Cities(
     id: 178,
     districtId: 3,
@@ -1980,7 +1801,6 @@ final List<Cities> locations = [
     latitude: 7.16666700,
     longitude: 81.08333300,
   ),
-
   Cities(
     id: 179,
     districtId: 3,
@@ -1991,7 +1811,6 @@ final List<Cities> locations = [
     latitude: 7.08738620,
     longitude: 81.19955110,
   ),
-
   Cities(
     id: 180,
     districtId: 3,
@@ -2002,7 +1821,6 @@ final List<Cities> locations = [
     latitude: 7.34330130,
     longitude: 81.03716620,
   ),
-
   Cities(
     id: 181,
     districtId: 3,
@@ -2013,7 +1831,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 182,
     districtId: 3,
@@ -2024,7 +1841,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 183,
     districtId: 3,
@@ -2035,7 +1851,6 @@ final List<Cities> locations = [
     latitude: 7.12482550,
     longitude: 81.03026390,
   ),
-
   Cities(
     id: 184,
     districtId: 3,
@@ -2046,7 +1861,6 @@ final List<Cities> locations = [
     latitude: 6.86225690,
     longitude: 81.10029850,
   ),
-
   Cities(
     id: 185,
     districtId: 3,
@@ -2057,7 +1871,6 @@ final List<Cities> locations = [
     latitude: 6.98156960,
     longitude: 80.95118350,
   ),
-
   Cities(
     id: 186,
     districtId: 3,
@@ -2068,7 +1881,6 @@ final List<Cities> locations = [
     latitude: 6.82587800,
     longitude: 80.99815760,
   ),
-
   Cities(
     id: 187,
     districtId: 3,
@@ -2079,7 +1891,6 @@ final List<Cities> locations = [
     latitude: 6.92125060,
     longitude: 79.84778520,
   ),
-
   Cities(
     id: 188,
     districtId: 3,
@@ -2090,7 +1901,6 @@ final List<Cities> locations = [
     latitude: 6.89617300,
     longitude: 81.14029050,
   ),
-
   Cities(
     id: 189,
     districtId: 3,
@@ -2101,7 +1911,6 @@ final List<Cities> locations = [
     latitude: 6.89990100,
     longitude: 80.84608220,
   ),
-
   Cities(
     id: 190,
     districtId: 3,
@@ -2112,7 +1921,6 @@ final List<Cities> locations = [
     latitude: 6.82790440,
     longitude: 80.89450140,
   ),
-
   Cities(
     id: 191,
     districtId: 3,
@@ -2123,7 +1931,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 192,
     districtId: 3,
@@ -2134,7 +1941,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 193,
     districtId: 3,
@@ -2145,7 +1951,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 194,
     districtId: 3,
@@ -2156,7 +1961,6 @@ final List<Cities> locations = [
     latitude: 7.41362290,
     longitude: 81.10834830,
   ),
-
   Cities(
     id: 195,
     districtId: 3,
@@ -2167,7 +1971,6 @@ final List<Cities> locations = [
     latitude: 7.67127960,
     longitude: 81.04648400,
   ),
-
   Cities(
     id: 196,
     districtId: 3,
@@ -2178,7 +1981,6 @@ final List<Cities> locations = [
     latitude: 6.89928290,
     longitude: 81.05817760,
   ),
-
   Cities(
     id: 197,
     districtId: 3,
@@ -2189,7 +1991,6 @@ final List<Cities> locations = [
     latitude: 6.85588490,
     longitude: 80.96526170,
   ),
-
   Cities(
     id: 198,
     districtId: 3,
@@ -2200,7 +2001,6 @@ final List<Cities> locations = [
     latitude: 6.89368620,
     longitude: 80.93736230,
   ),
-
   Cities(
     id: 199,
     districtId: 3,
@@ -2211,7 +2011,6 @@ final List<Cities> locations = [
     latitude: 7.01527780,
     longitude: 80.94000000,
   ),
-
   Cities(
     id: 200,
     districtId: 3,
@@ -2222,7 +2021,6 @@ final List<Cities> locations = [
     latitude: 7.57782550,
     longitude: 81.00368210,
   ),
-
   Cities(
     id: 201,
     districtId: 3,
@@ -2233,7 +2031,6 @@ final List<Cities> locations = [
     latitude: 6.80695100,
     longitude: 80.95720210,
   ),
-
   Cities(
     id: 202,
     districtId: 3,
@@ -2244,7 +2041,6 @@ final List<Cities> locations = [
     latitude: 6.85685410,
     longitude: 80.88343670,
   ),
-
   Cities(
     id: 203,
     districtId: 3,
@@ -2255,7 +2051,6 @@ final List<Cities> locations = [
     latitude: 7.29888840,
     longitude: 81.24086890,
   ),
-
   Cities(
     id: 204,
     districtId: 3,
@@ -2266,7 +2061,6 @@ final List<Cities> locations = [
     latitude: 6.86669880,
     longitude: 81.04655300,
   ),
-
   Cities(
     id: 205,
     districtId: 3,
@@ -2277,7 +2071,6 @@ final List<Cities> locations = [
     latitude: 6.93645060,
     longitude: 80.98779800,
   ),
-
   Cities(
     id: 206,
     districtId: 3,
@@ -2288,7 +2081,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 207,
     districtId: 3,
@@ -2299,7 +2091,6 @@ final List<Cities> locations = [
     latitude: 7.42852030,
     longitude: 81.03682110,
   ),
-
   Cities(
     id: 208,
     districtId: 3,
@@ -2310,7 +2101,6 @@ final List<Cities> locations = [
     latitude: 6.90284970,
     longitude: 81.07132610,
   ),
-
   Cities(
     id: 209,
     districtId: 3,
@@ -2321,7 +2111,6 @@ final List<Cities> locations = [
     latitude: 7.46291690,
     longitude: 81.01749170,
   ),
-
   Cities(
     id: 210,
     districtId: 3,
@@ -2332,7 +2121,6 @@ final List<Cities> locations = [
     latitude: 7.06682380,
     longitude: 80.97488400,
   ),
-
   Cities(
     id: 211,
     districtId: 3,
@@ -2343,7 +2131,6 @@ final List<Cities> locations = [
     latitude: 6.84350900,
     longitude: 80.90002230,
   ),
-
   Cities(
     id: 212,
     districtId: 3,
@@ -2354,7 +2141,6 @@ final List<Cities> locations = [
     latitude: 6.76892280,
     longitude: 80.89266810,
   ),
-
   Cities(
     id: 213,
     districtId: 3,
@@ -2365,7 +2151,6 @@ final List<Cities> locations = [
     latitude: 6.95552540,
     longitude: 81.03143840,
   ),
-
   Cities(
     id: 214,
     districtId: 3,
@@ -2376,7 +2161,6 @@ final List<Cities> locations = [
     latitude: 6.94950730,
     longitude: 80.87237050,
   ),
-
   Cities(
     id: 215,
     districtId: 3,
@@ -2387,7 +2171,6 @@ final List<Cities> locations = [
     latitude: 6.76541360,
     longitude: 80.95256550,
   ),
-
   Cities(
     id: 216,
     districtId: 3,
@@ -2398,7 +2181,6 @@ final List<Cities> locations = [
     latitude: 7.53197770,
     longitude: 80.98987010,
   ),
-
   Cities(
     id: 217,
     districtId: 3,
@@ -2409,7 +2191,6 @@ final List<Cities> locations = [
     latitude: 6.86669880,
     longitude: 81.04655300,
   ),
-
   Cities(
     id: 218,
     districtId: 3,
@@ -2420,7 +2201,6 @@ final List<Cities> locations = [
     latitude: 6.88928830,
     longitude: 81.03450680,
   ),
-
   Cities(
     id: 219,
     districtId: 3,
@@ -2431,7 +2211,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 220,
     districtId: 3,
@@ -2442,7 +2221,6 @@ final List<Cities> locations = [
     latitude: 6.98823220,
     longitude: 81.19748460,
   ),
-
   Cities(
     id: 221,
     districtId: 3,
@@ -2453,7 +2231,6 @@ final List<Cities> locations = [
     latitude: 6.78296900,
     longitude: 80.90003310,
   ),
-
   Cities(
     id: 222,
     districtId: 3,
@@ -2464,7 +2241,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 223,
     districtId: 3,
@@ -2475,7 +2251,6 @@ final List<Cities> locations = [
     latitude: 7.12266830,
     longitude: 81.09478080,
   ),
-
   Cities(
     id: 224,
     districtId: 3,
@@ -2486,7 +2261,6 @@ final List<Cities> locations = [
     latitude: 6.79100550,
     longitude: 80.84537710,
   ),
-
   Cities(
     id: 225,
     districtId: 3,
@@ -2497,7 +2271,6 @@ final List<Cities> locations = [
     latitude: 6.83496050,
     longitude: 80.99328360,
   ),
-
   Cities(
     id: 226,
     districtId: 3,
@@ -2508,7 +2281,6 @@ final List<Cities> locations = [
     latitude: 6.99275530,
     longitude: 81.10846340,
   ),
-
   Cities(
     id: 227,
     districtId: 3,
@@ -2519,7 +2291,6 @@ final List<Cities> locations = [
     latitude: 7.32834070,
     longitude: 81.09421320,
   ),
-
   Cities(
     id: 228,
     districtId: 3,
@@ -2530,7 +2301,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 229,
     districtId: 3,
@@ -2541,7 +2311,6 @@ final List<Cities> locations = [
     latitude: 6.77335170,
     longitude: 80.83121380,
   ),
-
   Cities(
     id: 230,
     districtId: 3,
@@ -2552,7 +2321,6 @@ final List<Cities> locations = [
     latitude: 6.74312340,
     longitude: 81.01783690,
   ),
-
   Cities(
     id: 231,
     districtId: 3,
@@ -2563,7 +2331,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 232,
     districtId: 3,
@@ -2574,7 +2341,6 @@ final List<Cities> locations = [
     latitude: 7.02684860,
     longitude: 81.09478080,
   ),
-
   Cities(
     id: 233,
     districtId: 3,
@@ -2585,7 +2351,6 @@ final List<Cities> locations = [
     latitude: 7.00514020,
     longitude: 81.00230100,
   ),
-
   Cities(
     id: 234,
     districtId: 3,
@@ -2596,7 +2361,6 @@ final List<Cities> locations = [
     latitude: 6.81189130,
     longitude: 81.02991830,
   ),
-
   Cities(
     id: 235,
     districtId: 3,
@@ -2607,7 +2371,6 @@ final List<Cities> locations = [
     latitude: 7.04036760,
     longitude: 81.20167370,
   ),
-
   Cities(
     id: 236,
     districtId: 3,
@@ -2618,7 +2381,6 @@ final List<Cities> locations = [
     latitude: 6.95572350,
     longitude: 80.91939120,
   ),
-
   Cities(
     id: 237,
     districtId: 3,
@@ -2629,7 +2391,6 @@ final List<Cities> locations = [
     latitude: 7.04667480,
     longitude: 81.15821120,
   ),
-
   Cities(
     id: 238,
     districtId: 3,
@@ -2640,7 +2401,6 @@ final List<Cities> locations = [
     latitude: 7.33161020,
     longitude: 81.00368210,
   ),
-
   Cities(
     id: 239,
     districtId: 3,
@@ -2651,7 +2411,6 @@ final List<Cities> locations = [
     latitude: 6.82919910,
     longitude: 81.03406010,
   ),
-
   Cities(
     id: 240,
     districtId: 3,
@@ -2662,7 +2421,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 241,
     districtId: 3,
@@ -2673,7 +2431,6 @@ final List<Cities> locations = [
     latitude: 7.28932120,
     longitude: 81.02577630,
   ),
-
   Cities(
     id: 242,
     districtId: 3,
@@ -2684,7 +2441,6 @@ final List<Cities> locations = [
     latitude: 7.02794930,
     longitude: 80.94427320,
   ),
-
   Cities(
     id: 243,
     districtId: 3,
@@ -2695,7 +2451,6 @@ final List<Cities> locations = [
     latitude: 6.91240280,
     longitude: 81.13856710,
   ),
-
   Cities(
     id: 244,
     districtId: 3,
@@ -2706,7 +2461,6 @@ final List<Cities> locations = [
     latitude: 7.59697890,
     longitude: 81.15269760,
   ),
-
   Cities(
     id: 245,
     districtId: 3,
@@ -2717,7 +2471,6 @@ final List<Cities> locations = [
     latitude: 6.86256990,
     longitude: 80.85776300,
   ),
-
   Cities(
     id: 246,
     districtId: 3,
@@ -2728,7 +2481,6 @@ final List<Cities> locations = [
     latitude: 7.01864620,
     longitude: 81.05639800,
   ),
-
   Cities(
     id: 247,
     districtId: 3,
@@ -2739,7 +2491,6 @@ final List<Cities> locations = [
     latitude: 7.07720390,
     longitude: 81.15407600,
   ),
-
   Cities(
     id: 248,
     districtId: 3,
@@ -2750,7 +2501,6 @@ final List<Cities> locations = [
     latitude: 6.87515400,
     longitude: 80.93397920,
   ),
-
   Cities(
     id: 249,
     districtId: 3,
@@ -2761,7 +2511,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 250,
     districtId: 3,
@@ -2772,7 +2521,6 @@ final List<Cities> locations = [
     latitude: 7.52535610,
     longitude: 81.05890600,
   ),
-
   Cities(
     id: 251,
     districtId: 3,
@@ -2783,7 +2531,6 @@ final List<Cities> locations = [
     latitude: 6.99417300,
     longitude: 81.07000500,
   ),
-
   Cities(
     id: 252,
     districtId: 3,
@@ -2794,7 +2541,6 @@ final List<Cities> locations = [
     latitude: 6.74527170,
     longitude: 80.97298900,
   ),
-
   Cities(
     id: 253,
     districtId: 3,
@@ -2805,7 +2551,6 @@ final List<Cities> locations = [
     latitude: 6.90191460,
     longitude: 80.90770790,
   ),
-
   Cities(
     id: 254,
     districtId: 3,
@@ -2816,7 +2561,6 @@ final List<Cities> locations = [
     latitude: 6.81901030,
     longitude: 80.84469840,
   ),
-
   Cities(
     id: 255,
     districtId: 3,
@@ -2827,7 +2571,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 256,
     districtId: 3,
@@ -2838,7 +2581,6 @@ final List<Cities> locations = [
     latitude: 7.01599390,
     longitude: 81.22434440,
   ),
-
   Cities(
     id: 257,
     districtId: 3,
@@ -2849,7 +2591,6 @@ final List<Cities> locations = [
     latitude: 6.93490880,
     longitude: 81.15269760,
   ),
-
   Cities(
     id: 258,
     districtId: 3,
@@ -2860,7 +2601,6 @@ final List<Cities> locations = [
     latitude: 6.90433540,
     longitude: 80.97438700,
   ),
-
   Cities(
     id: 259,
     districtId: 3,
@@ -2871,7 +2611,6 @@ final List<Cities> locations = [
     latitude: 6.96096040,
     longitude: 81.12512350,
   ),
-
   Cities(
     id: 260,
     districtId: 3,
@@ -2882,7 +2621,6 @@ final List<Cities> locations = [
     latitude: 6.94737520,
     longitude: 80.83078860,
   ),
-
   Cities(
     id: 261,
     districtId: 3,
@@ -2893,7 +2631,6 @@ final List<Cities> locations = [
     latitude: 7.11015220,
     longitude: 81.15916800,
   ),
-
   Cities(
     id: 262,
     districtId: 3,
@@ -2904,7 +2641,6 @@ final List<Cities> locations = [
     latitude: 6.80930280,
     longitude: 80.89173530,
   ),
-
   Cities(
     id: 263,
     districtId: 3,
@@ -2915,7 +2651,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 264,
     districtId: 3,
@@ -2926,7 +2661,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 265,
     districtId: 3,
@@ -2937,7 +2671,6 @@ final List<Cities> locations = [
     latitude: 6.80691400,
     longitude: 80.90556450,
   ),
-
   Cities(
     id: 266,
     districtId: 3,
@@ -2948,7 +2681,6 @@ final List<Cities> locations = [
     latitude: 7.21816000,
     longitude: 81.12050680,
   ),
-
   Cities(
     id: 267,
     districtId: 3,
@@ -2959,7 +2691,6 @@ final List<Cities> locations = [
     latitude: 6.91441390,
     longitude: 80.84193070,
   ),
-
   Cities(
     id: 268,
     districtId: 3,
@@ -2970,7 +2701,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 269,
     districtId: 3,
@@ -2981,7 +2711,6 @@ final List<Cities> locations = [
     latitude: 6.96852990,
     longitude: 80.91082680,
   ),
-
   Cities(
     id: 270,
     districtId: 3,
@@ -2992,7 +2721,6 @@ final List<Cities> locations = [
     latitude: 7.36061250,
     longitude: 80.98434460,
   ),
-
   Cities(
     id: 271,
     districtId: 3,
@@ -3003,7 +2731,6 @@ final List<Cities> locations = [
     latitude: 6.74491800,
     longitude: 80.89279720,
   ),
-
   Cities(
     id: 272,
     districtId: 3,
@@ -3014,7 +2741,6 @@ final List<Cities> locations = [
     latitude: 7.02284960,
     longitude: 81.04495180,
   ),
-
   Cities(
     id: 273,
     districtId: 3,
@@ -3025,7 +2751,6 @@ final List<Cities> locations = [
     latitude: 7.09199130,
     longitude: 81.04835830,
   ),
-
   Cities(
     id: 274,
     districtId: 3,
@@ -3036,7 +2761,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 275,
     districtId: 3,
@@ -3047,7 +2771,6 @@ final List<Cities> locations = [
     latitude: 6.94799280,
     longitude: 80.86268640,
   ),
-
   Cities(
     id: 276,
     districtId: 3,
@@ -3058,7 +2781,6 @@ final List<Cities> locations = [
     latitude: 7.26054430,
     longitude: 81.08523180,
   ),
-
   Cities(
     id: 277,
     districtId: 3,
@@ -3069,7 +2791,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 278,
     districtId: 3,
@@ -3080,7 +2801,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 279,
     districtId: 3,
@@ -3091,7 +2811,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 280,
     districtId: 3,
@@ -3102,7 +2821,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 281,
     districtId: 3,
@@ -3113,7 +2831,6 @@ final List<Cities> locations = [
     latitude: 6.90190720,
     longitude: 80.90792450,
   ),
-
   Cities(
     id: 282,
     districtId: 3,
@@ -3124,7 +2841,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 283,
     districtId: 3,
@@ -3135,7 +2851,6 @@ final List<Cities> locations = [
     latitude: 7.38626820,
     longitude: 81.16441360,
   ),
-
   Cities(
     id: 284,
     districtId: 3,
@@ -3146,7 +2861,6 @@ final List<Cities> locations = [
     latitude: 6.98088050,
     longitude: 81.07696420,
   ),
-
   Cities(
     id: 285,
     districtId: 3,
@@ -3157,7 +2871,6 @@ final List<Cities> locations = [
     latitude: 6.98189520,
     longitude: 81.07628300,
   ),
-
   Cities(
     id: 286,
     districtId: 3,
@@ -3168,7 +2881,6 @@ final List<Cities> locations = [
     latitude: 7.26420680,
     longitude: 81.15676260,
   ),
-
   Cities(
     id: 287,
     districtId: 4,
@@ -3179,7 +2891,6 @@ final List<Cities> locations = [
     latitude: 7.24425790,
     longitude: 81.85480710,
   ),
-
   Cities(
     id: 288,
     districtId: 4,
@@ -3190,7 +2901,6 @@ final List<Cities> locations = [
     latitude: 7.71655610,
     longitude: 81.69881720,
   ),
-
   Cities(
     id: 289,
     districtId: 4,
@@ -3201,7 +2911,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 290,
     districtId: 4,
@@ -3212,7 +2921,6 @@ final List<Cities> locations = [
     latitude: 7.67361980,
     longitude: 81.57030650,
   ),
-
   Cities(
     id: 291,
     districtId: 4,
@@ -3223,7 +2931,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 292,
     districtId: 4,
@@ -3234,7 +2941,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 293,
     districtId: 4,
@@ -3245,7 +2951,6 @@ final List<Cities> locations = [
     latitude: 7.57957080,
     longitude: 81.78493010,
   ),
-
   Cities(
     id: 294,
     districtId: 4,
@@ -3256,7 +2961,6 @@ final List<Cities> locations = [
     latitude: 7.78585710,
     longitude: 81.58980160,
   ),
-
   Cities(
     id: 295,
     districtId: 4,
@@ -3267,7 +2971,6 @@ final List<Cities> locations = [
     latitude: 7.77689720,
     longitude: 81.60420280,
   ),
-
   Cities(
     id: 296,
     districtId: 4,
@@ -3278,7 +2981,6 @@ final List<Cities> locations = [
     latitude: 7.52937250,
     longitude: 81.79460920,
   ),
-
   Cities(
     id: 297,
     districtId: 4,
@@ -3289,7 +2991,6 @@ final List<Cities> locations = [
     latitude: 7.52937250,
     longitude: 81.79460920,
   ),
-
   Cities(
     id: 298,
     districtId: 4,
@@ -3300,7 +3001,6 @@ final List<Cities> locations = [
     latitude: 7.67886980,
     longitude: 81.67250220,
   ),
-
   Cities(
     id: 299,
     districtId: 4,
@@ -3311,7 +3011,6 @@ final List<Cities> locations = [
     latitude: 7.70074660,
     longitude: 81.53838700,
   ),
-
   Cities(
     id: 300,
     districtId: 4,
@@ -3322,7 +3021,6 @@ final List<Cities> locations = [
     latitude: 8.22288100,
     longitude: 81.40385770,
   ),
-
   Cities(
     id: 301,
     districtId: 4,
@@ -3333,7 +3031,6 @@ final List<Cities> locations = [
     latitude: 7.68536950,
     longitude: 81.72601230,
   ),
-
   Cities(
     id: 302,
     districtId: 4,
@@ -3344,7 +3041,6 @@ final List<Cities> locations = [
     latitude: 7.86777970,
     longitude: 81.51026550,
   ),
-
   Cities(
     id: 303,
     districtId: 4,
@@ -3355,7 +3051,6 @@ final List<Cities> locations = [
     latitude: 7.60532060,
     longitude: 81.76838280,
   ),
-
   Cities(
     id: 304,
     districtId: 4,
@@ -3366,7 +3061,6 @@ final List<Cities> locations = [
     latitude: 7.48387900,
     longitude: 81.80798530,
   ),
-
   Cities(
     id: 305,
     districtId: 4,
@@ -3377,7 +3071,6 @@ final List<Cities> locations = [
     latitude: 7.61605700,
     longitude: 81.71031550,
   ),
-
   Cities(
     id: 306,
     districtId: 4,
@@ -3388,7 +3081,6 @@ final List<Cities> locations = [
     latitude: 7.58799500,
     longitude: 81.78041500,
   ),
-
   Cities(
     id: 307,
     districtId: 4,
@@ -3399,7 +3091,6 @@ final List<Cities> locations = [
     latitude: 7.48266490,
     longitude: 81.75409020,
   ),
-
   Cities(
     id: 308,
     districtId: 4,
@@ -3410,7 +3101,6 @@ final List<Cities> locations = [
     latitude: 7.88934640,
     longitude: 81.51026550,
   ),
-
   Cities(
     id: 309,
     districtId: 4,
@@ -3421,7 +3111,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 310,
     districtId: 4,
@@ -3432,7 +3121,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 311,
     districtId: 4,
@@ -3443,7 +3131,6 @@ final List<Cities> locations = [
     latitude: 7.20452670,
     longitude: 81.84019570,
   ),
-
   Cities(
     id: 312,
     districtId: 4,
@@ -3454,7 +3141,6 @@ final List<Cities> locations = [
     latitude: 7.90310760,
     longitude: 81.52398460,
   ),
-
   Cities(
     id: 313,
     districtId: 4,
@@ -3465,7 +3151,6 @@ final List<Cities> locations = [
     latitude: 7.66111430,
     longitude: 81.74725220,
   ),
-
   Cities(
     id: 314,
     districtId: 4,
@@ -3476,7 +3161,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 315,
     districtId: 4,
@@ -3487,7 +3171,6 @@ final List<Cities> locations = [
     latitude: 7.51916300,
     longitude: 81.76913180,
   ),
-
   Cities(
     id: 316,
     districtId: 4,
@@ -3498,7 +3181,6 @@ final List<Cities> locations = [
     latitude: 7.58167990,
     longitude: 81.46085600,
   ),
-
   Cities(
     id: 317,
     districtId: 4,
@@ -3509,7 +3191,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 318,
     districtId: 4,
@@ -3520,7 +3201,6 @@ final List<Cities> locations = [
     latitude: 7.96500740,
     longitude: 81.38897480,
   ),
-
   Cities(
     id: 319,
     districtId: 4,
@@ -3531,7 +3211,6 @@ final List<Cities> locations = [
     latitude: 7.75310300,
     longitude: 81.63780190,
   ),
-
   Cities(
     id: 320,
     districtId: 4,
@@ -3542,7 +3221,6 @@ final List<Cities> locations = [
     latitude: 7.55581030,
     longitude: 81.79670110,
   ),
-
   Cities(
     id: 321,
     districtId: 4,
@@ -3553,7 +3231,6 @@ final List<Cities> locations = [
     latitude: 7.52434860,
     longitude: 81.68841840,
   ),
-
   Cities(
     id: 322,
     districtId: 4,
@@ -3564,7 +3241,6 @@ final List<Cities> locations = [
     latitude: 7.73099710,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 323,
     districtId: 4,
@@ -3575,7 +3251,6 @@ final List<Cities> locations = [
     latitude: 7.61828800,
     longitude: 81.54882070,
   ),
-
   Cities(
     id: 324,
     districtId: 4,
@@ -3586,7 +3261,6 @@ final List<Cities> locations = [
     latitude: 7.92654340,
     longitude: 81.48281980,
   ),
-
   Cities(
     id: 325,
     districtId: 4,
@@ -3597,7 +3271,6 @@ final List<Cities> locations = [
     latitude: 8.13690990,
     longitude: 81.43407900,
   ),
-
   Cities(
     id: 326,
     districtId: 4,
@@ -3608,7 +3281,6 @@ final List<Cities> locations = [
     latitude: 7.92132760,
     longitude: 81.52467050,
   ),
-
   Cities(
     id: 327,
     districtId: 4,
@@ -3619,7 +3291,6 @@ final List<Cities> locations = [
     latitude: 7.79058820,
     longitude: 81.55690030,
   ),
-
   Cities(
     id: 328,
     districtId: 4,
@@ -3630,7 +3301,6 @@ final List<Cities> locations = [
     latitude: 7.49561360,
     longitude: 81.72947020,
   ),
-
   Cities(
     id: 329,
     districtId: 5,
@@ -3641,7 +3311,6 @@ final List<Cities> locations = [
     latitude: 6.84221160,
     longitude: 80.00302570,
   ),
-
   Cities(
     id: 330,
     districtId: 5,
@@ -3652,7 +3321,6 @@ final List<Cities> locations = [
     latitude: 6.77508470,
     longitude: 79.96543240,
   ),
-
   Cities(
     id: 331,
     districtId: 5,
@@ -3663,7 +3331,6 @@ final List<Cities> locations = [
     latitude: 6.87231850,
     longitude: 80.00038750,
   ),
-
   Cities(
     id: 332,
     districtId: 5,
@@ -3674,7 +3341,6 @@ final List<Cities> locations = [
     latitude: 6.95432890,
     longitude: 80.20457680,
   ),
-
   Cities(
     id: 333,
     districtId: 5,
@@ -3685,7 +3351,6 @@ final List<Cities> locations = [
     latitude: 6.87742700,
     longitude: 80.05488940,
   ),
-
   Cities(
     id: 334,
     districtId: 5,
@@ -3696,7 +3361,6 @@ final List<Cities> locations = [
     latitude: 6.89838190,
     longitude: 79.91784130,
   ),
-
   Cities(
     id: 335,
     districtId: 5,
@@ -3707,7 +3371,6 @@ final List<Cities> locations = [
     latitude: 6.94621530,
     longitude: 79.98920340,
   ),
-
   Cities(
     id: 336,
     districtId: 5,
@@ -3718,7 +3381,6 @@ final List<Cities> locations = [
     latitude: 6.82488950,
     longitude: 80.13727570,
   ),
-
   Cities(
     id: 337,
     districtId: 5,
@@ -3729,7 +3391,6 @@ final List<Cities> locations = [
     latitude: 6.82335500,
     longitude: 79.90902460,
   ),
-
   Cities(
     id: 338,
     districtId: 5,
@@ -3740,7 +3401,6 @@ final List<Cities> locations = [
     latitude: 6.91217960,
     longitude: 79.88288280,
   ),
-
   Cities(
     id: 339,
     districtId: 5,
@@ -3751,7 +3411,6 @@ final List<Cities> locations = [
     latitude: 6.89801900,
     longitude: 80.02694400,
   ),
-
   Cities(
     id: 340,
     districtId: 5,
@@ -3762,7 +3421,6 @@ final List<Cities> locations = [
     latitude: 6.83011850,
     longitude: 79.88008320,
   ),
-
   Cities(
     id: 341,
     districtId: 5,
@@ -3773,7 +3431,6 @@ final List<Cities> locations = [
     latitude: 6.78513280,
     longitude: 79.91371250,
   ),
-
   Cities(
     id: 342,
     districtId: 5,
@@ -3784,7 +3441,6 @@ final List<Cities> locations = [
     latitude: 6.86596670,
     longitude: 80.01296790,
   ),
-
   Cities(
     id: 343,
     districtId: 5,
@@ -3795,7 +3451,6 @@ final List<Cities> locations = [
     latitude: 6.89783440,
     longitude: 80.08142920,
   ),
-
   Cities(
     id: 344,
     districtId: 5,
@@ -3806,7 +3461,6 @@ final List<Cities> locations = [
     latitude: 6.83346570,
     longitude: 79.97661950,
   ),
-
   Cities(
     id: 345,
     districtId: 5,
@@ -3817,7 +3471,6 @@ final List<Cities> locations = [
     latitude: 6.87431920,
     longitude: 79.96962770,
   ),
-
   Cities(
     id: 346,
     districtId: 5,
@@ -3828,7 +3481,6 @@ final List<Cities> locations = [
     latitude: 6.84327620,
     longitude: 80.00318330,
   ),
-
   Cities(
     id: 347,
     districtId: 5,
@@ -3839,7 +3491,6 @@ final List<Cities> locations = [
     latitude: 6.81482950,
     longitude: 80.07236730,
   ),
-
   Cities(
     id: 348,
     districtId: 5,
@@ -3850,7 +3501,6 @@ final List<Cities> locations = [
     latitude: 6.94058620,
     longitude: 79.95226860,
   ),
-
   Cities(
     id: 349,
     districtId: 5,
@@ -3861,7 +3511,6 @@ final List<Cities> locations = [
     latitude: 6.93278990,
     longitude: 80.10656460,
   ),
-
   Cities(
     id: 350,
     districtId: 5,
@@ -3872,7 +3521,6 @@ final List<Cities> locations = [
     latitude: 6.94498250,
     longitude: 80.07466280,
   ),
-
   Cities(
     id: 351,
     districtId: 5,
@@ -3883,7 +3531,6 @@ final List<Cities> locations = [
     latitude: 6.93352580,
     longitude: 79.85978310,
   ),
-
   Cities(
     id: 352,
     districtId: 5,
@@ -3894,7 +3541,6 @@ final List<Cities> locations = [
     latitude: 6.80237970,
     longitude: 80.00737680,
   ),
-
   Cities(
     id: 353,
     districtId: 5,
@@ -3905,7 +3551,6 @@ final List<Cities> locations = [
     latitude: 6.92801560,
     longitude: 79.89083080,
   ),
-
   Cities(
     id: 354,
     districtId: 5,
@@ -3916,7 +3561,6 @@ final List<Cities> locations = [
     latitude: 6.93971650,
     longitude: 80.13692680,
   ),
-
   Cities(
     id: 355,
     districtId: 5,
@@ -3927,7 +3571,6 @@ final List<Cities> locations = [
     latitude: 6.76904650,
     longitude: 79.92906420,
   ),
-
   Cities(
     id: 356,
     districtId: 5,
@@ -3938,7 +3581,6 @@ final List<Cities> locations = [
     latitude: 6.84780040,
     longitude: 79.92176150,
   ),
-
   Cities(
     id: 357,
     districtId: 5,
@@ -3949,7 +3591,6 @@ final List<Cities> locations = [
     latitude: 6.90784830,
     longitude: 79.94740870,
   ),
-
   Cities(
     id: 358,
     districtId: 5,
@@ -3960,7 +3601,6 @@ final List<Cities> locations = [
     latitude: 6.78807060,
     longitude: 79.89128130,
   ),
-
   Cities(
     id: 359,
     districtId: 5,
@@ -3971,7 +3611,6 @@ final List<Cities> locations = [
     latitude: 6.82215880,
     longitude: 79.87317740,
   ),
-
   Cities(
     id: 360,
     districtId: 5,
@@ -3982,7 +3621,6 @@ final List<Cities> locations = [
     latitude: 6.88452810,
     longitude: 80.01285620,
   ),
-
   Cities(
     id: 361,
     districtId: 5,
@@ -3993,7 +3631,6 @@ final List<Cities> locations = [
     latitude: 6.89641910,
     longitude: 79.88848190,
   ),
-
   Cities(
     id: 362,
     districtId: 5,
@@ -4004,7 +3641,6 @@ final List<Cities> locations = [
     latitude: 6.86490810,
     longitude: 79.89967890,
   ),
-
   Cities(
     id: 363,
     districtId: 5,
@@ -4015,7 +3651,6 @@ final List<Cities> locations = [
     latitude: 6.84536340,
     longitude: 80.10377210,
   ),
-
   Cities(
     id: 364,
     districtId: 5,
@@ -4026,7 +3661,6 @@ final List<Cities> locations = [
     latitude: 6.84639930,
     longitude: 79.94843460,
   ),
-
   Cities(
     id: 365,
     districtId: 5,
@@ -4037,7 +3671,6 @@ final List<Cities> locations = [
     latitude: 6.80175750,
     longitude: 79.92273130,
   ),
-
   Cities(
     id: 366,
     districtId: 5,
@@ -4048,7 +3681,6 @@ final List<Cities> locations = [
     latitude: 6.84444250,
     longitude: 80.02062030,
   ),
-
   Cities(
     id: 367,
     districtId: 5,
@@ -4059,7 +3691,6 @@ final List<Cities> locations = [
     latitude: 6.78993580,
     longitude: 79.98081430,
   ),
-
   Cities(
     id: 368,
     districtId: 5,
@@ -4070,7 +3701,6 @@ final List<Cities> locations = [
     latitude: 6.95903420,
     longitude: 80.13172030,
   ),
-
   Cities(
     id: 369,
     districtId: 5,
@@ -4081,7 +3711,6 @@ final List<Cities> locations = [
     latitude: 6.91537590,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 370,
     districtId: 5,
@@ -4092,7 +3721,6 @@ final List<Cities> locations = [
     latitude: 6.81725160,
     longitude: 79.95983830,
   ),
-
   Cities(
     id: 371,
     districtId: 5,
@@ -4103,7 +3731,6 @@ final List<Cities> locations = [
     latitude: 6.79228810,
     longitude: 79.96683080,
   ),
-
   Cities(
     id: 372,
     districtId: 5,
@@ -4114,7 +3741,6 @@ final List<Cities> locations = [
     latitude: 6.87927560,
     longitude: 79.90080740,
   ),
-
   Cities(
     id: 373,
     districtId: 5,
@@ -4125,7 +3751,6 @@ final List<Cities> locations = [
     latitude: 6.87586480,
     longitude: 79.93919360,
   ),
-
   Cities(
     id: 374,
     districtId: 5,
@@ -4136,7 +3761,6 @@ final List<Cities> locations = [
     latitude: 6.86589500,
     longitude: 80.16906420,
   ),
-
   Cities(
     id: 375,
     districtId: 5,
@@ -4147,7 +3771,6 @@ final List<Cities> locations = [
     latitude: 6.88051870,
     longitude: 80.14006710,
   ),
-
   Cities(
     id: 376,
     districtId: 5,
@@ -4158,7 +3781,6 @@ final List<Cities> locations = [
     latitude: 6.87465790,
     longitude: 79.86048310,
   ),
-
   Cities(
     id: 377,
     districtId: 6,
@@ -4169,7 +3791,6 @@ final List<Cities> locations = [
     latitude: 6.00854630,
     longitude: 80.24223830,
   ),
-
   Cities(
     id: 378,
     districtId: 6,
@@ -4180,7 +3801,6 @@ final List<Cities> locations = [
     latitude: 5.97397470,
     longitude: 80.36215950,
   ),
-
   Cities(
     id: 379,
     districtId: 6,
@@ -4191,7 +3811,6 @@ final List<Cities> locations = [
     latitude: 6.31327760,
     longitude: 80.04091780,
   ),
-
   Cities(
     id: 380,
     districtId: 6,
@@ -4202,7 +3821,6 @@ final List<Cities> locations = [
     latitude: 6.08363060,
     longitude: 80.29623850,
   ),
-
   Cities(
     id: 381,
     districtId: 6,
@@ -4213,7 +3831,6 @@ final List<Cities> locations = [
     latitude: 7.40899340,
     longitude: 80.61879420,
   ),
-
   Cities(
     id: 382,
     districtId: 6,
@@ -4224,7 +3841,6 @@ final List<Cities> locations = [
     latitude: 6.18019580,
     longitude: 80.14006710,
   ),
-
   Cities(
     id: 383,
     districtId: 6,
@@ -4235,7 +3851,6 @@ final List<Cities> locations = [
     latitude: 6.19467440,
     longitude: 80.14425400,
   ),
-
   Cities(
     id: 384,
     districtId: 6,
@@ -4246,7 +3861,6 @@ final List<Cities> locations = [
     latitude: 6.32125570,
     longitude: 80.21888580,
   ),
-
   Cities(
     id: 385,
     districtId: 6,
@@ -4257,7 +3871,6 @@ final List<Cities> locations = [
     latitude: 6.04756420,
     longitude: 80.25304120,
   ),
-
   Cities(
     id: 386,
     districtId: 6,
@@ -4268,7 +3881,6 @@ final List<Cities> locations = [
     latitude: 6.03185250,
     longitude: 80.32409600,
   ),
-
   Cities(
     id: 387,
     districtId: 6,
@@ -4279,7 +3891,6 @@ final List<Cities> locations = [
     latitude: 6.05329180,
     longitude: 80.28091290,
   ),
-
   Cities(
     id: 388,
     districtId: 6,
@@ -4290,7 +3901,6 @@ final List<Cities> locations = [
     latitude: 6.05351850,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 389,
     districtId: 6,
@@ -4301,7 +3911,6 @@ final List<Cities> locations = [
     latitude: 6.16882920,
     longitude: 80.17939760,
   ),
-
   Cities(
     id: 390,
     districtId: 6,
@@ -4312,7 +3921,6 @@ final List<Cities> locations = [
     latitude: 6.27835460,
     longitude: 80.04030470,
   ),
-
   Cities(
     id: 391,
     districtId: 6,
@@ -4323,7 +3931,6 @@ final List<Cities> locations = [
     latitude: 6.28153610,
     longitude: 80.42590530,
   ),
-
   Cities(
     id: 392,
     districtId: 6,
@@ -4334,7 +3941,6 @@ final List<Cities> locations = [
     latitude: 6.22418210,
     longitude: 80.11383690,
   ),
-
   Cities(
     id: 393,
     districtId: 6,
@@ -4345,7 +3951,6 @@ final List<Cities> locations = [
     latitude: 6.41891750,
     longitude: 80.00597900,
   ),
-
   Cities(
     id: 394,
     districtId: 6,
@@ -4356,7 +3961,6 @@ final List<Cities> locations = [
     latitude: 6.08894940,
     longitude: 80.15606480,
   ),
-
   Cities(
     id: 395,
     districtId: 6,
@@ -4367,7 +3971,6 @@ final List<Cities> locations = [
     latitude: 6.32489590,
     longitude: 80.44934050,
   ),
-
   Cities(
     id: 396,
     districtId: 6,
@@ -4378,7 +3981,6 @@ final List<Cities> locations = [
     latitude: 6.01834760,
     longitude: 80.37282450,
   ),
-
   Cities(
     id: 397,
     districtId: 6,
@@ -4389,7 +3991,6 @@ final List<Cities> locations = [
     latitude: 6.10283470,
     longitude: 80.13029690,
   ),
-
   Cities(
     id: 398,
     districtId: 6,
@@ -4400,7 +4001,6 @@ final List<Cities> locations = [
     latitude: 6.05774900,
     longitude: 80.21755720,
   ),
-
   Cities(
     id: 399,
     districtId: 6,
@@ -4411,7 +4011,6 @@ final List<Cities> locations = [
     latitude: 6.28799690,
     longitude: 80.15960410,
   ),
-
   Cities(
     id: 400,
     districtId: 6,
@@ -4422,7 +4021,6 @@ final List<Cities> locations = [
     latitude: 6.04819180,
     longitude: 80.21539980,
   ),
-
   Cities(
     id: 401,
     districtId: 6,
@@ -4433,7 +4031,6 @@ final List<Cities> locations = [
     latitude: 6.12970640,
     longitude: 80.16937100,
   ),
-
   Cities(
     id: 402,
     districtId: 6,
@@ -4444,7 +4041,6 @@ final List<Cities> locations = [
     latitude: 6.06001210,
     longitude: 80.18002210,
   ),
-
   Cities(
     id: 403,
     districtId: 6,
@@ -4455,7 +4051,6 @@ final List<Cities> locations = [
     latitude: 6.23458620,
     longitude: 80.07456270,
   ),
-
   Cities(
     id: 404,
     districtId: 6,
@@ -4466,7 +4061,6 @@ final List<Cities> locations = [
     latitude: 6.08208300,
     longitude: 80.29091100,
   ),
-
   Cities(
     id: 405,
     districtId: 6,
@@ -4477,7 +4071,6 @@ final List<Cities> locations = [
     latitude: 6.14345180,
     longitude: 80.13448420,
   ),
-
   Cities(
     id: 406,
     districtId: 6,
@@ -4488,7 +4081,6 @@ final List<Cities> locations = [
     latitude: 5.99835900,
     longitude: 80.30782020,
   ),
-
   Cities(
     id: 407,
     districtId: 6,
@@ -4499,7 +4091,6 @@ final List<Cities> locations = [
     latitude: 6.40370130,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 408,
     districtId: 6,
@@ -4510,7 +4101,6 @@ final List<Cities> locations = [
     latitude: 6.13946760,
     longitude: 80.10628610,
   ),
-
   Cities(
     id: 409,
     districtId: 6,
@@ -4521,7 +4111,6 @@ final List<Cities> locations = [
     latitude: 6.30944820,
     longitude: 80.32409600,
   ),
-
   Cities(
     id: 410,
     districtId: 6,
@@ -4532,7 +4121,6 @@ final List<Cities> locations = [
     latitude: 6.07201140,
     longitude: 80.34258010,
   ),
-
   Cities(
     id: 411,
     districtId: 6,
@@ -4543,7 +4131,6 @@ final List<Cities> locations = [
     latitude: 6.22345150,
     longitude: 80.21261090,
   ),
-
   Cities(
     id: 412,
     districtId: 6,
@@ -4554,7 +4141,6 @@ final List<Cities> locations = [
     latitude: 6.18818520,
     longitude: 80.07723920,
   ),
-
   Cities(
     id: 413,
     districtId: 6,
@@ -4565,7 +4151,6 @@ final List<Cities> locations = [
     latitude: 6.03524350,
     longitude: 80.21049500,
   ),
-
   Cities(
     id: 414,
     districtId: 6,
@@ -4576,7 +4161,6 @@ final List<Cities> locations = [
     latitude: 6.26832170,
     longitude: 80.08980850,
   ),
-
   Cities(
     id: 415,
     districtId: 6,
@@ -4587,7 +4171,6 @@ final List<Cities> locations = [
     latitude: 6.33544240,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 416,
     districtId: 6,
@@ -4598,7 +4181,6 @@ final List<Cities> locations = [
     latitude: 6.10781390,
     longitude: 80.30358840,
   ),
-
   Cities(
     id: 417,
     districtId: 6,
@@ -4609,7 +4191,6 @@ final List<Cities> locations = [
     latitude: 6.96152440,
     longitude: 80.93610230,
   ),
-
   Cities(
     id: 418,
     districtId: 6,
@@ -4620,7 +4201,6 @@ final List<Cities> locations = [
     latitude: 6.21382060,
     longitude: 80.07033080,
   ),
-
   Cities(
     id: 419,
     districtId: 6,
@@ -4631,7 +4211,6 @@ final List<Cities> locations = [
     latitude: 6.09993990,
     longitude: 80.40343930,
   ),
-
   Cities(
     id: 420,
     districtId: 6,
@@ -4642,7 +4221,6 @@ final List<Cities> locations = [
     latitude: 6.68192410,
     longitude: 80.40587410,
   ),
-
   Cities(
     id: 421,
     districtId: 6,
@@ -4653,7 +4231,6 @@ final List<Cities> locations = [
     latitude: 6.22356070,
     longitude: 80.28927270,
   ),
-
   Cities(
     id: 422,
     districtId: 6,
@@ -4664,7 +4241,6 @@ final List<Cities> locations = [
     latitude: 6.22356070,
     longitude: 80.28927270,
   ),
-
   Cities(
     id: 423,
     districtId: 6,
@@ -4675,7 +4251,6 @@ final List<Cities> locations = [
     latitude: 6.30295010,
     longitude: 80.25722250,
   ),
-
   Cities(
     id: 424,
     districtId: 6,
@@ -4686,7 +4261,6 @@ final List<Cities> locations = [
     latitude: 6.11400500,
     longitude: 80.24049590,
   ),
-
   Cities(
     id: 425,
     districtId: 6,
@@ -4697,7 +4271,6 @@ final List<Cities> locations = [
     latitude: 6.18983430,
     longitude: 80.09539420,
   ),
-
   Cities(
     id: 426,
     districtId: 6,
@@ -4708,7 +4281,6 @@ final List<Cities> locations = [
     latitude: 6.19797800,
     longitude: 80.27465470,
   ),
-
   Cities(
     id: 427,
     districtId: 6,
@@ -4719,7 +4291,6 @@ final List<Cities> locations = [
     latitude: 6.14332850,
     longitude: 80.34219840,
   ),
-
   Cities(
     id: 428,
     districtId: 6,
@@ -4730,7 +4301,6 @@ final List<Cities> locations = [
     latitude: 6.31123550,
     longitude: 80.14006710,
   ),
-
   Cities(
     id: 429,
     districtId: 6,
@@ -4741,7 +4311,6 @@ final List<Cities> locations = [
     latitude: 6.37310280,
     longitude: 80.35751280,
   ),
-
   Cities(
     id: 430,
     districtId: 6,
@@ -4752,7 +4321,6 @@ final List<Cities> locations = [
     latitude: 6.20709000,
     longitude: 80.10796080,
   ),
-
   Cities(
     id: 431,
     districtId: 6,
@@ -4763,7 +4331,6 @@ final List<Cities> locations = [
     latitude: 6.29379580,
     longitude: 80.47158660,
   ),
-
   Cities(
     id: 432,
     districtId: 6,
@@ -4774,7 +4341,6 @@ final List<Cities> locations = [
     latitude: 6.26290960,
     longitude: 80.32370430,
   ),
-
   Cities(
     id: 433,
     districtId: 6,
@@ -4785,7 +4351,6 @@ final List<Cities> locations = [
     latitude: 6.35379140,
     longitude: 80.40869950,
   ),
-
   Cities(
     id: 434,
     districtId: 6,
@@ -4796,7 +4361,6 @@ final List<Cities> locations = [
     latitude: 6.23054990,
     longitude: 80.31295410,
   ),
-
   Cities(
     id: 435,
     districtId: 6,
@@ -4807,7 +4371,6 @@ final List<Cities> locations = [
     latitude: 6.05351850,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 436,
     districtId: 6,
@@ -4818,7 +4381,6 @@ final List<Cities> locations = [
     latitude: 6.34195530,
     longitude: 80.23770780,
   ),
-
   Cities(
     id: 437,
     districtId: 6,
@@ -4829,7 +4391,6 @@ final List<Cities> locations = [
     latitude: 6.10846880,
     longitude: 80.22376600,
   ),
-
   Cities(
     id: 438,
     districtId: 6,
@@ -4840,7 +4401,6 @@ final List<Cities> locations = [
     latitude: 6.46518930,
     longitude: 80.19612050,
   ),
-
   Cities(
     id: 439,
     districtId: 6,
@@ -4851,7 +4411,6 @@ final List<Cities> locations = [
     latitude: 6.28720780,
     longitude: 80.22494260,
   ),
-
   Cities(
     id: 440,
     districtId: 6,
@@ -4862,7 +4421,6 @@ final List<Cities> locations = [
     latitude: 6.05351850,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 441,
     districtId: 6,
@@ -4873,7 +4431,6 @@ final List<Cities> locations = [
     latitude: 6.08706280,
     longitude: 80.30354180,
   ),
-
   Cities(
     id: 442,
     districtId: 6,
@@ -4884,7 +4441,6 @@ final List<Cities> locations = [
     latitude: 6.05423480,
     longitude: 80.22446310,
   ),
-
   Cities(
     id: 443,
     districtId: 6,
@@ -4895,7 +4451,6 @@ final List<Cities> locations = [
     latitude: 6.00099540,
     longitude: 80.27812620,
   ),
-
   Cities(
     id: 444,
     districtId: 6,
@@ -4906,7 +4461,6 @@ final List<Cities> locations = [
     latitude: 6.33472690,
     longitude: 80.34219840,
   ),
-
   Cities(
     id: 445,
     districtId: 6,
@@ -4917,7 +4471,6 @@ final List<Cities> locations = [
     latitude: 6.12857980,
     longitude: 80.11121550,
   ),
-
   Cities(
     id: 446,
     districtId: 6,
@@ -4928,7 +4481,6 @@ final List<Cities> locations = [
     latitude: 6.18359350,
     longitude: 80.29825070,
   ),
-
   Cities(
     id: 447,
     districtId: 6,
@@ -4939,7 +4491,6 @@ final List<Cities> locations = [
     latitude: 6.21790470,
     longitude: 80.33802130,
   ),
-
   Cities(
     id: 448,
     districtId: 6,
@@ -4950,7 +4501,6 @@ final List<Cities> locations = [
     latitude: 6.08339890,
     longitude: 80.21121640,
   ),
-
   Cities(
     id: 449,
     districtId: 6,
@@ -4961,7 +4511,6 @@ final List<Cities> locations = [
     latitude: 6.01744690,
     longitude: 80.24885960,
   ),
-
   Cities(
     id: 450,
     districtId: 6,
@@ -4972,7 +4521,6 @@ final List<Cities> locations = [
     latitude: 6.05351850,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 451,
     districtId: 6,
@@ -4983,7 +4531,6 @@ final List<Cities> locations = [
     latitude: 6.34904400,
     longitude: 80.09786370,
   ),
-
   Cities(
     id: 452,
     districtId: 6,
@@ -4994,7 +4541,6 @@ final List<Cities> locations = [
     latitude: 6.34904400,
     longitude: 80.09786370,
   ),
-
   Cities(
     id: 453,
     districtId: 6,
@@ -5005,7 +4551,6 @@ final List<Cities> locations = [
     latitude: 6.09216840,
     longitude: 80.19029630,
   ),
-
   Cities(
     id: 454,
     districtId: 6,
@@ -5016,7 +4561,6 @@ final List<Cities> locations = [
     latitude: 6.05155910,
     longitude: 80.25722250,
   ),
-
   Cities(
     id: 455,
     districtId: 6,
@@ -5027,7 +4571,6 @@ final List<Cities> locations = [
     latitude: 6.03571080,
     longitude: 80.26859670,
   ),
-
   Cities(
     id: 456,
     districtId: 6,
@@ -5038,7 +4581,6 @@ final List<Cities> locations = [
     latitude: 6.13247130,
     longitude: 80.24885960,
   ),
-
   Cities(
     id: 457,
     districtId: 6,
@@ -5049,7 +4591,6 @@ final List<Cities> locations = [
     latitude: 6.36610380,
     longitude: 80.40483060,
   ),
-
   Cities(
     id: 458,
     districtId: 6,
@@ -5060,7 +4601,6 @@ final List<Cities> locations = [
     latitude: 6.26121210,
     longitude: 80.06047740,
   ),
-
   Cities(
     id: 459,
     districtId: 6,
@@ -5071,7 +4611,6 @@ final List<Cities> locations = [
     latitude: 6.30777980,
     longitude: 80.23491960,
   ),
-
   Cities(
     id: 460,
     districtId: 6,
@@ -5082,7 +4621,6 @@ final List<Cities> locations = [
     latitude: 7.94596540,
     longitude: 81.24912980,
   ),
-
   Cities(
     id: 461,
     districtId: 6,
@@ -5093,7 +4631,6 @@ final List<Cities> locations = [
     latitude: 6.00417960,
     longitude: 80.41381130,
   ),
-
   Cities(
     id: 462,
     districtId: 6,
@@ -5104,7 +4641,6 @@ final List<Cities> locations = [
     latitude: 6.10134950,
     longitude: 80.35910020,
   ),
-
   Cities(
     id: 463,
     districtId: 6,
@@ -5115,7 +4651,6 @@ final List<Cities> locations = [
     latitude: 6.17373330,
     longitude: 80.28648620,
   ),
-
   Cities(
     id: 464,
     districtId: 7,
@@ -5126,7 +4661,6 @@ final List<Cities> locations = [
     latitude: 7.27348030,
     longitude: 79.95704110,
   ),
-
   Cities(
     id: 465,
     districtId: 7,
@@ -5137,7 +4671,6 @@ final List<Cities> locations = [
     latitude: 7.08445090,
     longitude: 80.06533660,
   ),
-
   Cities(
     id: 466,
     districtId: 7,
@@ -5148,7 +4681,6 @@ final List<Cities> locations = [
     latitude: 7.25610360,
     longitude: 80.16932850,
   ),
-
   Cities(
     id: 467,
     districtId: 7,
@@ -5159,7 +4691,6 @@ final List<Cities> locations = [
     latitude: 7.17881270,
     longitude: 79.90685340,
   ),
-
   Cities(
     id: 468,
     districtId: 7,
@@ -5170,7 +4701,6 @@ final List<Cities> locations = [
     latitude: 7.11374270,
     longitude: 80.13550050,
   ),
-
   Cities(
     id: 469,
     districtId: 7,
@@ -5181,7 +4711,6 @@ final List<Cities> locations = [
     latitude: 7.28865230,
     longitude: 79.98081430,
   ),
-
   Cities(
     id: 470,
     districtId: 7,
@@ -5192,7 +4721,6 @@ final List<Cities> locations = [
     latitude: 7.22779350,
     longitude: 80.05768340,
   ),
-
   Cities(
     id: 471,
     districtId: 7,
@@ -5203,7 +4731,6 @@ final List<Cities> locations = [
     latitude: 7.06225400,
     longitude: 79.94123680,
   ),
-
   Cities(
     id: 472,
     districtId: 7,
@@ -5214,7 +4741,6 @@ final List<Cities> locations = [
     latitude: 7.11313180,
     longitude: 80.02718930,
   ),
-
   Cities(
     id: 473,
     districtId: 7,
@@ -5225,7 +4751,6 @@ final List<Cities> locations = [
     latitude: 6.96228400,
     longitude: 80.00903670,
   ),
-
   Cities(
     id: 474,
     districtId: 7,
@@ -5236,7 +4761,6 @@ final List<Cities> locations = [
     latitude: 7.21532070,
     longitude: 80.10292600,
   ),
-
   Cities(
     id: 475,
     districtId: 7,
@@ -5247,7 +4771,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 476,
     districtId: 7,
@@ -5258,7 +4781,6 @@ final List<Cities> locations = [
     latitude: 7.07130690,
     longitude: 80.16369600,
   ),
-
   Cities(
     id: 477,
     districtId: 7,
@@ -5269,7 +4791,6 @@ final List<Cities> locations = [
     latitude: 7.05470030,
     longitude: 80.05322640,
   ),
-
   Cities(
     id: 478,
     districtId: 7,
@@ -5280,7 +4801,6 @@ final List<Cities> locations = [
     latitude: 7.21005490,
     longitude: 79.91647170,
   ),
-
   Cities(
     id: 479,
     districtId: 7,
@@ -5291,7 +4811,6 @@ final List<Cities> locations = [
     latitude: 7.22087770,
     longitude: 80.16797580,
   ),
-
   Cities(
     id: 480,
     districtId: 7,
@@ -5302,7 +4821,6 @@ final List<Cities> locations = [
     latitude: 7.15797470,
     longitude: 80.14983620,
   ),
-
   Cities(
     id: 481,
     districtId: 7,
@@ -5313,7 +4831,6 @@ final List<Cities> locations = [
     latitude: 6.97023240,
     longitude: 80.04241920,
   ),
-
   Cities(
     id: 482,
     districtId: 7,
@@ -5324,7 +4841,6 @@ final List<Cities> locations = [
     latitude: 6.98928850,
     longitude: 80.01437660,
   ),
-
   Cities(
     id: 483,
     districtId: 7,
@@ -5335,7 +4851,6 @@ final List<Cities> locations = [
     latitude: 7.26524820,
     longitude: 80.00597900,
   ),
-
   Cities(
     id: 484,
     districtId: 7,
@@ -5346,7 +4861,6 @@ final List<Cities> locations = [
     latitude: 6.99127630,
     longitude: 80.05209520,
   ),
-
   Cities(
     id: 485,
     districtId: 7,
@@ -5357,7 +4871,6 @@ final List<Cities> locations = [
     latitude: 7.22438790,
     longitude: 79.88451350,
   ),
-
   Cities(
     id: 486,
     districtId: 7,
@@ -5368,7 +4881,6 @@ final List<Cities> locations = [
     latitude: 7.16120370,
     longitude: 79.99199950,
   ),
-
   Cities(
     id: 487,
     districtId: 7,
@@ -5379,7 +4891,6 @@ final List<Cities> locations = [
     latitude: 7.23031430,
     longitude: 80.01647400,
   ),
-
   Cities(
     id: 488,
     districtId: 7,
@@ -5390,7 +4901,6 @@ final List<Cities> locations = [
     latitude: 7.28072540,
     longitude: 80.04371230,
   ),
-
   Cities(
     id: 489,
     districtId: 7,
@@ -5401,7 +4911,6 @@ final List<Cities> locations = [
     latitude: 6.94039470,
     longitude: 80.07719620,
   ),
-
   Cities(
     id: 490,
     districtId: 7,
@@ -5412,7 +4921,6 @@ final List<Cities> locations = [
     latitude: 7.22205330,
     longitude: 79.97801780,
   ),
-
   Cities(
     id: 491,
     districtId: 7,
@@ -5423,7 +4931,6 @@ final List<Cities> locations = [
     latitude: 7.10229130,
     longitude: 79.90947510,
   ),
-
   Cities(
     id: 492,
     districtId: 7,
@@ -5434,7 +4941,6 @@ final List<Cities> locations = [
     latitude: 7.14166500,
     longitude: 80.13308850,
   ),
-
   Cities(
     id: 493,
     districtId: 7,
@@ -5445,7 +4951,6 @@ final List<Cities> locations = [
     latitude: 7.17651350,
     longitude: 80.02546960,
   ),
-
   Cities(
     id: 494,
     districtId: 7,
@@ -5456,7 +4961,6 @@ final List<Cities> locations = [
     latitude: 6.96486420,
     longitude: 79.93186230,
   ),
-
   Cities(
     id: 495,
     districtId: 7,
@@ -5467,7 +4971,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 496,
     districtId: 7,
@@ -5478,7 +4981,6 @@ final List<Cities> locations = [
     latitude: 7.08271900,
     longitude: 79.94825480,
   ),
-
   Cities(
     id: 497,
     districtId: 7,
@@ -5489,7 +4991,6 @@ final List<Cities> locations = [
     latitude: 7.34867490,
     longitude: 80.13801950,
   ),
-
   Cities(
     id: 498,
     districtId: 7,
@@ -5500,7 +5001,6 @@ final List<Cities> locations = [
     latitude: 6.95417030,
     longitude: 79.93661870,
   ),
-
   Cities(
     id: 499,
     districtId: 7,
@@ -5511,7 +5011,6 @@ final List<Cities> locations = [
     latitude: 7.26221070,
     longitude: 79.92906420,
   ),
-
   Cities(
     id: 500,
     districtId: 7,
@@ -5522,7 +5021,6 @@ final List<Cities> locations = [
     latitude: 6.74054400,
     longitude: 80.18881730,
   ),
-
   Cities(
     id: 501,
     districtId: 7,
@@ -5533,7 +5031,6 @@ final List<Cities> locations = [
     latitude: 6.97187680,
     longitude: 79.97376420,
   ),
-
   Cities(
     id: 502,
     districtId: 7,
@@ -5544,7 +5041,6 @@ final List<Cities> locations = [
     latitude: 7.15015720,
     longitude: 79.91227380,
   ),
-
   Cities(
     id: 503,
     districtId: 7,
@@ -5555,7 +5051,6 @@ final List<Cities> locations = [
     latitude: 7.02015740,
     longitude: 80.16379010,
   ),
-
   Cities(
     id: 504,
     districtId: 7,
@@ -5566,7 +5061,6 @@ final List<Cities> locations = [
     latitude: 7.17023150,
     longitude: 79.97941610,
   ),
-
   Cities(
     id: 505,
     districtId: 7,
@@ -5577,7 +5071,6 @@ final List<Cities> locations = [
     latitude: 7.23365100,
     longitude: 79.98930900,
   ),
-
   Cities(
     id: 506,
     districtId: 7,
@@ -5588,7 +5081,6 @@ final List<Cities> locations = [
     latitude: 7.61421880,
     longitude: 80.38952480,
   ),
-
   Cities(
     id: 507,
     districtId: 7,
@@ -5599,7 +5091,6 @@ final List<Cities> locations = [
     latitude: 7.24895350,
     longitude: 79.95371930,
   ),
-
   Cities(
     id: 508,
     districtId: 7,
@@ -5610,7 +5101,6 @@ final List<Cities> locations = [
     latitude: 7.08704600,
     longitude: 80.01751040,
   ),
-
   Cities(
     id: 509,
     districtId: 7,
@@ -5621,7 +5111,6 @@ final List<Cities> locations = [
     latitude: 7.08575960,
     longitude: 79.92544450,
   ),
-
   Cities(
     id: 510,
     districtId: 7,
@@ -5632,7 +5121,6 @@ final List<Cities> locations = [
     latitude: 7.00467190,
     longitude: 79.95420020,
   ),
-
   Cities(
     id: 511,
     districtId: 7,
@@ -5643,7 +5131,6 @@ final List<Cities> locations = [
     latitude: 7.09745510,
     longitude: 80.11223900,
   ),
-
   Cities(
     id: 512,
     districtId: 7,
@@ -5654,7 +5141,6 @@ final List<Cities> locations = [
     latitude: 7.12014350,
     longitude: 80.05908040,
   ),
-
   Cities(
     id: 513,
     districtId: 7,
@@ -5665,7 +5151,6 @@ final List<Cities> locations = [
     latitude: 7.19702310,
     longitude: 80.11075310,
   ),
-
   Cities(
     id: 514,
     districtId: 7,
@@ -5676,7 +5161,6 @@ final List<Cities> locations = [
     latitude: 7.04778970,
     longitude: 79.89703480,
   ),
-
   Cities(
     id: 515,
     districtId: 7,
@@ -5687,7 +5171,6 @@ final List<Cities> locations = [
     latitude: 7.24802840,
     longitude: 79.89936650,
   ),
-
   Cities(
     id: 516,
     districtId: 7,
@@ -5698,7 +5181,6 @@ final List<Cities> locations = [
     latitude: 7.43831900,
     longitude: 80.64154520,
   ),
-
   Cities(
     id: 517,
     districtId: 7,
@@ -5709,7 +5191,6 @@ final List<Cities> locations = [
     latitude: 7.17248490,
     longitude: 79.88534840,
   ),
-
   Cities(
     id: 518,
     districtId: 7,
@@ -5720,7 +5201,6 @@ final List<Cities> locations = [
     latitude: 7.18282930,
     longitude: 79.86773900,
   ),
-
   Cities(
     id: 519,
     districtId: 7,
@@ -5731,7 +5211,6 @@ final List<Cities> locations = [
     latitude: 7.17366030,
     longitude: 79.88688610,
   ),
-
   Cities(
     id: 520,
     districtId: 7,
@@ -5742,7 +5221,6 @@ final List<Cities> locations = [
     latitude: 7.19971330,
     longitude: 79.94976680,
   ),
-
   Cities(
     id: 521,
     districtId: 7,
@@ -5753,7 +5231,6 @@ final List<Cities> locations = [
     latitude: 6.97821370,
     longitude: 79.91155220,
   ),
-
   Cities(
     id: 522,
     districtId: 7,
@@ -5764,7 +5241,6 @@ final List<Cities> locations = [
     latitude: 7.20424070,
     longitude: 79.89408060,
   ),
-
   Cities(
     id: 523,
     districtId: 7,
@@ -5775,7 +5251,6 @@ final List<Cities> locations = [
     latitude: 7.04118250,
     longitude: 80.12893240,
   ),
-
   Cities(
     id: 524,
     districtId: 7,
@@ -5786,7 +5261,6 @@ final List<Cities> locations = [
     latitude: 7.29093330,
     longitude: 80.11424340,
   ),
-
   Cities(
     id: 525,
     districtId: 7,
@@ -5797,7 +5271,6 @@ final List<Cities> locations = [
     latitude: 7.26570630,
     longitude: 79.85912350,
   ),
-
   Cities(
     id: 526,
     districtId: 7,
@@ -5808,7 +5281,6 @@ final List<Cities> locations = [
     latitude: 7.28388130,
     longitude: 80.06606500,
   ),
-
   Cities(
     id: 527,
     districtId: 7,
@@ -5819,7 +5291,6 @@ final List<Cities> locations = [
     latitude: 7.12319100,
     longitude: 79.92416730,
   ),
-
   Cities(
     id: 528,
     districtId: 7,
@@ -5830,7 +5301,6 @@ final List<Cities> locations = [
     latitude: 7.17710570,
     longitude: 80.11214930,
   ),
-
   Cities(
     id: 529,
     districtId: 7,
@@ -5841,7 +5311,6 @@ final List<Cities> locations = [
     latitude: 7.29210060,
     longitude: 80.13503500,
   ),
-
   Cities(
     id: 530,
     districtId: 7,
@@ -5852,7 +5321,6 @@ final List<Cities> locations = [
     latitude: 7.20243690,
     longitude: 80.01872130,
   ),
-
   Cities(
     id: 531,
     districtId: 7,
@@ -5863,7 +5331,6 @@ final List<Cities> locations = [
     latitude: 7.10846130,
     longitude: 79.95986960,
   ),
-
   Cities(
     id: 532,
     districtId: 7,
@@ -5874,7 +5341,6 @@ final List<Cities> locations = [
     latitude: 7.10095000,
     longitude: 79.96332620,
   ),
-
   Cities(
     id: 533,
     districtId: 7,
@@ -5885,7 +5351,6 @@ final List<Cities> locations = [
     latitude: 6.97189890,
     longitude: 79.94663980,
   ),
-
   Cities(
     id: 534,
     districtId: 7,
@@ -5896,7 +5361,6 @@ final List<Cities> locations = [
     latitude: 6.95078440,
     longitude: 80.01574490,
   ),
-
   Cities(
     id: 535,
     districtId: 7,
@@ -5907,7 +5371,6 @@ final List<Cities> locations = [
     latitude: 7.00011780,
     longitude: 80.09399780,
   ),
-
   Cities(
     id: 536,
     districtId: 7,
@@ -5918,7 +5381,6 @@ final List<Cities> locations = [
     latitude: 7.22898140,
     longitude: 79.99060150,
   ),
-
   Cities(
     id: 537,
     districtId: 7,
@@ -5929,7 +5391,6 @@ final List<Cities> locations = [
     latitude: 7.28568090,
     longitude: 80.02694400,
   ),
-
   Cities(
     id: 538,
     districtId: 7,
@@ -5940,7 +5401,6 @@ final List<Cities> locations = [
     latitude: 7.18420760,
     longitude: 79.95004770,
   ),
-
   Cities(
     id: 539,
     districtId: 7,
@@ -5951,7 +5411,6 @@ final List<Cities> locations = [
     latitude: 7.22711090,
     longitude: 80.15676640,
   ),
-
   Cities(
     id: 540,
     districtId: 7,
@@ -5962,7 +5421,6 @@ final List<Cities> locations = [
     latitude: 7.07273940,
     longitude: 80.01576330,
   ),
-
   Cities(
     id: 541,
     districtId: 7,
@@ -5973,7 +5431,6 @@ final List<Cities> locations = [
     latitude: 6.99622360,
     longitude: 80.16099950,
   ),
-
   Cities(
     id: 542,
     districtId: 7,
@@ -5984,7 +5441,6 @@ final List<Cities> locations = [
     latitude: 7.20859950,
     longitude: 80.05500330,
   ),
-
   Cities(
     id: 543,
     districtId: 7,
@@ -5995,7 +5451,6 @@ final List<Cities> locations = [
     latitude: 7.06669220,
     longitude: 80.01226900,
   ),
-
   Cities(
     id: 544,
     districtId: 7,
@@ -6006,7 +5461,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 545,
     districtId: 7,
@@ -6017,7 +5471,6 @@ final List<Cities> locations = [
     latitude: 7.01189570,
     longitude: 80.02414890,
   ),
-
   Cities(
     id: 546,
     districtId: 7,
@@ -6028,7 +5481,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 547,
     districtId: 7,
@@ -6039,7 +5491,6 @@ final List<Cities> locations = [
     latitude: 7.04897410,
     longitude: 80.02135380,
   ),
-
   Cities(
     id: 548,
     districtId: 7,
@@ -6050,7 +5501,6 @@ final List<Cities> locations = [
     latitude: 7.19554740,
     longitude: 79.85733840,
   ),
-
   Cities(
     id: 549,
     districtId: 7,
@@ -6061,7 +5511,6 @@ final List<Cities> locations = [
     latitude: 7.65409650,
     longitude: 80.37560810,
   ),
-
   Cities(
     id: 550,
     districtId: 7,
@@ -6072,7 +5521,6 @@ final List<Cities> locations = [
     latitude: 7.09880240,
     longitude: 80.17913680,
   ),
-
   Cities(
     id: 551,
     districtId: 7,
@@ -6083,7 +5531,6 @@ final List<Cities> locations = [
     latitude: 7.14236390,
     longitude: 80.10377210,
   ),
-
   Cities(
     id: 552,
     districtId: 7,
@@ -6094,7 +5541,6 @@ final List<Cities> locations = [
     latitude: 7.07345330,
     longitude: 79.92777630,
   ),
-
   Cities(
     id: 553,
     districtId: 7,
@@ -6105,7 +5551,6 @@ final List<Cities> locations = [
     latitude: 7.13205760,
     longitude: 79.92634270,
   ),
-
   Cities(
     id: 554,
     districtId: 7,
@@ -6116,7 +5561,6 @@ final List<Cities> locations = [
     latitude: 7.08649860,
     longitude: 79.85488230,
   ),
-
   Cities(
     id: 555,
     districtId: 7,
@@ -6127,7 +5571,6 @@ final List<Cities> locations = [
     latitude: 7.21631230,
     longitude: 80.14146270,
   ),
-
   Cities(
     id: 556,
     districtId: 7,
@@ -6138,7 +5581,6 @@ final List<Cities> locations = [
     latitude: 7.16740680,
     longitude: 80.09399780,
   ),
-
   Cities(
     id: 557,
     districtId: 7,
@@ -6149,7 +5591,6 @@ final List<Cities> locations = [
     latitude: 7.16671030,
     longitude: 80.12331750,
   ),
-
   Cities(
     id: 558,
     districtId: 7,
@@ -6160,7 +5601,6 @@ final List<Cities> locations = [
     latitude: 6.95849150,
     longitude: 79.90558190,
   ),
-
   Cities(
     id: 559,
     districtId: 7,
@@ -6171,7 +5611,6 @@ final List<Cities> locations = [
     latitude: 7.00218000,
     longitude: 80.12890100,
   ),
-
   Cities(
     id: 560,
     districtId: 7,
@@ -6182,7 +5621,6 @@ final List<Cities> locations = [
     latitude: 7.13806170,
     longitude: 79.99510440,
   ),
-
   Cities(
     id: 561,
     districtId: 7,
@@ -6193,7 +5631,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 562,
     districtId: 7,
@@ -6204,7 +5641,6 @@ final List<Cities> locations = [
     latitude: 7.03801870,
     longitude: 80.06746190,
   ),
-
   Cities(
     id: 563,
     districtId: 7,
@@ -6215,7 +5651,6 @@ final List<Cities> locations = [
     latitude: 7.18438730,
     longitude: 80.14146270,
   ),
-
   Cities(
     id: 564,
     districtId: 7,
@@ -6226,7 +5661,6 @@ final List<Cities> locations = [
     latitude: 7.03194950,
     longitude: 80.09399780,
   ),
-
   Cities(
     id: 565,
     districtId: 7,
@@ -6237,7 +5671,6 @@ final List<Cities> locations = [
     latitude: 7.14063340,
     longitude: 79.90136030,
   ),
-
   Cities(
     id: 566,
     districtId: 7,
@@ -6248,7 +5681,6 @@ final List<Cities> locations = [
     latitude: 7.02317680,
     longitude: 79.90777230,
   ),
-
   Cities(
     id: 567,
     districtId: 7,
@@ -6259,7 +5691,6 @@ final List<Cities> locations = [
     latitude: 7.11003790,
     longitude: 80.11424340,
   ),
-
   Cities(
     id: 568,
     districtId: 7,
@@ -6270,7 +5701,6 @@ final List<Cities> locations = [
     latitude: 7.14067840,
     longitude: 79.88697320,
   ),
-
   Cities(
     id: 569,
     districtId: 7,
@@ -6281,7 +5711,6 @@ final List<Cities> locations = [
     latitude: 6.96741120,
     longitude: 79.98920340,
   ),
-
   Cities(
     id: 570,
     districtId: 7,
@@ -6292,7 +5721,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 571,
     districtId: 7,
@@ -6303,7 +5731,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 572,
     districtId: 7,
@@ -6314,7 +5741,6 @@ final List<Cities> locations = [
     latitude: 7.13542420,
     longitude: 79.88851020,
   ),
-
   Cities(
     id: 573,
     districtId: 7,
@@ -6325,7 +5751,6 @@ final List<Cities> locations = [
     latitude: 6.91356150,
     longitude: 80.05972130,
   ),
-
   Cities(
     id: 574,
     districtId: 7,
@@ -6336,7 +5761,6 @@ final List<Cities> locations = [
     latitude: 7.08404840,
     longitude: 80.00983140,
   ),
-
   Cities(
     id: 575,
     districtId: 7,
@@ -6347,7 +5771,6 @@ final List<Cities> locations = [
     latitude: 7.12635740,
     longitude: 79.97801780,
   ),
-
   Cities(
     id: 576,
     districtId: 7,
@@ -6358,7 +5781,6 @@ final List<Cities> locations = [
     latitude: 7.13248020,
     longitude: 79.95424380,
   ),
-
   Cities(
     id: 577,
     districtId: 7,
@@ -6369,7 +5791,6 @@ final List<Cities> locations = [
     latitude: 7.09804240,
     longitude: 80.14499060,
   ),
-
   Cities(
     id: 578,
     districtId: 7,
@@ -6380,7 +5801,6 @@ final List<Cities> locations = [
     latitude: 7.03899110,
     longitude: 79.86608360,
   ),
-
   Cities(
     id: 579,
     districtId: 7,
@@ -6391,7 +5811,6 @@ final List<Cities> locations = [
     latitude: 7.16621390,
     longitude: 80.05586950,
   ),
-
   Cities(
     id: 580,
     districtId: 7,
@@ -6402,7 +5821,6 @@ final List<Cities> locations = [
     latitude: 7.07093920,
     longitude: 80.11773350,
   ),
-
   Cities(
     id: 581,
     districtId: 7,
@@ -6413,7 +5831,6 @@ final List<Cities> locations = [
     latitude: 7.26126670,
     longitude: 80.04591300,
   ),
-
   Cities(
     id: 582,
     districtId: 7,
@@ -6424,7 +5841,6 @@ final List<Cities> locations = [
     latitude: 7.19434870,
     longitude: 79.92766510,
   ),
-
   Cities(
     id: 583,
     districtId: 7,
@@ -6435,7 +5851,6 @@ final List<Cities> locations = [
     latitude: 7.05465480,
     longitude: 80.10097960,
   ),
-
   Cities(
     id: 584,
     districtId: 7,
@@ -6446,7 +5861,6 @@ final List<Cities> locations = [
     latitude: 7.18531180,
     longitude: 80.00038750,
   ),
-
   Cities(
     id: 585,
     districtId: 7,
@@ -6457,7 +5871,6 @@ final List<Cities> locations = [
     latitude: 6.99066770,
     longitude: 79.89317090,
   ),
-
   Cities(
     id: 586,
     districtId: 7,
@@ -6468,7 +5881,6 @@ final List<Cities> locations = [
     latitude: 7.02511750,
     longitude: 79.99130050,
   ),
-
   Cities(
     id: 587,
     districtId: 7,
@@ -6479,7 +5891,6 @@ final List<Cities> locations = [
     latitude: 7.17160320,
     longitude: 79.97462990,
   ),
-
   Cities(
     id: 588,
     districtId: 7,
@@ -6490,7 +5901,6 @@ final List<Cities> locations = [
     latitude: 7.19792850,
     longitude: 80.15262710,
   ),
-
   Cities(
     id: 589,
     districtId: 7,
@@ -6501,7 +5911,6 @@ final List<Cities> locations = [
     latitude: 7.08641530,
     longitude: 80.03351070,
   ),
-
   Cities(
     id: 590,
     districtId: 7,
@@ -6512,7 +5921,6 @@ final List<Cities> locations = [
     latitude: 7.18677080,
     longitude: 79.92605480,
   ),
-
   Cities(
     id: 591,
     districtId: 8,
@@ -6523,7 +5931,6 @@ final List<Cities> locations = [
     latitude: 6.12259990,
     longitude: 81.02375940,
   ),
-
   Cities(
     id: 592,
     districtId: 8,
@@ -6534,7 +5941,6 @@ final List<Cities> locations = [
     latitude: 6.16556890,
     longitude: 80.90311720,
   ),
-
   Cities(
     id: 593,
     districtId: 8,
@@ -6545,7 +5951,6 @@ final List<Cities> locations = [
     latitude: 6.41154880,
     longitude: 81.08592350,
   ),
-
   Cities(
     id: 594,
     districtId: 8,
@@ -6556,7 +5961,6 @@ final List<Cities> locations = [
     latitude: 6.24086040,
     longitude: 81.14484790,
   ),
-
   Cities(
     id: 595,
     districtId: 8,
@@ -6567,7 +5971,6 @@ final List<Cities> locations = [
     latitude: 6.22578540,
     longitude: 80.92906850,
   ),
-
   Cities(
     id: 596,
     districtId: 8,
@@ -6578,7 +5981,6 @@ final List<Cities> locations = [
     latitude: 6.04815730,
     longitude: 80.73391440,
   ),
-
   Cities(
     id: 597,
     districtId: 8,
@@ -6589,7 +5991,6 @@ final List<Cities> locations = [
     latitude: 6.14212550,
     longitude: 81.03181690,
   ),
-
   Cities(
     id: 598,
     districtId: 8,
@@ -6600,7 +6001,6 @@ final List<Cities> locations = [
     latitude: 6.32158700,
     longitude: 81.29816730,
   ),
-
   Cities(
     id: 599,
     districtId: 8,
@@ -6611,7 +6011,6 @@ final List<Cities> locations = [
     latitude: 6.19424870,
     longitude: 81.18731410,
   ),
-
   Cities(
     id: 600,
     districtId: 8,
@@ -6622,7 +6021,6 @@ final List<Cities> locations = [
     latitude: 6.33333300,
     longitude: 81.25000000,
   ),
-
   Cities(
     id: 601,
     districtId: 8,
@@ -6633,7 +6031,6 @@ final List<Cities> locations = [
     latitude: 6.29562990,
     longitude: 80.71866970,
   ),
-
   Cities(
     id: 602,
     districtId: 8,
@@ -6644,7 +6041,6 @@ final List<Cities> locations = [
     latitude: 6.03954990,
     longitude: 80.68955830,
   ),
-
   Cities(
     id: 603,
     districtId: 8,
@@ -6655,7 +6051,6 @@ final List<Cities> locations = [
     latitude: 6.18333300,
     longitude: 81.01666700,
   ),
-
   Cities(
     id: 604,
     districtId: 8,
@@ -6666,7 +6061,6 @@ final List<Cities> locations = [
     latitude: 6.24723940,
     longitude: 81.26564900,
   ),
-
   Cities(
     id: 605,
     districtId: 8,
@@ -6677,7 +6071,6 @@ final List<Cities> locations = [
     latitude: 6.23333300,
     longitude: 81.10000000,
   ),
-
   Cities(
     id: 606,
     districtId: 8,
@@ -6688,7 +6081,6 @@ final List<Cities> locations = [
     latitude: 6.14933330,
     longitude: 80.83085870,
   ),
-
   Cities(
     id: 607,
     districtId: 8,
@@ -6699,7 +6091,6 @@ final List<Cities> locations = [
     latitude: 6.14288290,
     longitude: 81.12123080,
   ),
-
   Cities(
     id: 608,
     districtId: 8,
@@ -6710,7 +6101,6 @@ final List<Cities> locations = [
     latitude: 6.19032110,
     longitude: 80.62575390,
   ),
-
   Cities(
     id: 609,
     districtId: 8,
@@ -6721,7 +6111,6 @@ final List<Cities> locations = [
     latitude: 6.11562600,
     longitude: 80.92906850,
   ),
-
   Cities(
     id: 610,
     districtId: 8,
@@ -6732,7 +6121,6 @@ final List<Cities> locations = [
     latitude: 6.15358160,
     longitude: 81.12714900,
   ),
-
   Cities(
     id: 611,
     districtId: 8,
@@ -6743,7 +6131,6 @@ final List<Cities> locations = [
     latitude: 6.16784630,
     longitude: 80.74593370,
   ),
-
   Cities(
     id: 612,
     districtId: 8,
@@ -6754,7 +6141,6 @@ final List<Cities> locations = [
     latitude: 6.23552320,
     longitude: 80.73543110,
   ),
-
   Cities(
     id: 613,
     districtId: 8,
@@ -6765,7 +6151,6 @@ final List<Cities> locations = [
     latitude: 6.06988240,
     longitude: 80.89151100,
   ),
-
   Cities(
     id: 614,
     districtId: 8,
@@ -6776,7 +6161,6 @@ final List<Cities> locations = [
     latitude: 6.25527330,
     longitude: 80.81286360,
   ),
-
   Cities(
     id: 615,
     districtId: 8,
@@ -6787,7 +6171,6 @@ final List<Cities> locations = [
     latitude: 6.26362380,
     longitude: 80.69094480,
   ),
-
   Cities(
     id: 616,
     districtId: 8,
@@ -6798,7 +6181,6 @@ final List<Cities> locations = [
     latitude: 6.35187120,
     longitude: 81.31297950,
   ),
-
   Cities(
     id: 617,
     districtId: 8,
@@ -6809,7 +6191,6 @@ final List<Cities> locations = [
     latitude: 6.20669210,
     longitude: 80.66182340,
   ),
-
   Cities(
     id: 618,
     districtId: 8,
@@ -6820,7 +6201,6 @@ final List<Cities> locations = [
     latitude: 6.23523600,
     longitude: 81.33444080,
   ),
-
   Cities(
     id: 619,
     districtId: 8,
@@ -6831,7 +6211,6 @@ final List<Cities> locations = [
     latitude: 6.09531670,
     longitude: 80.96776580,
   ),
-
   Cities(
     id: 620,
     districtId: 8,
@@ -6842,7 +6221,6 @@ final List<Cities> locations = [
     latitude: 6.33835150,
     longitude: 81.14420930,
   ),
-
   Cities(
     id: 621,
     districtId: 8,
@@ -6853,7 +6231,6 @@ final List<Cities> locations = [
     latitude: 6.20583660,
     longitude: 81.30418000,
   ),
-
   Cities(
     id: 622,
     districtId: 8,
@@ -6864,7 +6241,6 @@ final List<Cities> locations = [
     latitude: 6.38543820,
     longitude: 81.03958210,
   ),
-
   Cities(
     id: 623,
     districtId: 8,
@@ -6875,7 +6251,6 @@ final List<Cities> locations = [
     latitude: 6.15965390,
     longitude: 80.97467400,
   ),
-
   Cities(
     id: 624,
     districtId: 8,
@@ -6886,7 +6261,6 @@ final List<Cities> locations = [
     latitude: 6.18102790,
     longitude: 80.76855080,
   ),
-
   Cities(
     id: 625,
     districtId: 8,
@@ -6897,7 +6271,6 @@ final List<Cities> locations = [
     latitude: 6.25135790,
     longitude: 80.76416530,
   ),
-
   Cities(
     id: 626,
     districtId: 8,
@@ -6908,7 +6281,6 @@ final List<Cities> locations = [
     latitude: 6.15928530,
     longitude: 81.12730130,
   ),
-
   Cities(
     id: 627,
     districtId: 8,
@@ -6919,7 +6291,6 @@ final List<Cities> locations = [
     latitude: 6.11736090,
     longitude: 80.72421360,
   ),
-
   Cities(
     id: 628,
     districtId: 8,
@@ -6930,7 +6301,6 @@ final List<Cities> locations = [
     latitude: 6.10879180,
     longitude: 80.75885410,
   ),
-
   Cities(
     id: 629,
     districtId: 8,
@@ -6941,7 +6311,6 @@ final List<Cities> locations = [
     latitude: 5.99543090,
     longitude: 80.70896710,
   ),
-
   Cities(
     id: 630,
     districtId: 8,
@@ -6952,7 +6321,6 @@ final List<Cities> locations = [
     latitude: 6.06565060,
     longitude: 80.83916280,
   ),
-
   Cities(
     id: 631,
     districtId: 8,
@@ -6963,7 +6331,6 @@ final List<Cities> locations = [
     latitude: 6.07135770,
     longitude: 80.70629330,
   ),
-
   Cities(
     id: 632,
     districtId: 8,
@@ -6974,7 +6341,6 @@ final List<Cities> locations = [
     latitude: 6.14288290,
     longitude: 81.12123080,
   ),
-
   Cities(
     id: 633,
     districtId: 8,
@@ -6985,7 +6351,6 @@ final List<Cities> locations = [
     latitude: 6.29958800,
     longitude: 81.08563270,
   ),
-
   Cities(
     id: 634,
     districtId: 8,
@@ -6996,7 +6361,6 @@ final List<Cities> locations = [
     latitude: 6.22198710,
     longitude: 80.63685390,
   ),
-
   Cities(
     id: 635,
     districtId: 8,
@@ -7007,7 +6371,6 @@ final List<Cities> locations = [
     latitude: 6.14288290,
     longitude: 81.12123080,
   ),
-
   Cities(
     id: 636,
     districtId: 8,
@@ -7018,7 +6381,6 @@ final List<Cities> locations = [
     latitude: 6.34629420,
     longitude: 81.05890600,
   ),
-
   Cities(
     id: 637,
     districtId: 8,
@@ -7029,7 +6391,6 @@ final List<Cities> locations = [
     latitude: 6.09354290,
     longitude: 80.86268640,
   ),
-
   Cities(
     id: 638,
     districtId: 8,
@@ -7040,7 +6401,6 @@ final List<Cities> locations = [
     latitude: 6.14288290,
     longitude: 81.12123080,
   ),
-
   Cities(
     id: 639,
     districtId: 8,
@@ -7051,7 +6411,6 @@ final List<Cities> locations = [
     latitude: 6.24684360,
     longitude: 80.98246490,
   ),
-
   Cities(
     id: 640,
     districtId: 8,
@@ -7062,7 +6421,6 @@ final List<Cities> locations = [
     latitude: 6.31100250,
     longitude: 80.99539520,
   ),
-
   Cities(
     id: 641,
     districtId: 8,
@@ -7073,7 +6431,6 @@ final List<Cities> locations = [
     latitude: 6.02433830,
     longitude: 80.79407260,
   ),
-
   Cities(
     id: 642,
     districtId: 8,
@@ -7084,7 +6441,6 @@ final List<Cities> locations = [
     latitude: 6.27915380,
     longitude: 81.28766910,
   ),
-
   Cities(
     id: 643,
     districtId: 8,
@@ -7095,7 +6451,6 @@ final List<Cities> locations = [
     latitude: 6.29561590,
     longitude: 80.66933750,
   ),
-
   Cities(
     id: 644,
     districtId: 8,
@@ -7106,7 +6461,6 @@ final List<Cities> locations = [
     latitude: 6.29139060,
     longitude: 81.12135710,
   ),
-
   Cities(
     id: 645,
     districtId: 8,
@@ -7117,7 +6471,6 @@ final List<Cities> locations = [
     latitude: 6.24206220,
     longitude: 80.88343670,
   ),
-
   Cities(
     id: 646,
     districtId: 8,
@@ -7128,7 +6481,6 @@ final List<Cities> locations = [
     latitude: 6.02433830,
     longitude: 80.79407260,
   ),
-
   Cities(
     id: 647,
     districtId: 8,
@@ -7139,7 +6491,6 @@ final List<Cities> locations = [
     latitude: 6.15088880,
     longitude: 80.69371770,
   ),
-
   Cities(
     id: 648,
     districtId: 8,
@@ -7150,7 +6501,6 @@ final List<Cities> locations = [
     latitude: 6.14760810,
     longitude: 80.76337430,
   ),
-
   Cities(
     id: 649,
     districtId: 8,
@@ -7161,7 +6511,6 @@ final List<Cities> locations = [
     latitude: 6.24214940,
     longitude: 81.22920900,
   ),
-
   Cities(
     id: 650,
     districtId: 8,
@@ -7172,7 +6521,6 @@ final List<Cities> locations = [
     latitude: 6.24214940,
     longitude: 81.22920900,
   ),
-
   Cities(
     id: 651,
     districtId: 8,
@@ -7183,7 +6531,6 @@ final List<Cities> locations = [
     latitude: 6.14288290,
     longitude: 81.12123080,
   ),
-
   Cities(
     id: 652,
     districtId: 8,
@@ -7194,7 +6541,6 @@ final List<Cities> locations = [
     latitude: 6.23857610,
     longitude: 81.21883550,
   ),
-
   Cities(
     id: 653,
     districtId: 8,
@@ -7205,7 +6551,6 @@ final List<Cities> locations = [
     latitude: 6.11341960,
     longitude: 80.69473650,
   ),
-
   Cities(
     id: 654,
     districtId: 9,
@@ -7216,7 +6561,6 @@ final List<Cities> locations = [
     latitude: 9.66901300,
     longitude: 80.02695280,
   ),
-
   Cities(
     id: 655,
     districtId: 10,
@@ -7227,7 +6571,6 @@ final List<Cities> locations = [
     latitude: 6.54227940,
     longitude: 80.15750400,
   ),
-
   Cities(
     id: 656,
     districtId: 10,
@@ -7238,7 +6581,6 @@ final List<Cities> locations = [
     latitude: 6.71130910,
     longitude: 79.94585140,
   ),
-
   Cities(
     id: 657,
     districtId: 10,
@@ -7249,7 +6591,6 @@ final List<Cities> locations = [
     latitude: 6.64469710,
     longitude: 80.07459540,
   ),
-
   Cities(
     id: 658,
     districtId: 10,
@@ -7260,7 +6601,6 @@ final List<Cities> locations = [
     latitude: 6.45000000,
     longitude: 80.26666700,
   ),
-
   Cities(
     id: 659,
     districtId: 10,
@@ -7271,7 +6611,6 @@ final List<Cities> locations = [
     latitude: 6.51712210,
     longitude: 80.23118010,
   ),
-
   Cities(
     id: 660,
     districtId: 10,
@@ -7282,7 +6621,6 @@ final List<Cities> locations = [
     latitude: 6.71440730,
     longitude: 79.98906040,
   ),
-
   Cities(
     id: 661,
     districtId: 10,
@@ -7293,7 +6631,6 @@ final List<Cities> locations = [
     latitude: 6.77398170,
     longitude: 80.13967210,
   ),
-
   Cities(
     id: 662,
     districtId: 10,
@@ -7304,7 +6641,6 @@ final List<Cities> locations = [
     latitude: 6.52213600,
     longitude: 80.17355650,
   ),
-
   Cities(
     id: 663,
     districtId: 10,
@@ -7315,7 +6651,6 @@ final List<Cities> locations = [
     latitude: 6.46320380,
     longitude: 79.97471240,
   ),
-
   Cities(
     id: 664,
     districtId: 10,
@@ -7326,7 +6661,6 @@ final List<Cities> locations = [
     latitude: 6.62305890,
     longitude: 80.01576330,
   ),
-
   Cities(
     id: 665,
     districtId: 10,
@@ -7337,7 +6671,6 @@ final List<Cities> locations = [
     latitude: 6.57540720,
     longitude: 80.01428050,
   ),
-
   Cities(
     id: 666,
     districtId: 10,
@@ -7348,7 +6681,6 @@ final List<Cities> locations = [
     latitude: 6.43471850,
     longitude: 80.27951950,
   ),
-
   Cities(
     id: 667,
     districtId: 10,
@@ -7359,7 +6691,6 @@ final List<Cities> locations = [
     latitude: 6.64874710,
     longitude: 80.17913680,
   ),
-
   Cities(
     id: 668,
     districtId: 10,
@@ -7370,7 +6701,6 @@ final List<Cities> locations = [
     latitude: 6.41510400,
     longitude: 80.32862730,
   ),
-
   Cities(
     id: 669,
     districtId: 10,
@@ -7381,7 +6711,6 @@ final List<Cities> locations = [
     latitude: 6.67962190,
     longitude: 80.20563820,
   ),
-
   Cities(
     id: 670,
     districtId: 10,
@@ -7392,7 +6721,6 @@ final List<Cities> locations = [
     latitude: 6.44474520,
     longitude: 80.01686020,
   ),
-
   Cities(
     id: 671,
     districtId: 10,
@@ -7403,7 +6731,6 @@ final List<Cities> locations = [
     latitude: 6.57111530,
     longitude: 80.06087530,
   ),
-
   Cities(
     id: 672,
     districtId: 10,
@@ -7414,7 +6741,6 @@ final List<Cities> locations = [
     latitude: 6.55286750,
     longitude: 80.02329230,
   ),
-
   Cities(
     id: 673,
     districtId: 10,
@@ -7425,7 +6751,6 @@ final List<Cities> locations = [
     latitude: 6.64617370,
     longitude: 80.05069810,
   ),
-
   Cities(
     id: 674,
     districtId: 10,
@@ -7436,7 +6761,6 @@ final List<Cities> locations = [
     latitude: 6.23289180,
     longitude: 80.15681340,
   ),
-
   Cities(
     id: 675,
     districtId: 10,
@@ -7447,7 +6771,6 @@ final List<Cities> locations = [
     latitude: 6.62914500,
     longitude: 80.02345020,
   ),
-
   Cities(
     id: 676,
     districtId: 10,
@@ -7458,7 +6781,6 @@ final List<Cities> locations = [
     latitude: 6.58394120,
     longitude: 79.99535970,
   ),
-
   Cities(
     id: 677,
     districtId: 10,
@@ -7469,7 +6791,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 678,
     districtId: 10,
@@ -7480,7 +6801,6 @@ final List<Cities> locations = [
     latitude: 6.75634030,
     longitude: 80.01716090,
   ),
-
   Cities(
     id: 679,
     districtId: 10,
@@ -7491,7 +6811,6 @@ final List<Cities> locations = [
     latitude: 6.67523890,
     longitude: 80.11834880,
   ),
-
   Cities(
     id: 680,
     districtId: 10,
@@ -7502,7 +6821,6 @@ final List<Cities> locations = [
     latitude: 6.04826920,
     longitude: 80.19603960,
   ),
-
   Cities(
     id: 681,
     districtId: 10,
@@ -7513,7 +6831,6 @@ final List<Cities> locations = [
     latitude: 6.50000000,
     longitude: 80.01666670,
   ),
-
   Cities(
     id: 682,
     districtId: 10,
@@ -7524,7 +6841,6 @@ final List<Cities> locations = [
     latitude: 6.69425550,
     longitude: 80.03086100,
   ),
-
   Cities(
     id: 683,
     districtId: 10,
@@ -7535,7 +6851,6 @@ final List<Cities> locations = [
     latitude: 6.31172200,
     longitude: 80.36510350,
   ),
-
   Cities(
     id: 684,
     districtId: 10,
@@ -7546,7 +6861,6 @@ final List<Cities> locations = [
     latitude: 6.42087690,
     longitude: 80.10656460,
   ),
-
   Cities(
     id: 685,
     districtId: 10,
@@ -7557,7 +6871,6 @@ final List<Cities> locations = [
     latitude: 6.71759930,
     longitude: 80.19029630,
   ),
-
   Cities(
     id: 686,
     districtId: 10,
@@ -7568,7 +6881,6 @@ final List<Cities> locations = [
     latitude: 6.79056920,
     longitude: 80.14006710,
   ),
-
   Cities(
     id: 687,
     districtId: 10,
@@ -7579,7 +6891,6 @@ final List<Cities> locations = [
     latitude: 6.46639100,
     longitude: 80.28509290,
   ),
-
   Cities(
     id: 688,
     districtId: 10,
@@ -7590,7 +6901,6 @@ final List<Cities> locations = [
     latitude: 6.48387220,
     longitude: 80.10097960,
   ),
-
   Cities(
     id: 689,
     districtId: 10,
@@ -7601,7 +6911,6 @@ final List<Cities> locations = [
     latitude: 6.45807660,
     longitude: 79.99080060,
   ),
-
   Cities(
     id: 690,
     districtId: 10,
@@ -7612,7 +6921,6 @@ final List<Cities> locations = [
     latitude: 6.72465340,
     longitude: 80.03994640,
   ),
-
   Cities(
     id: 691,
     districtId: 10,
@@ -7623,7 +6931,6 @@ final List<Cities> locations = [
     latitude: 6.43664840,
     longitude: 80.09552300,
   ),
-
   Cities(
     id: 692,
     districtId: 10,
@@ -7634,7 +6941,6 @@ final List<Cities> locations = [
     latitude: 6.77942550,
     longitude: 80.11214930,
   ),
-
   Cities(
     id: 693,
     districtId: 10,
@@ -7645,7 +6951,6 @@ final List<Cities> locations = [
     latitude: 6.45456930,
     longitude: 80.01038610,
   ),
-
   Cities(
     id: 694,
     districtId: 10,
@@ -7656,7 +6961,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 695,
     districtId: 10,
@@ -7667,7 +6971,6 @@ final List<Cities> locations = [
     latitude: 6.75423780,
     longitude: 80.06228150,
   ),
-
   Cities(
     id: 696,
     districtId: 10,
@@ -7678,7 +6981,6 @@ final List<Cities> locations = [
     latitude: 6.71440730,
     longitude: 79.98906040,
   ),
-
   Cities(
     id: 697,
     districtId: 10,
@@ -7689,7 +6991,6 @@ final List<Cities> locations = [
     latitude: 6.57452540,
     longitude: 80.29345220,
   ),
-
   Cities(
     id: 698,
     districtId: 10,
@@ -7700,7 +7001,6 @@ final List<Cities> locations = [
     latitude: 6.50645020,
     longitude: 80.17913680,
   ),
-
   Cities(
     id: 699,
     districtId: 10,
@@ -7711,7 +7011,6 @@ final List<Cities> locations = [
     latitude: 6.61727960,
     longitude: 79.99060150,
   ),
-
   Cities(
     id: 700,
     districtId: 10,
@@ -7722,7 +7021,6 @@ final List<Cities> locations = [
     latitude: 6.76620850,
     longitude: 80.07789310,
   ),
-
   Cities(
     id: 701,
     districtId: 10,
@@ -7733,7 +7031,6 @@ final List<Cities> locations = [
     latitude: 7.33960770,
     longitude: 80.07846130,
   ),
-
   Cities(
     id: 702,
     districtId: 10,
@@ -7744,7 +7041,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 703,
     districtId: 10,
@@ -7755,7 +7051,6 @@ final List<Cities> locations = [
     latitude: 6.37585110,
     longitude: 80.00931050,
   ),
-
   Cities(
     id: 704,
     districtId: 10,
@@ -7766,7 +7061,6 @@ final List<Cities> locations = [
     latitude: 6.74037690,
     longitude: 80.16245430,
   ),
-
   Cities(
     id: 705,
     districtId: 10,
@@ -7777,7 +7071,6 @@ final List<Cities> locations = [
     latitude: 6.50957990,
     longitude: 79.99571700,
   ),
-
   Cities(
     id: 706,
     districtId: 10,
@@ -7788,7 +7081,6 @@ final List<Cities> locations = [
     latitude: 6.60352860,
     longitude: 80.15960410,
   ),
-
   Cities(
     id: 707,
     districtId: 10,
@@ -7799,7 +7091,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 708,
     districtId: 10,
@@ -7810,7 +7101,6 @@ final List<Cities> locations = [
     latitude: 6.60155280,
     longitude: 79.97532410,
   ),
-
   Cities(
     id: 709,
     districtId: 10,
@@ -7821,7 +7111,6 @@ final List<Cities> locations = [
     latitude: 6.30741480,
     longitude: 80.36607150,
   ),
-
   Cities(
     id: 710,
     districtId: 10,
@@ -7832,7 +7121,6 @@ final List<Cities> locations = [
     latitude: 6.52194320,
     longitude: 80.11368520,
   ),
-
   Cities(
     id: 711,
     districtId: 10,
@@ -7843,7 +7131,6 @@ final List<Cities> locations = [
     latitude: 6.43311600,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 712,
     districtId: 10,
@@ -7854,7 +7141,6 @@ final List<Cities> locations = [
     latitude: 6.42134980,
     longitude: 80.06327130,
   ),
-
   Cities(
     id: 713,
     districtId: 10,
@@ -7865,7 +7151,6 @@ final List<Cities> locations = [
     latitude: 6.58936130,
     longitude: 79.96366730,
   ),
-
   Cities(
     id: 714,
     districtId: 10,
@@ -7876,7 +7161,6 @@ final List<Cities> locations = [
     latitude: 6.68051510,
     longitude: 80.02065500,
   ),
-
   Cities(
     id: 715,
     districtId: 10,
@@ -7887,7 +7171,6 @@ final List<Cities> locations = [
     latitude: 6.78121050,
     longitude: 80.07025550,
   ),
-
   Cities(
     id: 716,
     districtId: 10,
@@ -7898,7 +7181,6 @@ final List<Cities> locations = [
     latitude: 6.74338480,
     longitude: 80.09399780,
   ),
-
   Cities(
     id: 717,
     districtId: 10,
@@ -7909,7 +7191,6 @@ final List<Cities> locations = [
     latitude: 6.60507010,
     longitude: 80.23770780,
   ),
-
   Cities(
     id: 718,
     districtId: 10,
@@ -7920,7 +7201,6 @@ final List<Cities> locations = [
     latitude: 6.53052660,
     longitude: 80.27365140,
   ),
-
   Cities(
     id: 719,
     districtId: 10,
@@ -7931,7 +7211,6 @@ final List<Cities> locations = [
     latitude: 6.66234510,
     longitude: 79.97032690,
   ),
-
   Cities(
     id: 720,
     districtId: 10,
@@ -7942,7 +7221,6 @@ final List<Cities> locations = [
     latitude: 6.48495100,
     longitude: 80.06382200,
   ),
-
   Cities(
     id: 721,
     districtId: 10,
@@ -7953,7 +7231,6 @@ final List<Cities> locations = [
     latitude: 6.59165510,
     longitude: 80.09260140,
   ),
-
   Cities(
     id: 722,
     districtId: 10,
@@ -7964,7 +7241,6 @@ final List<Cities> locations = [
     latitude: 6.56576860,
     longitude: 79.98361080,
   ),
-
   Cities(
     id: 723,
     districtId: 10,
@@ -7975,7 +7251,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 724,
     districtId: 10,
@@ -7986,7 +7261,6 @@ final List<Cities> locations = [
     latitude: 6.51861030,
     longitude: 79.99479560,
   ),
-
   Cities(
     id: 725,
     districtId: 10,
@@ -7997,7 +7271,6 @@ final List<Cities> locations = [
     latitude: 6.75279940,
     longitude: 79.89493090,
   ),
-
   Cities(
     id: 726,
     districtId: 10,
@@ -8008,7 +7281,6 @@ final List<Cities> locations = [
     latitude: 6.56600740,
     longitude: 79.96254190,
   ),
-
   Cities(
     id: 727,
     districtId: 10,
@@ -8019,7 +7291,6 @@ final List<Cities> locations = [
     latitude: 6.67287650,
     longitude: 80.00178540,
   ),
-
   Cities(
     id: 728,
     districtId: 10,
@@ -8030,7 +7301,6 @@ final List<Cities> locations = [
     latitude: 6.61220740,
     longitude: 80.22668470,
   ),
-
   Cities(
     id: 729,
     districtId: 10,
@@ -8041,7 +7311,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 730,
     districtId: 10,
@@ -8052,7 +7321,6 @@ final List<Cities> locations = [
     latitude: 6.58539480,
     longitude: 79.96074000,
   ),
-
   Cities(
     id: 731,
     districtId: 10,
@@ -8063,7 +7331,6 @@ final List<Cities> locations = [
     latitude: 6.40053000,
     longitude: 80.21206180,
   ),
-
   Cities(
     id: 732,
     districtId: 10,
@@ -8074,7 +7341,6 @@ final List<Cities> locations = [
     latitude: 6.55867620,
     longitude: 80.15681340,
   ),
-
   Cities(
     id: 733,
     districtId: 10,
@@ -8085,7 +7351,6 @@ final List<Cities> locations = [
     latitude: 7.19266780,
     longitude: 80.30015810,
   ),
-
   Cities(
     id: 734,
     districtId: 10,
@@ -8096,7 +7361,6 @@ final List<Cities> locations = [
     latitude: 6.72886860,
     longitude: 80.02973890,
   ),
-
   Cities(
     id: 735,
     districtId: 10,
@@ -8107,7 +7371,6 @@ final List<Cities> locations = [
     latitude: 6.73631930,
     longitude: 80.13355590,
   ),
-
   Cities(
     id: 736,
     districtId: 10,
@@ -8118,7 +7381,6 @@ final List<Cities> locations = [
     latitude: 6.46117810,
     longitude: 80.19808440,
   ),
-
   Cities(
     id: 737,
     districtId: 10,
@@ -8129,7 +7391,6 @@ final List<Cities> locations = [
     latitude: 6.60790790,
     longitude: 80.02527190,
   ),
-
   Cities(
     id: 738,
     districtId: 10,
@@ -8140,7 +7401,6 @@ final List<Cities> locations = [
     latitude: 6.24410260,
     longitude: 80.27089570,
   ),
-
   Cities(
     id: 739,
     districtId: 10,
@@ -8151,7 +7411,6 @@ final List<Cities> locations = [
     latitude: 6.59227590,
     longitude: 80.05768340,
   ),
-
   Cities(
     id: 740,
     districtId: 10,
@@ -8162,7 +7421,6 @@ final List<Cities> locations = [
     latitude: 6.62301950,
     longitude: 80.06724360,
   ),
-
   Cities(
     id: 741,
     districtId: 10,
@@ -8173,7 +7431,6 @@ final List<Cities> locations = [
     latitude: 6.42699770,
     longitude: 80.15123170,
   ),
-
   Cities(
     id: 742,
     districtId: 10,
@@ -8184,7 +7441,6 @@ final List<Cities> locations = [
     latitude: 6.58235810,
     longitude: 80.14736130,
   ),
-
   Cities(
     id: 743,
     districtId: 10,
@@ -8195,7 +7451,6 @@ final List<Cities> locations = [
     latitude: 6.63628230,
     longitude: 79.95284510,
   ),
-
   Cities(
     id: 744,
     districtId: 10,
@@ -8206,7 +7461,6 @@ final List<Cities> locations = [
     latitude: 6.44991840,
     longitude: 80.07933420,
   ),
-
   Cities(
     id: 745,
     districtId: 10,
@@ -8217,7 +7471,6 @@ final List<Cities> locations = [
     latitude: 6.38055500,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 746,
     districtId: 10,
@@ -8228,7 +7481,6 @@ final List<Cities> locations = [
     latitude: 6.62685800,
     longitude: 79.94305370,
   ),
-
   Cities(
     id: 747,
     districtId: 10,
@@ -8239,7 +7491,6 @@ final List<Cities> locations = [
     latitude: 6.46819940,
     longitude: 80.10656460,
   ),
-
   Cities(
     id: 748,
     districtId: 10,
@@ -8250,7 +7501,6 @@ final List<Cities> locations = [
     latitude: 7.03134070,
     longitude: 80.02875140,
   ),
-
   Cities(
     id: 749,
     districtId: 10,
@@ -8261,7 +7511,6 @@ final List<Cities> locations = [
     latitude: 6.74843260,
     longitude: 79.97148470,
   ),
-
   Cities(
     id: 750,
     districtId: 10,
@@ -8272,7 +7521,6 @@ final List<Cities> locations = [
     latitude: 6.52935950,
     longitude: 80.00597900,
   ),
-
   Cities(
     id: 751,
     districtId: 10,
@@ -8283,7 +7531,6 @@ final List<Cities> locations = [
     latitude: 6.36940910,
     longitude: 80.16239480,
   ),
-
   Cities(
     id: 752,
     districtId: 10,
@@ -8294,7 +7541,6 @@ final List<Cities> locations = [
     latitude: 6.52016150,
     longitude: 80.07304910,
   ),
-
   Cities(
     id: 753,
     districtId: 10,
@@ -8305,7 +7551,6 @@ final List<Cities> locations = [
     latitude: 6.60032430,
     longitude: 80.03684880,
   ),
-
   Cities(
     id: 754,
     districtId: 11,
@@ -8316,7 +7561,6 @@ final List<Cities> locations = [
     latitude: 7.33069300,
     longitude: 80.56884280,
   ),
-
   Cities(
     id: 755,
     districtId: 11,
@@ -8327,7 +7571,6 @@ final List<Cities> locations = [
     latitude: 7.24356700,
     longitude: 81.00644420,
   ),
-
   Cities(
     id: 756,
     districtId: 11,
@@ -8338,7 +7581,6 @@ final List<Cities> locations = [
     latitude: 7.11324900,
     longitude: 80.61881560,
   ),
-
   Cities(
     id: 757,
     districtId: 11,
@@ -8349,7 +7591,6 @@ final List<Cities> locations = [
     latitude: 7.35297890,
     longitude: 80.61326460,
   ),
-
   Cities(
     id: 758,
     districtId: 11,
@@ -8360,7 +7601,6 @@ final List<Cities> locations = [
     latitude: 7.26863590,
     longitude: 80.66321030,
   ),
-
   Cities(
     id: 759,
     districtId: 11,
@@ -8371,7 +7611,6 @@ final List<Cities> locations = [
     latitude: 7.43751890,
     longitude: 80.56884280,
   ),
-
   Cities(
     id: 760,
     districtId: 11,
@@ -8382,7 +7621,6 @@ final List<Cities> locations = [
     latitude: 7.13773260,
     longitude: 80.61106310,
   ),
-
   Cities(
     id: 761,
     districtId: 11,
@@ -8393,7 +7631,6 @@ final List<Cities> locations = [
     latitude: 7.27224530,
     longitude: 80.48822660,
   ),
-
   Cities(
     id: 762,
     districtId: 11,
@@ -8404,7 +7641,6 @@ final List<Cities> locations = [
     latitude: 7.28914610,
     longitude: 80.76075890,
   ),
-
   Cities(
     id: 763,
     districtId: 11,
@@ -8415,7 +7651,6 @@ final List<Cities> locations = [
     latitude: 7.41501070,
     longitude: 80.57856210,
   ),
-
   Cities(
     id: 764,
     districtId: 11,
@@ -8426,7 +7661,6 @@ final List<Cities> locations = [
     latitude: 7.36568320,
     longitude: 80.60543550,
   ),
-
   Cities(
     id: 765,
     districtId: 11,
@@ -8437,7 +7671,6 @@ final List<Cities> locations = [
     latitude: 7.26447420,
     longitude: 80.98434460,
   ),
-
   Cities(
     id: 766,
     districtId: 11,
@@ -8448,7 +7681,6 @@ final List<Cities> locations = [
     latitude: 7.20982270,
     longitude: 80.72005570,
   ),
-
   Cities(
     id: 767,
     districtId: 11,
@@ -8459,7 +7691,6 @@ final List<Cities> locations = [
     latitude: 7.30682480,
     longitude: 80.90003310,
   ),
-
   Cities(
     id: 768,
     districtId: 11,
@@ -8470,7 +7701,6 @@ final List<Cities> locations = [
     latitude: 7.28209570,
     longitude: 80.54106700,
   ),
-
   Cities(
     id: 769,
     districtId: 11,
@@ -8481,7 +7711,6 @@ final List<Cities> locations = [
     latitude: 7.32662400,
     longitude: 80.43960600,
   ),
-
   Cities(
     id: 770,
     districtId: 11,
@@ -8492,7 +7721,6 @@ final List<Cities> locations = [
     latitude: 7.01611380,
     longitude: 80.51667090,
   ),
-
   Cities(
     id: 771,
     districtId: 11,
@@ -8503,7 +7731,6 @@ final List<Cities> locations = [
     latitude: 7.17267450,
     longitude: 80.70157100,
   ),
-
   Cities(
     id: 772,
     districtId: 11,
@@ -8514,7 +7741,6 @@ final List<Cities> locations = [
     latitude: 8.11175760,
     longitude: 80.92906850,
   ),
-
   Cities(
     id: 773,
     districtId: 11,
@@ -8525,7 +7751,6 @@ final List<Cities> locations = [
     latitude: 7.39500360,
     longitude: 80.57995050,
   ),
-
   Cities(
     id: 774,
     districtId: 11,
@@ -8536,7 +7761,6 @@ final List<Cities> locations = [
     latitude: 7.08608120,
     longitude: 80.46046430,
   ),
-
   Cities(
     id: 775,
     districtId: 11,
@@ -8547,7 +7771,6 @@ final List<Cities> locations = [
     latitude: 7.37907490,
     longitude: 80.64795240,
   ),
-
   Cities(
     id: 776,
     districtId: 11,
@@ -8558,7 +7781,6 @@ final List<Cities> locations = [
     latitude: 7.25143540,
     longitude: 80.66452750,
   ),
-
   Cities(
     id: 777,
     districtId: 11,
@@ -8569,7 +7791,6 @@ final List<Cities> locations = [
     latitude: 6.98119520,
     longitude: 80.52717560,
   ),
-
   Cities(
     id: 778,
     districtId: 11,
@@ -8580,7 +7801,6 @@ final List<Cities> locations = [
     latitude: 7.36996830,
     longitude: 80.53273240,
   ),
-
   Cities(
     id: 779,
     districtId: 11,
@@ -8591,7 +7811,6 @@ final List<Cities> locations = [
     latitude: 7.19684440,
     longitude: 80.67153170,
   ),
-
   Cities(
     id: 780,
     districtId: 11,
@@ -8602,7 +7821,6 @@ final List<Cities> locations = [
     latitude: 7.41602200,
     longitude: 80.56328840,
   ),
-
   Cities(
     id: 781,
     districtId: 11,
@@ -8613,7 +7831,6 @@ final List<Cities> locations = [
     latitude: 7.12677700,
     longitude: 80.56467700,
   ),
-
   Cities(
     id: 782,
     districtId: 11,
@@ -8624,7 +7841,6 @@ final List<Cities> locations = [
     latitude: 7.21531510,
     longitude: 80.59799730,
   ),
-
   Cities(
     id: 783,
     districtId: 11,
@@ -8635,7 +7851,6 @@ final List<Cities> locations = [
     latitude: 7.22808190,
     longitude: 80.70064960,
   ),
-
   Cities(
     id: 784,
     districtId: 11,
@@ -8646,7 +7861,6 @@ final List<Cities> locations = [
     latitude: 7.30505700,
     longitude: 80.61881560,
   ),
-
   Cities(
     id: 785,
     districtId: 11,
@@ -8657,7 +7871,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 786,
     districtId: 11,
@@ -8668,7 +7881,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 787,
     districtId: 11,
@@ -8679,7 +7891,6 @@ final List<Cities> locations = [
     latitude: 7.32286100,
     longitude: 80.65913260,
   ),
-
   Cities(
     id: 788,
     districtId: 11,
@@ -8690,7 +7901,6 @@ final List<Cities> locations = [
     latitude: 7.26311390,
     longitude: 80.71816510,
   ),
-
   Cities(
     id: 789,
     districtId: 11,
@@ -8701,7 +7911,6 @@ final List<Cities> locations = [
     latitude: 7.31433950,
     longitude: 80.80416350,
   ),
-
   Cities(
     id: 790,
     districtId: 11,
@@ -8712,7 +7921,6 @@ final List<Cities> locations = [
     latitude: 7.26730780,
     longitude: 80.99263270,
   ),
-
   Cities(
     id: 791,
     districtId: 11,
@@ -8723,7 +7931,6 @@ final List<Cities> locations = [
     latitude: 7.04470080,
     longitude: 80.51606080,
   ),
-
   Cities(
     id: 792,
     districtId: 11,
@@ -8734,7 +7941,6 @@ final List<Cities> locations = [
     latitude: 7.23030520,
     longitude: 80.58203300,
   ),
-
   Cities(
     id: 793,
     districtId: 20,
@@ -8745,7 +7951,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 794,
     districtId: 11,
@@ -8756,7 +7961,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 795,
     districtId: 11,
@@ -8767,7 +7971,6 @@ final List<Cities> locations = [
     latitude: 7.33688600,
     longitude: 80.47181430,
   ),
-
   Cities(
     id: 796,
     districtId: 11,
@@ -8778,7 +7981,6 @@ final List<Cities> locations = [
     latitude: 7.23674630,
     longitude: 80.60354940,
   ),
-
   Cities(
     id: 797,
     districtId: 11,
@@ -8789,7 +7991,6 @@ final List<Cities> locations = [
     latitude: 7.32102140,
     longitude: 80.61584050,
   ),
-
   Cities(
     id: 798,
     districtId: 11,
@@ -8800,7 +8001,6 @@ final List<Cities> locations = [
     latitude: 7.29917070,
     longitude: 80.85161730,
   ),
-
   Cities(
     id: 799,
     districtId: 11,
@@ -8811,7 +8011,6 @@ final List<Cities> locations = [
     latitude: 7.17678210,
     longitude: 80.60216140,
   ),
-
   Cities(
     id: 800,
     districtId: 11,
@@ -8822,7 +8021,6 @@ final List<Cities> locations = [
     latitude: 7.35952440,
     longitude: 80.63893500,
   ),
-
   Cities(
     id: 801,
     districtId: 11,
@@ -8833,7 +8031,6 @@ final List<Cities> locations = [
     latitude: 7.25497250,
     longitude: 80.51883960,
   ),
-
   Cities(
     id: 802,
     districtId: 11,
@@ -8844,7 +8041,6 @@ final List<Cities> locations = [
     latitude: 7.33577980,
     longitude: 80.47115370,
   ),
-
   Cities(
     id: 803,
     districtId: 11,
@@ -8855,7 +8051,6 @@ final List<Cities> locations = [
     latitude: 7.38690830,
     longitude: 80.89726730,
   ),
-
   Cities(
     id: 804,
     districtId: 11,
@@ -8866,7 +8061,6 @@ final List<Cities> locations = [
     latitude: 7.27974620,
     longitude: 80.62020330,
   ),
-
   Cities(
     id: 805,
     districtId: 11,
@@ -8877,7 +8071,6 @@ final List<Cities> locations = [
     latitude: 7.23911780,
     longitude: 80.71072330,
   ),
-
   Cities(
     id: 806,
     districtId: 11,
@@ -8888,7 +8081,6 @@ final List<Cities> locations = [
     latitude: 7.33599030,
     longitude: 80.62140050,
   ),
-
   Cities(
     id: 807,
     districtId: 11,
@@ -8899,7 +8091,6 @@ final List<Cities> locations = [
     latitude: 7.08155280,
     longitude: 80.66794850,
   ),
-
   Cities(
     id: 808,
     districtId: 11,
@@ -8910,7 +8101,6 @@ final List<Cities> locations = [
     latitude: 6.97648370,
     longitude: 80.48151140,
   ),
-
   Cities(
     id: 809,
     districtId: 11,
@@ -8921,7 +8111,6 @@ final List<Cities> locations = [
     latitude: 7.29253660,
     longitude: 80.72282770,
   ),
-
   Cities(
     id: 810,
     districtId: 11,
@@ -8932,7 +8121,6 @@ final List<Cities> locations = [
     latitude: 7.01016490,
     longitude: 80.58962260,
   ),
-
   Cities(
     id: 811,
     districtId: 11,
@@ -8943,7 +8131,6 @@ final List<Cities> locations = [
     latitude: 7.28327560,
     longitude: 80.66182340,
   ),
-
   Cities(
     id: 812,
     districtId: 11,
@@ -8954,7 +8141,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 813,
     districtId: 11,
@@ -8965,7 +8151,6 @@ final List<Cities> locations = [
     latitude: 7.16928430,
     longitude: 80.73246460,
   ),
-
   Cities(
     id: 814,
     districtId: 11,
@@ -8976,7 +8161,6 @@ final List<Cities> locations = [
     latitude: 7.47215410,
     longitude: 80.94565530,
   ),
-
   Cities(
     id: 815,
     districtId: 11,
@@ -8987,7 +8171,6 @@ final List<Cities> locations = [
     latitude: 7.31827420,
     longitude: 80.59585190,
   ),
-
   Cities(
     id: 816,
     districtId: 11,
@@ -8998,7 +8181,6 @@ final List<Cities> locations = [
     latitude: 7.30459410,
     longitude: 80.74214100,
   ),
-
   Cities(
     id: 817,
     districtId: 11,
@@ -9009,7 +8191,6 @@ final List<Cities> locations = [
     latitude: 7.35091190,
     longitude: 80.54776870,
   ),
-
   Cities(
     id: 818,
     districtId: 11,
@@ -9020,7 +8201,6 @@ final List<Cities> locations = [
     latitude: 7.28219950,
     longitude: 80.69427580,
   ),
-
   Cities(
     id: 819,
     districtId: 11,
@@ -9031,7 +8211,6 @@ final List<Cities> locations = [
     latitude: 7.21536260,
     longitude: 80.57105550,
   ),
-
   Cities(
     id: 820,
     districtId: 11,
@@ -9042,7 +8221,6 @@ final List<Cities> locations = [
     latitude: 7.31288880,
     longitude: 80.56027950,
   ),
-
   Cities(
     id: 821,
     districtId: 11,
@@ -9053,7 +8231,6 @@ final List<Cities> locations = [
     latitude: 7.19830890,
     longitude: 80.58064470,
   ),
-
   Cities(
     id: 822,
     districtId: 11,
@@ -9064,7 +8241,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 823,
     districtId: 11,
@@ -9075,7 +8251,6 @@ final List<Cities> locations = [
     latitude: 7.32755930,
     longitude: 80.67430530,
   ),
-
   Cities(
     id: 824,
     districtId: 11,
@@ -9086,7 +8261,6 @@ final List<Cities> locations = [
     latitude: 7.18419030,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 825,
     districtId: 11,
@@ -9097,7 +8271,6 @@ final List<Cities> locations = [
     latitude: 7.25845310,
     longitude: 80.88343670,
   ),
-
   Cities(
     id: 826,
     districtId: 11,
@@ -9108,7 +8281,6 @@ final List<Cities> locations = [
     latitude: 7.39292340,
     longitude: 80.72389960,
   ),
-
   Cities(
     id: 827,
     districtId: 11,
@@ -9119,7 +8291,6 @@ final List<Cities> locations = [
     latitude: 7.33577980,
     longitude: 80.47115370,
   ),
-
   Cities(
     id: 828,
     districtId: 11,
@@ -9130,7 +8301,6 @@ final List<Cities> locations = [
     latitude: 7.22160320,
     longitude: 80.71412800,
   ),
-
   Cities(
     id: 829,
     districtId: 11,
@@ -9141,7 +8311,6 @@ final List<Cities> locations = [
     latitude: 6.32520790,
     longitude: 81.21057130,
   ),
-
   Cities(
     id: 830,
     districtId: 11,
@@ -9152,7 +8321,6 @@ final List<Cities> locations = [
     latitude: 7.22779430,
     longitude: 80.75192720,
   ),
-
   Cities(
     id: 831,
     districtId: 11,
@@ -9163,7 +8331,6 @@ final List<Cities> locations = [
     latitude: 7.34551600,
     longitude: 80.70342220,
   ),
-
   Cities(
     id: 832,
     districtId: 11,
@@ -9174,7 +8341,6 @@ final List<Cities> locations = [
     latitude: 7.34041540,
     longitude: 80.77963130,
   ),
-
   Cities(
     id: 833,
     districtId: 11,
@@ -9185,7 +8351,6 @@ final List<Cities> locations = [
     latitude: 7.29214700,
     longitude: 80.63451000,
   ),
-
   Cities(
     id: 834,
     districtId: 11,
@@ -9196,7 +8361,6 @@ final List<Cities> locations = [
     latitude: 7.23017010,
     longitude: 80.60771320,
   ),
-
   Cities(
     id: 835,
     districtId: 11,
@@ -9207,7 +8371,6 @@ final List<Cities> locations = [
     latitude: 7.20636030,
     longitude: 80.74638520,
   ),
-
   Cities(
     id: 836,
     districtId: 20,
@@ -9218,7 +8381,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 837,
     districtId: 11,
@@ -9229,7 +8391,6 @@ final List<Cities> locations = [
     latitude: 7.08809270,
     longitude: 80.57328790,
   ),
-
   Cities(
     id: 838,
     districtId: 11,
@@ -9240,7 +8401,6 @@ final List<Cities> locations = [
     latitude: 7.28645840,
     longitude: 80.81701670,
   ),
-
   Cities(
     id: 839,
     districtId: 11,
@@ -9251,7 +8411,6 @@ final List<Cities> locations = [
     latitude: 7.35750070,
     longitude: 80.57439690,
   ),
-
   Cities(
     id: 840,
     districtId: 11,
@@ -9262,7 +8421,6 @@ final List<Cities> locations = [
     latitude: 7.13712680,
     longitude: 80.52600060,
   ),
-
   Cities(
     id: 841,
     districtId: 11,
@@ -9273,7 +8431,6 @@ final List<Cities> locations = [
     latitude: 7.20719150,
     longitude: 80.60907330,
   ),
-
   Cities(
     id: 842,
     districtId: 11,
@@ -9284,7 +8441,6 @@ final List<Cities> locations = [
     latitude: 7.14489710,
     longitude: 80.53838360,
   ),
-
   Cities(
     id: 843,
     districtId: 11,
@@ -9295,7 +8451,6 @@ final List<Cities> locations = [
     latitude: 7.31745810,
     longitude: 80.70203590,
   ),
-
   Cities(
     id: 844,
     districtId: 11,
@@ -9306,7 +8461,6 @@ final List<Cities> locations = [
     latitude: 7.43264530,
     longitude: 80.84608220,
   ),
-
   Cities(
     id: 845,
     districtId: 11,
@@ -9317,7 +8471,6 @@ final List<Cities> locations = [
     latitude: 7.34132310,
     longitude: 80.50355480,
   ),
-
   Cities(
     id: 846,
     districtId: 11,
@@ -9328,7 +8481,6 @@ final List<Cities> locations = [
     latitude: 7.22745230,
     longitude: 81.00091990,
   ),
-
   Cities(
     id: 847,
     districtId: 11,
@@ -9339,7 +8491,6 @@ final List<Cities> locations = [
     latitude: 7.30269050,
     longitude: 80.62927990,
   ),
-
   Cities(
     id: 848,
     districtId: 11,
@@ -9350,7 +8501,6 @@ final List<Cities> locations = [
     latitude: 7.29867830,
     longitude: 80.56884280,
   ),
-
   Cities(
     id: 849,
     districtId: 11,
@@ -9361,7 +8511,6 @@ final List<Cities> locations = [
     latitude: 7.20709420,
     longitude: 80.58689210,
   ),
-
   Cities(
     id: 850,
     districtId: 11,
@@ -9372,7 +8521,6 @@ final List<Cities> locations = [
     latitude: 6.94031580,
     longitude: 80.74084290,
   ),
-
   Cities(
     id: 851,
     districtId: 11,
@@ -9383,7 +8531,6 @@ final List<Cities> locations = [
     latitude: 7.34413090,
     longitude: 80.73322160,
   ),
-
   Cities(
     id: 852,
     districtId: 11,
@@ -9394,7 +8541,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 853,
     districtId: 11,
@@ -9405,7 +8551,6 @@ final List<Cities> locations = [
     latitude: 7.04470080,
     longitude: 80.51606080,
   ),
-
   Cities(
     id: 854,
     districtId: 11,
@@ -9416,7 +8561,6 @@ final List<Cities> locations = [
     latitude: 7.03981720,
     longitude: 80.60385780,
   ),
-
   Cities(
     id: 855,
     districtId: 11,
@@ -9427,7 +8571,6 @@ final List<Cities> locations = [
     latitude: 7.19950170,
     longitude: 80.61300540,
   ),
-
   Cities(
     id: 856,
     districtId: 11,
@@ -9438,7 +8581,6 @@ final List<Cities> locations = [
     latitude: 7.23754640,
     longitude: 80.69561280,
   ),
-
   Cities(
     id: 857,
     districtId: 11,
@@ -9449,7 +8591,6 @@ final List<Cities> locations = [
     latitude: 7.45254660,
     longitude: 80.58411550,
   ),
-
   Cities(
     id: 858,
     districtId: 11,
@@ -9460,7 +8601,6 @@ final List<Cities> locations = [
     latitude: 6.02501430,
     longitude: 80.21804080,
   ),
-
   Cities(
     id: 859,
     districtId: 11,
@@ -9471,7 +8611,6 @@ final List<Cities> locations = [
     latitude: 7.15582330,
     longitude: 80.63193290,
   ),
-
   Cities(
     id: 860,
     districtId: 11,
@@ -9482,7 +8621,6 @@ final List<Cities> locations = [
     latitude: 7.12389050,
     longitude: 80.61881560,
   ),
-
   Cities(
     id: 861,
     districtId: 11,
@@ -9493,7 +8631,6 @@ final List<Cities> locations = [
     latitude: 7.00785470,
     longitude: 80.53273240,
   ),
-
   Cities(
     id: 862,
     districtId: 11,
@@ -9504,7 +8641,6 @@ final List<Cities> locations = [
     latitude: 7.11224550,
     longitude: 80.47228170,
   ),
-
   Cities(
     id: 863,
     districtId: 11,
@@ -9515,7 +8651,6 @@ final List<Cities> locations = [
     latitude: 7.26986530,
     longitude: 80.59383300,
   ),
-
   Cities(
     id: 864,
     districtId: 11,
@@ -9526,7 +8661,6 @@ final List<Cities> locations = [
     latitude: 7.25884400,
     longitude: 80.54025890,
   ),
-
   Cities(
     id: 865,
     districtId: 11,
@@ -9537,7 +8671,6 @@ final List<Cities> locations = [
     latitude: 7.24902840,
     longitude: 80.65061490,
   ),
-
   Cities(
     id: 866,
     districtId: 11,
@@ -9548,7 +8681,6 @@ final List<Cities> locations = [
     latitude: 7.38628780,
     longitude: 80.48409740,
   ),
-
   Cities(
     id: 867,
     districtId: 11,
@@ -9559,7 +8691,6 @@ final List<Cities> locations = [
     latitude: 7.14358860,
     longitude: 80.67153170,
   ),
-
   Cities(
     id: 868,
     districtId: 11,
@@ -9570,7 +8701,6 @@ final List<Cities> locations = [
     latitude: 7.11098270,
     longitude: 80.63824130,
   ),
-
   Cities(
     id: 869,
     districtId: 11,
@@ -9581,7 +8711,6 @@ final List<Cities> locations = [
     latitude: 7.33592530,
     longitude: 80.75608340,
   ),
-
   Cities(
     id: 870,
     districtId: 11,
@@ -9592,7 +8721,6 @@ final List<Cities> locations = [
     latitude: 7.29635490,
     longitude: 80.73010350,
   ),
-
   Cities(
     id: 871,
     districtId: 11,
@@ -9603,7 +8731,6 @@ final List<Cities> locations = [
     latitude: 8.56611110,
     longitude: 80.22638890,
   ),
-
   Cities(
     id: 872,
     districtId: 11,
@@ -9614,7 +8741,6 @@ final List<Cities> locations = [
     latitude: 7.29100470,
     longitude: 80.77824630,
   ),
-
   Cities(
     id: 873,
     districtId: 11,
@@ -9625,7 +8751,6 @@ final List<Cities> locations = [
     latitude: 7.32297530,
     longitude: 80.77547630,
   ),
-
   Cities(
     id: 874,
     districtId: 11,
@@ -9636,7 +8761,6 @@ final List<Cities> locations = [
     latitude: 7.19960590,
     longitude: 80.94962880,
   ),
-
   Cities(
     id: 875,
     districtId: 11,
@@ -9647,7 +8771,6 @@ final List<Cities> locations = [
     latitude: 7.32172700,
     longitude: 80.51825350,
   ),
-
   Cities(
     id: 876,
     districtId: 11,
@@ -9658,7 +8781,6 @@ final List<Cities> locations = [
     latitude: 7.28271720,
     longitude: 80.76439520,
   ),
-
   Cities(
     id: 877,
     districtId: 11,
@@ -9669,7 +8791,6 @@ final List<Cities> locations = [
     latitude: 7.24776190,
     longitude: 80.68539860,
   ),
-
   Cities(
     id: 878,
     districtId: 11,
@@ -9680,7 +8801,6 @@ final List<Cities> locations = [
     latitude: 7.31538190,
     longitude: 80.74493090,
   ),
-
   Cities(
     id: 879,
     districtId: 11,
@@ -9691,7 +8811,6 @@ final List<Cities> locations = [
     latitude: 7.28327560,
     longitude: 80.66182340,
   ),
-
   Cities(
     id: 880,
     districtId: 11,
@@ -9702,7 +8821,6 @@ final List<Cities> locations = [
     latitude: 7.26399420,
     longitude: 80.60384950,
   ),
-
   Cities(
     id: 881,
     districtId: 11,
@@ -9713,7 +8831,6 @@ final List<Cities> locations = [
     latitude: 7.09592590,
     longitude: 80.52279280,
   ),
-
   Cities(
     id: 882,
     districtId: 11,
@@ -9724,7 +8841,6 @@ final List<Cities> locations = [
     latitude: 7.34174960,
     longitude: 80.65072680,
   ),
-
   Cities(
     id: 883,
     districtId: 11,
@@ -9735,7 +8851,6 @@ final List<Cities> locations = [
     latitude: 7.31415770,
     longitude: 80.78482470,
   ),
-
   Cities(
     id: 884,
     districtId: 11,
@@ -9746,7 +8861,6 @@ final List<Cities> locations = [
     latitude: 7.31438630,
     longitude: 80.87790380,
   ),
-
   Cities(
     id: 885,
     districtId: 11,
@@ -9757,7 +8871,6 @@ final List<Cities> locations = [
     latitude: 7.29057150,
     longitude: 80.63372620,
   ),
-
   Cities(
     id: 886,
     districtId: 11,
@@ -9768,7 +8881,6 @@ final List<Cities> locations = [
     latitude: 7.26257160,
     longitude: 80.63300950,
   ),
-
   Cities(
     id: 887,
     districtId: 11,
@@ -9779,7 +8891,6 @@ final List<Cities> locations = [
     latitude: 7.09876450,
     longitude: 80.56051110,
   ),
-
   Cities(
     id: 888,
     districtId: 11,
@@ -9790,7 +8901,6 @@ final List<Cities> locations = [
     latitude: 7.20522760,
     longitude: 80.76879140,
   ),
-
   Cities(
     id: 889,
     districtId: 11,
@@ -9801,7 +8911,6 @@ final List<Cities> locations = [
     latitude: 7.20096370,
     longitude: 80.54801180,
   ),
-
   Cities(
     id: 890,
     districtId: 11,
@@ -9812,7 +8921,6 @@ final List<Cities> locations = [
     latitude: 7.39523860,
     longitude: 80.59105670,
   ),
-
   Cities(
     id: 891,
     districtId: 11,
@@ -9823,7 +8931,6 @@ final List<Cities> locations = [
     latitude: 7.39523860,
     longitude: 80.59105670,
   ),
-
   Cities(
     id: 892,
     districtId: 11,
@@ -9834,7 +8941,6 @@ final List<Cities> locations = [
     latitude: 7.23411760,
     longitude: 80.54106700,
   ),
-
   Cities(
     id: 893,
     districtId: 11,
@@ -9845,7 +8951,6 @@ final List<Cities> locations = [
     latitude: 7.04210070,
     longitude: 80.51883960,
   ),
-
   Cities(
     id: 894,
     districtId: 11,
@@ -9856,7 +8961,6 @@ final List<Cities> locations = [
     latitude: 7.26511460,
     longitude: 80.81701670,
   ),
-
   Cities(
     id: 895,
     districtId: 11,
@@ -9867,7 +8971,6 @@ final List<Cities> locations = [
     latitude: 7.32991440,
     longitude: 80.98572600,
   ),
-
   Cities(
     id: 896,
     districtId: 11,
@@ -9878,7 +8981,6 @@ final List<Cities> locations = [
     latitude: 7.36454780,
     longitude: 80.75138200,
   ),
-
   Cities(
     id: 897,
     districtId: 11,
@@ -9889,7 +8991,6 @@ final List<Cities> locations = [
     latitude: 7.31577890,
     longitude: 80.57950500,
   ),
-
   Cities(
     id: 898,
     districtId: 11,
@@ -9900,7 +9001,6 @@ final List<Cities> locations = [
     latitude: 7.36437410,
     longitude: 80.51160780,
   ),
-
   Cities(
     id: 899,
     districtId: 11,
@@ -9911,7 +9011,6 @@ final List<Cities> locations = [
     latitude: 7.31478000,
     longitude: 80.57109060,
   ),
-
   Cities(
     id: 900,
     districtId: 11,
@@ -9922,7 +9021,6 @@ final List<Cities> locations = [
     latitude: 7.29440420,
     longitude: 80.59672060,
   ),
-
   Cities(
     id: 901,
     districtId: 12,
@@ -9933,7 +9031,6 @@ final List<Cities> locations = [
     latitude: 7.19813610,
     longitude: 80.28648620,
   ),
-
   Cities(
     id: 902,
     districtId: 12,
@@ -9944,7 +9041,6 @@ final List<Cities> locations = [
     latitude: 7.13333300,
     longitude: 80.33333300,
   ),
-
   Cities(
     id: 903,
     districtId: 12,
@@ -9955,7 +9051,6 @@ final List<Cities> locations = [
     latitude: 7.29543020,
     longitude: 80.23662610,
   ),
-
   Cities(
     id: 904,
     districtId: 12,
@@ -9966,7 +9061,6 @@ final List<Cities> locations = [
     latitude: 7.15632470,
     longitude: 80.16588300,
   ),
-
   Cities(
     id: 905,
     districtId: 12,
@@ -9977,7 +9071,6 @@ final List<Cities> locations = [
     latitude: 6.68614570,
     longitude: 80.74638520,
   ),
-
   Cities(
     id: 906,
     districtId: 12,
@@ -9988,7 +9081,6 @@ final List<Cities> locations = [
     latitude: 7.13767300,
     longitude: 80.44795000,
   ),
-
   Cities(
     id: 907,
     districtId: 12,
@@ -9999,7 +9091,6 @@ final List<Cities> locations = [
     latitude: 7.23676530,
     longitude: 80.41317800,
   ),
-
   Cities(
     id: 908,
     districtId: 12,
@@ -10010,7 +9101,6 @@ final List<Cities> locations = [
     latitude: 7.02988480,
     longitude: 80.18471670,
   ),
-
   Cities(
     id: 909,
     districtId: 12,
@@ -10021,7 +9111,6 @@ final List<Cities> locations = [
     latitude: 7.07990050,
     longitude: 80.29066590,
   ),
-
   Cities(
     id: 910,
     districtId: 12,
@@ -10032,7 +9121,6 @@ final List<Cities> locations = [
     latitude: 7.46171720,
     longitude: 80.48201240,
   ),
-
   Cities(
     id: 911,
     districtId: 12,
@@ -10043,7 +9131,6 @@ final List<Cities> locations = [
     latitude: 6.92425410,
     longitude: 80.37703340,
   ),
-
   Cities(
     id: 912,
     districtId: 12,
@@ -10054,7 +9141,6 @@ final List<Cities> locations = [
     latitude: 7.14966510,
     longitude: 80.46498290,
   ),
-
   Cities(
     id: 913,
     districtId: 12,
@@ -10065,7 +9151,6 @@ final List<Cities> locations = [
     latitude: 7.11624740,
     longitude: 80.30955840,
   ),
-
   Cities(
     id: 914,
     districtId: 12,
@@ -10076,7 +9161,6 @@ final List<Cities> locations = [
     latitude: 6.74623400,
     longitude: 80.03952050,
   ),
-
   Cities(
     id: 915,
     districtId: 12,
@@ -10087,7 +9171,6 @@ final List<Cities> locations = [
     latitude: 7.27845860,
     longitude: 80.29096310,
   ),
-
   Cities(
     id: 916,
     districtId: 12,
@@ -10098,7 +9181,6 @@ final List<Cities> locations = [
     latitude: 6.71459120,
     longitude: 80.78721850,
   ),
-
   Cities(
     id: 917,
     districtId: 12,
@@ -10109,7 +9191,6 @@ final List<Cities> locations = [
     latitude: 7.06627550,
     longitude: 80.40204800,
   ),
-
   Cities(
     id: 918,
     districtId: 12,
@@ -10120,7 +9201,6 @@ final List<Cities> locations = [
     latitude: 7.32012270,
     longitude: 80.07863590,
   ),
-
   Cities(
     id: 919,
     districtId: 12,
@@ -10131,7 +9211,6 @@ final List<Cities> locations = [
     latitude: 7.16826830,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 920,
     districtId: 12,
@@ -10142,7 +9221,6 @@ final List<Cities> locations = [
     latitude: 6.97734990,
     longitude: 80.33802130,
   ),
-
   Cities(
     id: 921,
     districtId: 12,
@@ -10153,7 +9231,6 @@ final List<Cities> locations = [
     latitude: 7.14727070,
     longitude: 80.39787380,
   ),
-
   Cities(
     id: 922,
     districtId: 12,
@@ -10164,7 +9241,6 @@ final List<Cities> locations = [
     latitude: 7.10452810,
     longitude: 80.33604700,
   ),
-
   Cities(
     id: 923,
     districtId: 12,
@@ -10175,7 +9251,6 @@ final List<Cities> locations = [
     latitude: 7.19251700,
     longitude: 80.33523640,
   ),
-
   Cities(
     id: 924,
     districtId: 12,
@@ -10186,7 +9261,6 @@ final List<Cities> locations = [
     latitude: 7.17830540,
     longitude: 80.41874250,
   ),
-
   Cities(
     id: 925,
     districtId: 12,
@@ -10197,7 +9271,6 @@ final List<Cities> locations = [
     latitude: 7.09556450,
     longitude: 80.40483060,
   ),
-
   Cities(
     id: 926,
     districtId: 12,
@@ -10208,7 +9281,6 @@ final List<Cities> locations = [
     latitude: 7.17292530,
     longitude: 80.36220460,
   ),
-
   Cities(
     id: 927,
     districtId: 12,
@@ -10219,7 +9291,6 @@ final List<Cities> locations = [
     latitude: 6.96389480,
     longitude: 80.26419100,
   ),
-
   Cities(
     id: 928,
     districtId: 12,
@@ -10230,7 +9301,6 @@ final List<Cities> locations = [
     latitude: 7.28230050,
     longitude: 80.36168900,
   ),
-
   Cities(
     id: 929,
     districtId: 12,
@@ -10241,7 +9311,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 930,
     districtId: 12,
@@ -10252,7 +9321,6 @@ final List<Cities> locations = [
     latitude: 6.93491980,
     longitude: 80.33802130,
   ),
-
   Cities(
     id: 931,
     districtId: 12,
@@ -10263,7 +9331,6 @@ final List<Cities> locations = [
     latitude: 7.27737960,
     longitude: 80.31852520,
   ),
-
   Cities(
     id: 932,
     districtId: 12,
@@ -10274,7 +9341,6 @@ final List<Cities> locations = [
     latitude: 7.21804520,
     longitude: 80.47297680,
   ),
-
   Cities(
     id: 933,
     districtId: 12,
@@ -10285,7 +9351,6 @@ final List<Cities> locations = [
     latitude: 7.38409630,
     longitude: 80.35124820,
   ),
-
   Cities(
     id: 934,
     districtId: 12,
@@ -10296,7 +9361,6 @@ final List<Cities> locations = [
     latitude: 7.18910810,
     longitude: 80.22426240,
   ),
-
   Cities(
     id: 935,
     districtId: 12,
@@ -10307,7 +9371,6 @@ final List<Cities> locations = [
     latitude: 7.14735240,
     longitude: 80.21261090,
   ),
-
   Cities(
     id: 936,
     districtId: 12,
@@ -10318,7 +9381,6 @@ final List<Cities> locations = [
     latitude: 7.13934840,
     longitude: 80.23474530,
   ),
-
   Cities(
     id: 937,
     districtId: 12,
@@ -10329,7 +9391,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 938,
     districtId: 12,
@@ -10340,7 +9401,6 @@ final List<Cities> locations = [
     latitude: 7.23594070,
     longitude: 80.31156120,
   ),
-
   Cities(
     id: 939,
     districtId: 12,
@@ -10351,7 +9411,6 @@ final List<Cities> locations = [
     latitude: 6.70779850,
     longitude: 80.49660620,
   ),
-
   Cities(
     id: 940,
     districtId: 12,
@@ -10362,7 +9421,6 @@ final List<Cities> locations = [
     latitude: 7.05310740,
     longitude: 80.27951950,
   ),
-
   Cities(
     id: 941,
     districtId: 12,
@@ -10373,7 +9431,6 @@ final List<Cities> locations = [
     latitude: 7.12746820,
     longitude: 80.40483060,
   ),
-
   Cities(
     id: 942,
     districtId: 12,
@@ -10384,7 +9441,6 @@ final List<Cities> locations = [
     latitude: 6.90584960,
     longitude: 80.22663120,
   ),
-
   Cities(
     id: 943,
     districtId: 12,
@@ -10395,7 +9451,6 @@ final List<Cities> locations = [
     latitude: 6.88097930,
     longitude: 80.31729520,
   ),
-
   Cities(
     id: 944,
     districtId: 12,
@@ -10406,7 +9461,6 @@ final List<Cities> locations = [
     latitude: 7.01811020,
     longitude: 80.20935370,
   ),
-
   Cities(
     id: 945,
     districtId: 12,
@@ -10417,7 +9471,6 @@ final List<Cities> locations = [
     latitude: 7.20704970,
     longitude: 80.30170420,
   ),
-
   Cities(
     id: 946,
     districtId: 12,
@@ -10428,7 +9481,6 @@ final List<Cities> locations = [
     latitude: 6.99455040,
     longitude: 80.32443620,
   ),
-
   Cities(
     id: 947,
     districtId: 12,
@@ -10439,7 +9491,6 @@ final List<Cities> locations = [
     latitude: 7.30186820,
     longitude: 80.59383300,
   ),
-
   Cities(
     id: 948,
     districtId: 12,
@@ -10450,7 +9501,6 @@ final List<Cities> locations = [
     latitude: 7.05677800,
     longitude: 80.65350110,
   ),
-
   Cities(
     id: 949,
     districtId: 12,
@@ -10461,7 +9511,6 @@ final List<Cities> locations = [
     latitude: 7.17336010,
     longitude: 80.50077550,
   ),
-
   Cities(
     id: 950,
     districtId: 12,
@@ -10472,7 +9521,6 @@ final List<Cities> locations = [
     latitude: 7.37067080,
     longitude: 80.37839160,
   ),
-
   Cities(
     id: 951,
     districtId: 12,
@@ -10483,7 +9531,6 @@ final List<Cities> locations = [
     latitude: 7.24791280,
     longitude: 80.46811100,
   ),
-
   Cities(
     id: 952,
     districtId: 12,
@@ -10494,7 +9541,6 @@ final List<Cities> locations = [
     latitude: 6.91323470,
     longitude: 80.27830300,
   ),
-
   Cities(
     id: 953,
     districtId: 12,
@@ -10505,7 +9551,6 @@ final List<Cities> locations = [
     latitude: 7.22691760,
     longitude: 81.67472950,
   ),
-
   Cities(
     id: 954,
     districtId: 12,
@@ -10516,7 +9561,6 @@ final List<Cities> locations = [
     latitude: 7.28745490,
     longitude: 80.38465420,
   ),
-
   Cities(
     id: 955,
     districtId: 12,
@@ -10527,7 +9571,6 @@ final List<Cities> locations = [
     latitude: 7.34849750,
     longitude: 80.40204800,
   ),
-
   Cities(
     id: 956,
     districtId: 12,
@@ -10538,7 +9581,6 @@ final List<Cities> locations = [
     latitude: 7.22236400,
     longitude: 80.27724350,
   ),
-
   Cities(
     id: 957,
     districtId: 12,
@@ -10549,7 +9591,6 @@ final List<Cities> locations = [
     latitude: 7.07241270,
     longitude: 80.25025350,
   ),
-
   Cities(
     id: 958,
     districtId: 12,
@@ -10560,7 +9601,6 @@ final List<Cities> locations = [
     latitude: 7.30986000,
     longitude: 80.31835110,
   ),
-
   Cities(
     id: 959,
     districtId: 12,
@@ -10571,7 +9611,6 @@ final List<Cities> locations = [
     latitude: 7.13641300,
     longitude: 80.33976180,
   ),
-
   Cities(
     id: 960,
     districtId: 12,
@@ -10582,7 +9621,6 @@ final List<Cities> locations = [
     latitude: 7.39388200,
     longitude: 80.46463530,
   ),
-
   Cities(
     id: 961,
     districtId: 12,
@@ -10593,7 +9631,6 @@ final List<Cities> locations = [
     latitude: 7.25081670,
     longitude: 80.37145700,
   ),
-
   Cities(
     id: 962,
     districtId: 12,
@@ -10604,7 +9641,6 @@ final List<Cities> locations = [
     latitude: 7.09472260,
     longitude: 80.28228110,
   ),
-
   Cities(
     id: 963,
     districtId: 12,
@@ -10615,7 +9651,6 @@ final List<Cities> locations = [
     latitude: 7.20704970,
     longitude: 80.30170420,
   ),
-
   Cities(
     id: 964,
     districtId: 12,
@@ -10626,7 +9661,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 965,
     districtId: 12,
@@ -10637,7 +9671,6 @@ final List<Cities> locations = [
     latitude: 7.16660300,
     longitude: 80.51924500,
   ),
-
   Cities(
     id: 966,
     districtId: 12,
@@ -10648,7 +9681,6 @@ final List<Cities> locations = [
     latitude: 7.26166000,
     longitude: 80.68054550,
   ),
-
   Cities(
     id: 967,
     districtId: 12,
@@ -10659,7 +9691,6 @@ final List<Cities> locations = [
     latitude: 6.98978450,
     longitude: 80.42708850,
   ),
-
   Cities(
     id: 968,
     districtId: 12,
@@ -10670,7 +9701,6 @@ final List<Cities> locations = [
     latitude: 7.27205560,
     longitude: 80.38117510,
   ),
-
   Cities(
     id: 969,
     districtId: 12,
@@ -10681,7 +9711,6 @@ final List<Cities> locations = [
     latitude: 7.12434010,
     longitude: 80.28718280,
   ),
-
   Cities(
     id: 970,
     districtId: 12,
@@ -10692,7 +9721,6 @@ final List<Cities> locations = [
     latitude: 7.10743580,
     longitude: 80.24216720,
   ),
-
   Cities(
     id: 971,
     districtId: 12,
@@ -10703,7 +9731,6 @@ final List<Cities> locations = [
     latitude: 7.02209340,
     longitude: 80.44934050,
   ),
-
   Cities(
     id: 972,
     districtId: 12,
@@ -10714,7 +9741,6 @@ final List<Cities> locations = [
     latitude: 7.28193860,
     longitude: 80.47019640,
   ),
-
   Cities(
     id: 973,
     districtId: 12,
@@ -10725,7 +9751,6 @@ final List<Cities> locations = [
     latitude: 7.05166920,
     longitude: 80.33802130,
   ),
-
   Cities(
     id: 974,
     districtId: 12,
@@ -10736,7 +9761,6 @@ final List<Cities> locations = [
     latitude: 6.93595660,
     longitude: 80.27603180,
   ),
-
   Cities(
     id: 975,
     districtId: 12,
@@ -10747,7 +9771,6 @@ final List<Cities> locations = [
     latitude: 6.89059220,
     longitude: 80.43960600,
   ),
-
   Cities(
     id: 976,
     districtId: 12,
@@ -10758,7 +9781,6 @@ final List<Cities> locations = [
     latitude: 6.90051230,
     longitude: 79.86842270,
   ),
-
   Cities(
     id: 977,
     districtId: 12,
@@ -10769,7 +9791,6 @@ final List<Cities> locations = [
     latitude: 7.13677730,
     longitude: 80.27812620,
   ),
-
   Cities(
     id: 978,
     districtId: 12,
@@ -10780,7 +9801,6 @@ final List<Cities> locations = [
     latitude: 6.65895580,
     longitude: 80.42987040,
   ),
-
   Cities(
     id: 979,
     districtId: 12,
@@ -10791,7 +9811,6 @@ final List<Cities> locations = [
     latitude: 7.23103050,
     longitude: 80.47767140,
   ),
-
   Cities(
     id: 980,
     districtId: 12,
@@ -10802,7 +9821,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 981,
     districtId: 12,
@@ -10813,7 +9831,6 @@ final List<Cities> locations = [
     latitude: 7.25227040,
     longitude: 80.33963850,
   ),
-
   Cities(
     id: 982,
     districtId: 12,
@@ -10824,7 +9841,6 @@ final List<Cities> locations = [
     latitude: 6.88613020,
     longitude: 80.36178500,
   ),
-
   Cities(
     id: 983,
     districtId: 12,
@@ -10835,7 +9851,6 @@ final List<Cities> locations = [
     latitude: 7.25979540,
     longitude: 80.39884800,
   ),
-
   Cities(
     id: 984,
     districtId: 12,
@@ -10846,7 +9861,6 @@ final List<Cities> locations = [
     latitude: 7.17571880,
     longitude: 80.35890490,
   ),
-
   Cities(
     id: 985,
     districtId: 12,
@@ -10857,7 +9871,6 @@ final List<Cities> locations = [
     latitude: 7.17394400,
     longitude: 80.43436400,
   ),
-
   Cities(
     id: 986,
     districtId: 12,
@@ -10868,7 +9881,6 @@ final List<Cities> locations = [
     latitude: 7.19701280,
     longitude: 80.29623850,
   ),
-
   Cities(
     id: 987,
     districtId: 12,
@@ -10879,7 +9891,6 @@ final List<Cities> locations = [
     latitude: 7.28083760,
     longitude: 80.67291850,
   ),
-
   Cities(
     id: 988,
     districtId: 12,
@@ -10890,7 +9901,6 @@ final List<Cities> locations = [
     latitude: 7.23084430,
     longitude: 80.26001000,
   ),
-
   Cities(
     id: 989,
     districtId: 12,
@@ -10901,7 +9911,6 @@ final List<Cities> locations = [
     latitude: 7.16751890,
     longitude: 80.21840250,
   ),
-
   Cities(
     id: 990,
     districtId: 12,
@@ -10912,7 +9921,6 @@ final List<Cities> locations = [
     latitude: 6.94485410,
     longitude: 80.40274360,
   ),
-
   Cities(
     id: 991,
     districtId: 12,
@@ -10923,7 +9931,6 @@ final List<Cities> locations = [
     latitude: 6.86839660,
     longitude: 80.32409600,
   ),
-
   Cities(
     id: 992,
     districtId: 12,
@@ -10934,7 +9941,6 @@ final List<Cities> locations = [
     latitude: 7.31182390,
     longitude: 80.43534990,
   ),
-
   Cities(
     id: 993,
     districtId: 12,
@@ -10945,7 +9951,6 @@ final List<Cities> locations = [
     latitude: 7.30149520,
     longitude: 80.38674170,
   ),
-
   Cities(
     id: 994,
     districtId: 12,
@@ -10956,7 +9961,6 @@ final List<Cities> locations = [
     latitude: 7.16747710,
     longitude: 80.31504330,
   ),
-
   Cities(
     id: 995,
     districtId: 12,
@@ -10967,7 +9971,6 @@ final List<Cities> locations = [
     latitude: 7.25081670,
     longitude: 80.37145700,
   ),
-
   Cities(
     id: 996,
     districtId: 12,
@@ -10978,7 +9981,6 @@ final List<Cities> locations = [
     latitude: 7.27922720,
     longitude: 80.38338030,
   ),
-
   Cities(
     id: 997,
     districtId: 12,
@@ -10989,7 +9991,6 @@ final List<Cities> locations = [
     latitude: 6.95461930,
     longitude: 81.06456800,
   ),
-
   Cities(
     id: 998,
     districtId: 12,
@@ -11000,7 +10001,6 @@ final List<Cities> locations = [
     latitude: 6.85246830,
     longitude: 79.98034150,
   ),
-
   Cities(
     id: 999,
     districtId: 12,
@@ -11011,7 +10011,6 @@ final List<Cities> locations = [
     latitude: 7.04587350,
     longitude: 80.25370630,
   ),
-
   Cities(
     id: 1000,
     districtId: 12,
@@ -11022,7 +10021,6 @@ final List<Cities> locations = [
     latitude: 6.67500500,
     longitude: 80.78655580,
   ),
-
   Cities(
     id: 1001,
     districtId: 12,
@@ -11033,7 +10031,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1002,
     districtId: 5,
@@ -11044,7 +10041,6 @@ final List<Cities> locations = [
     latitude: 6.91993310,
     longitude: 79.85402740,
   ),
-
   Cities(
     id: 1003,
     districtId: 12,
@@ -11055,7 +10051,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1004,
     districtId: 12,
@@ -11066,7 +10061,6 @@ final List<Cities> locations = [
     latitude: 7.17379560,
     longitude: 80.47655430,
   ),
-
   Cities(
     id: 1005,
     districtId: 12,
@@ -11077,7 +10071,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1006,
     districtId: 12,
@@ -11088,7 +10081,6 @@ final List<Cities> locations = [
     latitude: 7.23781070,
     longitude: 80.23554680,
   ),
-
   Cities(
     id: 1007,
     districtId: 12,
@@ -11099,7 +10091,6 @@ final List<Cities> locations = [
     latitude: 7.23639400,
     longitude: 80.31495500,
   ),
-
   Cities(
     id: 1008,
     districtId: 12,
@@ -11110,7 +10101,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1009,
     districtId: 12,
@@ -11121,7 +10111,6 @@ final List<Cities> locations = [
     latitude: 7.09758690,
     longitude: 80.37421630,
   ),
-
   Cities(
     id: 1010,
     districtId: 12,
@@ -11132,7 +10121,6 @@ final List<Cities> locations = [
     latitude: 7.10856680,
     longitude: 80.39091640,
   ),
-
   Cities(
     id: 1011,
     districtId: 12,
@@ -11143,7 +10131,6 @@ final List<Cities> locations = [
     latitude: 7.13977700,
     longitude: 80.35751280,
   ),
-
   Cities(
     id: 1012,
     districtId: 12,
@@ -11154,7 +10141,6 @@ final List<Cities> locations = [
     latitude: 7.21616020,
     longitude: 80.44655940,
   ),
-
   Cities(
     id: 1013,
     districtId: 12,
@@ -11165,7 +10151,6 @@ final List<Cities> locations = [
     latitude: 7.06751980,
     longitude: 80.20703280,
   ),
-
   Cities(
     id: 1014,
     districtId: 12,
@@ -11176,7 +10161,6 @@ final List<Cities> locations = [
     latitude: 7.07946370,
     longitude: 80.19883930,
   ),
-
   Cities(
     id: 1015,
     districtId: 12,
@@ -11187,7 +10171,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1016,
     districtId: 12,
@@ -11198,7 +10181,6 @@ final List<Cities> locations = [
     latitude: 7.22680330,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 1017,
     districtId: 12,
@@ -11209,7 +10191,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1018,
     districtId: 12,
@@ -11220,7 +10201,6 @@ final List<Cities> locations = [
     latitude: 7.06322130,
     longitude: 80.33571390,
   ),
-
   Cities(
     id: 1019,
     districtId: 12,
@@ -11231,7 +10211,6 @@ final List<Cities> locations = [
     latitude: 7.25133170,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1020,
     districtId: 12,
@@ -11242,7 +10221,6 @@ final List<Cities> locations = [
     latitude: 7.18887650,
     longitude: 80.59140380,
   ),
-
   Cities(
     id: 1021,
     districtId: 12,
@@ -11253,7 +10231,6 @@ final List<Cities> locations = [
     latitude: 7.28311710,
     longitude: 80.38454330,
   ),
-
   Cities(
     id: 1022,
     districtId: 12,
@@ -11264,7 +10241,6 @@ final List<Cities> locations = [
     latitude: 6.70526590,
     longitude: 80.47610540,
   ),
-
   Cities(
     id: 1023,
     districtId: 12,
@@ -11275,7 +10251,6 @@ final List<Cities> locations = [
     latitude: 7.33010560,
     longitude: 80.35784920,
   ),
-
   Cities(
     id: 1024,
     districtId: 12,
@@ -11286,7 +10261,6 @@ final List<Cities> locations = [
     latitude: 7.13158740,
     longitude: 80.30756390,
   ),
-
   Cities(
     id: 1025,
     districtId: 12,
@@ -11297,7 +10271,6 @@ final List<Cities> locations = [
     latitude: 7.02888240,
     longitude: 80.29554190,
   ),
-
   Cities(
     id: 1026,
     districtId: 12,
@@ -11308,7 +10281,6 @@ final List<Cities> locations = [
     latitude: 7.24433740,
     longitude: 80.26837180,
   ),
-
   Cities(
     id: 1027,
     districtId: 13,
@@ -11319,7 +10291,6 @@ final List<Cities> locations = [
     latitude: 9.40909980,
     longitude: 80.52186610,
   ),
-
   Cities(
     id: 1028,
     districtId: 13,
@@ -11330,7 +10301,6 @@ final List<Cities> locations = [
     latitude: 9.38352270,
     longitude: 80.40840650,
   ),
-
   Cities(
     id: 1029,
     districtId: 13,
@@ -11341,7 +10311,6 @@ final List<Cities> locations = [
     latitude: 9.38028860,
     longitude: 80.37699990,
   ),
-
   Cities(
     id: 1030,
     districtId: 13,
@@ -11352,7 +10321,6 @@ final List<Cities> locations = [
     latitude: 9.56732280,
     longitude: 80.38813330,
   ),
-
   Cities(
     id: 1031,
     districtId: 13,
@@ -11363,7 +10331,6 @@ final List<Cities> locations = [
     latitude: 9.50331090,
     longitude: 80.21121640,
   ),
-
   Cities(
     id: 1032,
     districtId: 11,
@@ -11374,7 +10341,6 @@ final List<Cities> locations = [
     latitude: 7.36889590,
     longitude: 80.61312250,
   ),
-
   Cities(
     id: 1033,
     districtId: 14,
@@ -11385,7 +10351,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1034,
     districtId: 14,
@@ -11396,7 +10361,6 @@ final List<Cities> locations = [
     latitude: 7.46205090,
     longitude: 80.04371230,
   ),
-
   Cities(
     id: 1035,
     districtId: 14,
@@ -11407,7 +10371,6 @@ final List<Cities> locations = [
     latitude: 7.49394280,
     longitude: 80.45768350,
   ),
-
   Cities(
     id: 1036,
     districtId: 14,
@@ -11418,7 +10381,6 @@ final List<Cities> locations = [
     latitude: 7.91811440,
     longitude: 80.24049590,
   ),
-
   Cities(
     id: 1037,
     districtId: 14,
@@ -11429,7 +10391,6 @@ final List<Cities> locations = [
     latitude: 7.46666710,
     longitude: 80.13333290,
   ),
-
   Cities(
     id: 1038,
     districtId: 14,
@@ -11440,7 +10401,6 @@ final List<Cities> locations = [
     latitude: 7.50258040,
     longitude: 80.12331750,
   ),
-
   Cities(
     id: 1039,
     districtId: 14,
@@ -11451,7 +10411,6 @@ final List<Cities> locations = [
     latitude: 7.36467220,
     longitude: 80.34776760,
   ),
-
   Cities(
     id: 1040,
     districtId: 14,
@@ -11462,7 +10421,6 @@ final List<Cities> locations = [
     latitude: 7.91804160,
     longitude: 80.29484530,
   ),
-
   Cities(
     id: 1041,
     districtId: 14,
@@ -11473,7 +10431,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1042,
     districtId: 14,
@@ -11484,7 +10441,6 @@ final List<Cities> locations = [
     latitude: 7.80709260,
     longitude: 80.25426980,
   ),
-
   Cities(
     id: 1043,
     districtId: 14,
@@ -11495,7 +10451,6 @@ final List<Cities> locations = [
     latitude: 7.57088740,
     longitude: 80.24746570,
   ),
-
   Cities(
     id: 1044,
     districtId: 14,
@@ -11506,7 +10461,6 @@ final List<Cities> locations = [
     latitude: 7.61207120,
     longitude: 80.17495160,
   ),
-
   Cities(
     id: 1045,
     districtId: 14,
@@ -11517,7 +10471,6 @@ final List<Cities> locations = [
     latitude: 7.59822340,
     longitude: 79.93721900,
   ),
-
   Cities(
     id: 1046,
     districtId: 14,
@@ -11528,7 +10481,6 @@ final List<Cities> locations = [
     latitude: 7.45722470,
     longitude: 80.16797990,
   ),
-
   Cities(
     id: 1047,
     districtId: 14,
@@ -11539,7 +10491,6 @@ final List<Cities> locations = [
     latitude: 7.68506230,
     longitude: 80.04476020,
   ),
-
   Cities(
     id: 1048,
     districtId: 14,
@@ -11550,7 +10501,6 @@ final List<Cities> locations = [
     latitude: 7.44999300,
     longitude: 80.34219840,
   ),
-
   Cities(
     id: 1049,
     districtId: 14,
@@ -11561,7 +10511,6 @@ final List<Cities> locations = [
     latitude: 7.27361380,
     longitude: 80.20563820,
   ),
-
   Cities(
     id: 1050,
     districtId: 14,
@@ -11572,7 +10521,6 @@ final List<Cities> locations = [
     latitude: 7.48041800,
     longitude: 80.47330290,
   ),
-
   Cities(
     id: 1051,
     districtId: 14,
@@ -11583,7 +10531,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1052,
     districtId: 14,
@@ -11594,7 +10541,6 @@ final List<Cities> locations = [
     latitude: 7.36971470,
     longitude: 80.15123170,
   ),
-
   Cities(
     id: 1053,
     districtId: 14,
@@ -11605,7 +10551,6 @@ final List<Cities> locations = [
     latitude: 7.35531880,
     longitude: 79.98361080,
   ),
-
   Cities(
     id: 1054,
     districtId: 14,
@@ -11616,7 +10561,6 @@ final List<Cities> locations = [
     latitude: 7.51124380,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 1055,
     districtId: 14,
@@ -11627,7 +10571,6 @@ final List<Cities> locations = [
     latitude: 7.51786650,
     longitude: 80.28797560,
   ),
-
   Cities(
     id: 1056,
     districtId: 14,
@@ -11638,7 +10581,6 @@ final List<Cities> locations = [
     latitude: 7.48684730,
     longitude: 80.36514920,
   ),
-
   Cities(
     id: 1057,
     districtId: 14,
@@ -11649,7 +10591,6 @@ final List<Cities> locations = [
     latitude: 7.69904850,
     longitude: 80.46050360,
   ),
-
   Cities(
     id: 1058,
     districtId: 14,
@@ -11660,7 +10601,6 @@ final List<Cities> locations = [
     latitude: 7.89331550,
     longitude: 80.10097960,
   ),
-
   Cities(
     id: 1059,
     districtId: 14,
@@ -11671,7 +10611,6 @@ final List<Cities> locations = [
     latitude: 7.76266490,
     longitude: 80.20163350,
   ),
-
   Cities(
     id: 1060,
     districtId: 14,
@@ -11682,7 +10621,6 @@ final List<Cities> locations = [
     latitude: 8.13236550,
     longitude: 81.02059850,
   ),
-
   Cities(
     id: 1061,
     districtId: 14,
@@ -11693,7 +10631,6 @@ final List<Cities> locations = [
     latitude: 7.57567740,
     longitude: 80.52439700,
   ),
-
   Cities(
     id: 1062,
     districtId: 14,
@@ -11704,7 +10641,6 @@ final List<Cities> locations = [
     latitude: 7.62156470,
     longitude: 80.41874250,
   ),
-
   Cities(
     id: 1063,
     districtId: 14,
@@ -11715,7 +10651,6 @@ final List<Cities> locations = [
     latitude: 7.36589550,
     longitude: 80.65627530,
   ),
-
   Cities(
     id: 1064,
     districtId: 14,
@@ -11726,7 +10661,6 @@ final List<Cities> locations = [
     latitude: 7.45346260,
     longitude: 80.39404730,
   ),
-
   Cities(
     id: 1065,
     districtId: 14,
@@ -11737,7 +10671,6 @@ final List<Cities> locations = [
     latitude: 7.28090960,
     longitude: 80.64222390,
   ),
-
   Cities(
     id: 1066,
     districtId: 14,
@@ -11748,7 +10681,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1067,
     districtId: 14,
@@ -11759,7 +10691,6 @@ final List<Cities> locations = [
     latitude: 7.93567610,
     longitude: 80.34618760,
   ),
-
   Cities(
     id: 1068,
     districtId: 14,
@@ -11770,7 +10701,6 @@ final List<Cities> locations = [
     latitude: 7.31429910,
     longitude: 80.05628640,
   ),
-
   Cities(
     id: 1069,
     districtId: 14,
@@ -11781,7 +10711,6 @@ final List<Cities> locations = [
     latitude: 7.82330090,
     longitude: 80.32409600,
   ),
-
   Cities(
     id: 1070,
     districtId: 14,
@@ -11792,7 +10721,6 @@ final List<Cities> locations = [
     latitude: 7.51223530,
     longitude: 79.96770490,
   ),
-
   Cities(
     id: 1071,
     districtId: 14,
@@ -11803,7 +10731,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1072,
     districtId: 14,
@@ -11814,7 +10741,6 @@ final List<Cities> locations = [
     latitude: 7.98649440,
     longitude: 80.28787940,
   ),
-
   Cities(
     id: 1073,
     districtId: 14,
@@ -11825,7 +10751,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1074,
     districtId: 14,
@@ -11836,7 +10761,6 @@ final List<Cities> locations = [
     latitude: 7.88701170,
     longitude: 80.06187430,
   ),
-
   Cities(
     id: 1075,
     districtId: 14,
@@ -11847,7 +10771,6 @@ final List<Cities> locations = [
     latitude: 7.63326800,
     longitude: 80.46324500,
   ),
-
   Cities(
     id: 1076,
     districtId: 14,
@@ -11858,7 +10781,6 @@ final List<Cities> locations = [
     latitude: 8.03476110,
     longitude: 80.41037760,
   ),
-
   Cities(
     id: 1077,
     districtId: 14,
@@ -11869,7 +10791,6 @@ final List<Cities> locations = [
     latitude: 7.59886850,
     longitude: 80.48270740,
   ),
-
   Cities(
     id: 1078,
     districtId: 14,
@@ -11880,7 +10801,6 @@ final List<Cities> locations = [
     latitude: 7.39880630,
     longitude: 80.20005960,
   ),
-
   Cities(
     id: 1079,
     districtId: 14,
@@ -11891,7 +10811,6 @@ final List<Cities> locations = [
     latitude: 7.77075630,
     longitude: 80.49382670,
   ),
-
   Cities(
     id: 1080,
     districtId: 14,
@@ -11902,7 +10821,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1081,
     districtId: 14,
@@ -11913,7 +10831,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1082,
     districtId: 14,
@@ -11924,7 +10841,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1083,
     districtId: 14,
@@ -11935,7 +10851,6 @@ final List<Cities> locations = [
     latitude: 7.70035780,
     longitude: 80.11214930,
   ),
-
   Cities(
     id: 1084,
     districtId: 14,
@@ -11946,7 +10861,6 @@ final List<Cities> locations = [
     latitude: 7.53311240,
     longitude: 80.91524340,
   ),
-
   Cities(
     id: 1085,
     districtId: 14,
@@ -11957,7 +10871,6 @@ final List<Cities> locations = [
     latitude: 6.89755820,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 1086,
     districtId: 14,
@@ -11968,7 +10881,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1087,
     districtId: 14,
@@ -11979,7 +10891,6 @@ final List<Cities> locations = [
     latitude: 7.48667050,
     longitude: 80.41607830,
   ),
-
   Cities(
     id: 1088,
     districtId: 14,
@@ -11990,7 +10901,6 @@ final List<Cities> locations = [
     latitude: 7.63887370,
     longitude: 80.47436690,
   ),
-
   Cities(
     id: 1089,
     districtId: 14,
@@ -12001,7 +10911,6 @@ final List<Cities> locations = [
     latitude: 7.54778030,
     longitude: 79.93745820,
   ),
-
   Cities(
     id: 1090,
     districtId: 14,
@@ -12012,7 +10921,6 @@ final List<Cities> locations = [
     latitude: 7.45722470,
     longitude: 80.16797990,
   ),
-
   Cities(
     id: 1091,
     districtId: 14,
@@ -12023,7 +10931,6 @@ final List<Cities> locations = [
     latitude: 7.78954430,
     longitude: 80.19081820,
   ),
-
   Cities(
     id: 1092,
     districtId: 14,
@@ -12034,7 +10941,6 @@ final List<Cities> locations = [
     latitude: 7.59243750,
     longitude: 80.57995310,
   ),
-
   Cities(
     id: 1093,
     districtId: 14,
@@ -12045,7 +10951,6 @@ final List<Cities> locations = [
     latitude: 7.47038950,
     longitude: 80.04532310,
   ),
-
   Cities(
     id: 1094,
     districtId: 14,
@@ -12056,7 +10961,6 @@ final List<Cities> locations = [
     latitude: 7.39470370,
     longitude: 80.09875050,
   ),
-
   Cities(
     id: 1095,
     districtId: 14,
@@ -12067,7 +10971,6 @@ final List<Cities> locations = [
     latitude: 7.42336680,
     longitude: 80.40761320,
   ),
-
   Cities(
     id: 1096,
     districtId: 14,
@@ -12078,7 +10981,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1097,
     districtId: 14,
@@ -12089,7 +10991,6 @@ final List<Cities> locations = [
     latitude: 7.71919830,
     longitude: 80.00071420,
   ),
-
   Cities(
     id: 1098,
     districtId: 14,
@@ -12100,7 +11001,6 @@ final List<Cities> locations = [
     latitude: 7.48684730,
     longitude: 80.36514920,
   ),
-
   Cities(
     id: 1099,
     districtId: 14,
@@ -12111,7 +11011,6 @@ final List<Cities> locations = [
     latitude: 6.85000000,
     longitude: 80.20000000,
   ),
-
   Cities(
     id: 1100,
     districtId: 14,
@@ -12122,7 +11021,6 @@ final List<Cities> locations = [
     latitude: 7.39215900,
     longitude: 80.44655940,
   ),
-
   Cities(
     id: 1101,
     districtId: 14,
@@ -12133,7 +11031,6 @@ final List<Cities> locations = [
     latitude: 7.43813990,
     longitude: 80.53393440,
   ),
-
   Cities(
     id: 1102,
     districtId: 14,
@@ -12144,7 +11041,6 @@ final List<Cities> locations = [
     latitude: 7.61852160,
     longitude: 80.20703290,
   ),
-
   Cities(
     id: 1103,
     districtId: 14,
@@ -12155,7 +11051,6 @@ final List<Cities> locations = [
     latitude: 7.35295450,
     longitude: 80.20773000,
   ),
-
   Cities(
     id: 1104,
     districtId: 14,
@@ -12166,7 +11061,6 @@ final List<Cities> locations = [
     latitude: 7.47785930,
     longitude: 80.21261090,
   ),
-
   Cities(
     id: 1105,
     districtId: 14,
@@ -12177,7 +11071,6 @@ final List<Cities> locations = [
     latitude: 7.80756910,
     longitude: 80.34080610,
   ),
-
   Cities(
     id: 1106,
     districtId: 14,
@@ -12188,7 +11081,6 @@ final List<Cities> locations = [
     latitude: 7.62687380,
     longitude: 80.55012180,
   ),
-
   Cities(
     id: 1107,
     districtId: 14,
@@ -12199,7 +11091,6 @@ final List<Cities> locations = [
     latitude: 7.55053450,
     longitude: 80.19086420,
   ),
-
   Cities(
     id: 1108,
     districtId: 14,
@@ -12210,7 +11101,6 @@ final List<Cities> locations = [
     latitude: 8.16101810,
     longitude: 80.91386260,
   ),
-
   Cities(
     id: 1109,
     districtId: 14,
@@ -12221,7 +11111,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1110,
     districtId: 14,
@@ -12232,7 +11121,6 @@ final List<Cities> locations = [
     latitude: 7.49836470,
     longitude: 80.17355650,
   ),
-
   Cities(
     id: 1111,
     districtId: 14,
@@ -12243,7 +11131,6 @@ final List<Cities> locations = [
     latitude: 7.32257710,
     longitude: 80.19029630,
   ),
-
   Cities(
     id: 1112,
     districtId: 14,
@@ -12254,7 +11141,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1113,
     districtId: 14,
@@ -12265,7 +11151,6 @@ final List<Cities> locations = [
     latitude: 7.51234310,
     longitude: 80.14146270,
   ),
-
   Cities(
     id: 1114,
     districtId: 14,
@@ -12276,7 +11161,6 @@ final List<Cities> locations = [
     latitude: 7.49673230,
     longitude: 80.10097960,
   ),
-
   Cities(
     id: 1115,
     districtId: 14,
@@ -12287,7 +11171,6 @@ final List<Cities> locations = [
     latitude: 7.55328810,
     longitude: 80.47992730,
   ),
-
   Cities(
     id: 1116,
     districtId: 14,
@@ -12298,7 +11181,6 @@ final List<Cities> locations = [
     latitude: 7.45933590,
     longitude: 80.10097960,
   ),
-
   Cities(
     id: 1117,
     districtId: 14,
@@ -12309,7 +11191,6 @@ final List<Cities> locations = [
     latitude: 7.50632780,
     longitude: 80.53551070,
   ),
-
   Cities(
     id: 1118,
     districtId: 14,
@@ -12320,7 +11201,6 @@ final List<Cities> locations = [
     latitude: 7.66057680,
     longitude: 80.12661590,
   ),
-
   Cities(
     id: 1119,
     districtId: 14,
@@ -12331,7 +11211,6 @@ final List<Cities> locations = [
     latitude: 7.40586090,
     longitude: 80.33853900,
   ),
-
   Cities(
     id: 1120,
     districtId: 14,
@@ -12342,7 +11221,6 @@ final List<Cities> locations = [
     latitude: 7.98498420,
     longitude: 80.28091290,
   ),
-
   Cities(
     id: 1121,
     districtId: 14,
@@ -12353,7 +11231,6 @@ final List<Cities> locations = [
     latitude: 7.57260270,
     longitude: 80.14564960,
   ),
-
   Cities(
     id: 1122,
     districtId: 14,
@@ -12364,7 +11241,6 @@ final List<Cities> locations = [
     latitude: 7.40101800,
     longitude: 80.39300370,
   ),
-
   Cities(
     id: 1123,
     districtId: 14,
@@ -12375,7 +11251,6 @@ final List<Cities> locations = [
     latitude: 6.92968060,
     longitude: 80.60493740,
   ),
-
   Cities(
     id: 1124,
     districtId: 5,
@@ -12386,7 +11261,6 @@ final List<Cities> locations = [
     latitude: 6.94876640,
     longitude: 79.86048310,
   ),
-
   Cities(
     id: 1125,
     districtId: 14,
@@ -12397,7 +11271,6 @@ final List<Cities> locations = [
     latitude: 7.80900070,
     longitude: 80.07797730,
   ),
-
   Cities(
     id: 1126,
     districtId: 14,
@@ -12408,7 +11281,6 @@ final List<Cities> locations = [
     latitude: 7.55700800,
     longitude: 80.34498310,
   ),
-
   Cities(
     id: 1127,
     districtId: 14,
@@ -12419,7 +11291,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1128,
     districtId: 14,
@@ -12430,7 +11301,6 @@ final List<Cities> locations = [
     latitude: 7.47212300,
     longitude: 80.04462210,
   ),
-
   Cities(
     id: 1129,
     districtId: 14,
@@ -12441,7 +11311,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1130,
     districtId: 14,
@@ -12452,7 +11321,6 @@ final List<Cities> locations = [
     latitude: 7.67242180,
     longitude: 80.41596030,
   ),
-
   Cities(
     id: 1131,
     districtId: 14,
@@ -12463,7 +11331,6 @@ final List<Cities> locations = [
     latitude: 7.64050560,
     longitude: 80.42708850,
   ),
-
   Cities(
     id: 1132,
     districtId: 14,
@@ -12474,7 +11341,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1133,
     districtId: 14,
@@ -12485,7 +11351,6 @@ final List<Cities> locations = [
     latitude: 7.49483690,
     longitude: 80.37838420,
   ),
-
   Cities(
     id: 1134,
     districtId: 14,
@@ -12496,7 +11361,6 @@ final List<Cities> locations = [
     latitude: 7.55541010,
     longitude: 80.45644300,
   ),
-
   Cities(
     id: 1135,
     districtId: 14,
@@ -12507,7 +11371,6 @@ final List<Cities> locations = [
     latitude: 7.44155470,
     longitude: 80.02275140,
   ),
-
   Cities(
     id: 1136,
     districtId: 14,
@@ -12518,7 +11381,6 @@ final List<Cities> locations = [
     latitude: 7.34755590,
     longitude: 79.93466030,
   ),
-
   Cities(
     id: 1137,
     districtId: 14,
@@ -12529,7 +11391,6 @@ final List<Cities> locations = [
     latitude: 7.16736970,
     longitude: 80.81733640,
   ),
-
   Cities(
     id: 1138,
     districtId: 14,
@@ -12540,7 +11401,6 @@ final List<Cities> locations = [
     latitude: 7.53042710,
     longitude: 80.00225670,
   ),
-
   Cities(
     id: 1139,
     districtId: 14,
@@ -12551,7 +11411,6 @@ final List<Cities> locations = [
     latitude: 7.51154710,
     longitude: 80.22516030,
   ),
-
   Cities(
     id: 1140,
     districtId: 14,
@@ -12562,7 +11421,6 @@ final List<Cities> locations = [
     latitude: 7.45051990,
     longitude: 80.19433970,
   ),
-
   Cities(
     id: 1141,
     districtId: 14,
@@ -12573,7 +11431,6 @@ final List<Cities> locations = [
     latitude: 7.44626040,
     longitude: 79.99479560,
   ),
-
   Cities(
     id: 1142,
     districtId: 14,
@@ -12584,7 +11441,6 @@ final List<Cities> locations = [
     latitude: 7.34316800,
     longitude: 80.30947190,
   ),
-
   Cities(
     id: 1143,
     districtId: 14,
@@ -12595,7 +11451,6 @@ final List<Cities> locations = [
     latitude: 7.61559830,
     longitude: 80.63546650,
   ),
-
   Cities(
     id: 1144,
     districtId: 14,
@@ -12606,7 +11461,6 @@ final List<Cities> locations = [
     latitude: 7.57638020,
     longitude: 80.54930710,
   ),
-
   Cities(
     id: 1145,
     districtId: 14,
@@ -12617,7 +11471,6 @@ final List<Cities> locations = [
     latitude: 7.74752840,
     longitude: 80.41596030,
   ),
-
   Cities(
     id: 1146,
     districtId: 14,
@@ -12628,7 +11481,6 @@ final List<Cities> locations = [
     latitude: 7.67063750,
     longitude: 80.21818860,
   ),
-
   Cities(
     id: 1147,
     districtId: 14,
@@ -12639,7 +11491,6 @@ final List<Cities> locations = [
     latitude: 8.20978530,
     longitude: 81.03532020,
   ),
-
   Cities(
     id: 1148,
     districtId: 14,
@@ -12650,7 +11501,6 @@ final List<Cities> locations = [
     latitude: 8.05639110,
     longitude: 80.28230630,
   ),
-
   Cities(
     id: 1149,
     districtId: 14,
@@ -12661,7 +11511,6 @@ final List<Cities> locations = [
     latitude: 7.82923540,
     longitude: 80.13752990,
   ),
-
   Cities(
     id: 1150,
     districtId: 14,
@@ -12672,7 +11521,6 @@ final List<Cities> locations = [
     latitude: 7.56265260,
     longitude: 80.41874250,
   ),
-
   Cities(
     id: 1151,
     districtId: 14,
@@ -12683,7 +11531,6 @@ final List<Cities> locations = [
     latitude: 8.00158110,
     longitude: 80.18611160,
   ),
-
   Cities(
     id: 1152,
     districtId: 14,
@@ -12694,7 +11541,6 @@ final List<Cities> locations = [
     latitude: 7.09995240,
     longitude: 80.20777840,
   ),
-
   Cities(
     id: 1153,
     districtId: 14,
@@ -12705,7 +11551,6 @@ final List<Cities> locations = [
     latitude: 7.34960560,
     longitude: 80.20703280,
   ),
-
   Cities(
     id: 1154,
     districtId: 14,
@@ -12716,7 +11561,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1155,
     districtId: 14,
@@ -12727,7 +11571,6 @@ final List<Cities> locations = [
     latitude: 7.45980540,
     longitude: 79.82631690,
   ),
-
   Cities(
     id: 1156,
     districtId: 14,
@@ -12738,7 +11581,6 @@ final List<Cities> locations = [
     latitude: 7.81939470,
     longitude: 80.27115880,
   ),
-
   Cities(
     id: 1157,
     districtId: 14,
@@ -12749,7 +11591,6 @@ final List<Cities> locations = [
     latitude: 7.99594590,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 1158,
     districtId: 14,
@@ -12760,7 +11601,6 @@ final List<Cities> locations = [
     latitude: 7.74416030,
     longitude: 80.44516870,
   ),
-
   Cities(
     id: 1159,
     districtId: 14,
@@ -12771,7 +11611,6 @@ final List<Cities> locations = [
     latitude: 7.60961260,
     longitude: 80.36308100,
   ),
-
   Cities(
     id: 1160,
     districtId: 14,
@@ -12782,7 +11621,6 @@ final List<Cities> locations = [
     latitude: 7.59398170,
     longitude: 80.07130310,
   ),
-
   Cities(
     id: 1161,
     districtId: 14,
@@ -12793,7 +11631,6 @@ final List<Cities> locations = [
     latitude: 7.63594130,
     longitude: 80.10656460,
   ),
-
   Cities(
     id: 1162,
     districtId: 14,
@@ -12804,7 +11641,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1163,
     districtId: 14,
@@ -12815,7 +11651,6 @@ final List<Cities> locations = [
     latitude: 7.43690130,
     longitude: 80.45378280,
   ),
-
   Cities(
     id: 1164,
     districtId: 14,
@@ -12826,7 +11661,6 @@ final List<Cities> locations = [
     latitude: 8.13963740,
     longitude: 80.96776580,
   ),
-
   Cities(
     id: 1165,
     districtId: 14,
@@ -12837,7 +11671,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1166,
     districtId: 14,
@@ -12848,7 +11681,6 @@ final List<Cities> locations = [
     latitude: 8.05271540,
     longitude: 80.35472860,
   ),
-
   Cities(
     id: 1167,
     districtId: 14,
@@ -12859,7 +11691,6 @@ final List<Cities> locations = [
     latitude: 7.80296150,
     longitude: 80.37421630,
   ),
-
   Cities(
     id: 1168,
     districtId: 14,
@@ -12870,7 +11701,6 @@ final List<Cities> locations = [
     latitude: 7.75060980,
     longitude: 80.11601730,
   ),
-
   Cities(
     id: 1169,
     districtId: 14,
@@ -12881,7 +11711,6 @@ final List<Cities> locations = [
     latitude: 7.64497060,
     longitude: 80.50772370,
   ),
-
   Cities(
     id: 1170,
     districtId: 14,
@@ -12892,7 +11721,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1171,
     districtId: 14,
@@ -12903,7 +11731,6 @@ final List<Cities> locations = [
     latitude: 7.39476490,
     longitude: 80.19034420,
   ),
-
   Cities(
     id: 1172,
     districtId: 14,
@@ -12914,7 +11741,6 @@ final List<Cities> locations = [
     latitude: 7.58897270,
     longitude: 80.30807900,
   ),
-
   Cities(
     id: 1173,
     districtId: 14,
@@ -12925,7 +11751,6 @@ final List<Cities> locations = [
     latitude: 7.50721880,
     longitude: 80.34290880,
   ),
-
   Cities(
     id: 1174,
     districtId: 14,
@@ -12936,7 +11761,6 @@ final List<Cities> locations = [
     latitude: 7.65329280,
     longitude: 80.17981590,
   ),
-
   Cities(
     id: 1175,
     districtId: 14,
@@ -12947,7 +11771,6 @@ final List<Cities> locations = [
     latitude: 7.82255920,
     longitude: 80.06187430,
   ),
-
   Cities(
     id: 1176,
     districtId: 14,
@@ -12958,7 +11781,6 @@ final List<Cities> locations = [
     latitude: 7.54678230,
     longitude: 80.12750520,
   ),
-
   Cities(
     id: 1177,
     districtId: 14,
@@ -12969,7 +11791,6 @@ final List<Cities> locations = [
     latitude: 7.90662950,
     longitude: 80.44099670,
   ),
-
   Cities(
     id: 1178,
     districtId: 14,
@@ -12980,7 +11801,6 @@ final List<Cities> locations = [
     latitude: 7.51071560,
     longitude: 80.49104700,
   ),
-
   Cities(
     id: 1179,
     districtId: 14,
@@ -12991,7 +11811,6 @@ final List<Cities> locations = [
     latitude: 7.54786830,
     longitude: 80.05768340,
   ),
-
   Cities(
     id: 1180,
     districtId: 14,
@@ -13002,7 +11821,6 @@ final List<Cities> locations = [
     latitude: 7.43761610,
     longitude: 80.14435980,
   ),
-
   Cities(
     id: 1181,
     districtId: 14,
@@ -13013,7 +11831,6 @@ final List<Cities> locations = [
     latitude: 7.48818930,
     longitude: 80.35037220,
   ),
-
   Cities(
     id: 1182,
     districtId: 14,
@@ -13024,7 +11841,6 @@ final List<Cities> locations = [
     latitude: 7.78161690,
     longitude: 80.10423790,
   ),
-
   Cities(
     id: 1183,
     districtId: 14,
@@ -13035,7 +11851,6 @@ final List<Cities> locations = [
     latitude: 7.75351680,
     longitude: 80.31467200,
   ),
-
   Cities(
     id: 1184,
     districtId: 14,
@@ -13046,7 +11861,6 @@ final List<Cities> locations = [
     latitude: 7.56352800,
     longitude: 80.04091780,
   ),
-
   Cities(
     id: 1185,
     districtId: 14,
@@ -13057,7 +11871,6 @@ final List<Cities> locations = [
     latitude: 7.44431430,
     longitude: 80.14564960,
   ),
-
   Cities(
     id: 1186,
     districtId: 14,
@@ -13068,7 +11881,6 @@ final List<Cities> locations = [
     latitude: 7.43251330,
     longitude: 80.21539980,
   ),
-
   Cities(
     id: 1187,
     districtId: 14,
@@ -13079,7 +11891,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1188,
     districtId: 14,
@@ -13090,7 +11901,6 @@ final List<Cities> locations = [
     latitude: 7.28334030,
     longitude: 80.19236990,
   ),
-
   Cities(
     id: 1189,
     districtId: 14,
@@ -13101,7 +11911,6 @@ final List<Cities> locations = [
     latitude: 7.69224710,
     longitude: 80.46324500,
   ),
-
   Cities(
     id: 1190,
     districtId: 14,
@@ -13112,7 +11921,6 @@ final List<Cities> locations = [
     latitude: 7.75544500,
     longitude: 80.11914020,
   ),
-
   Cities(
     id: 1191,
     districtId: 14,
@@ -13123,7 +11931,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1192,
     districtId: 14,
@@ -13134,7 +11941,6 @@ final List<Cities> locations = [
     latitude: 7.33397190,
     longitude: 80.22376600,
   ),
-
   Cities(
     id: 1193,
     districtId: 14,
@@ -13145,7 +11951,6 @@ final List<Cities> locations = [
     latitude: 7.65562250,
     longitude: 80.22062870,
   ),
-
   Cities(
     id: 1194,
     districtId: 14,
@@ -13156,7 +11961,6 @@ final List<Cities> locations = [
     latitude: 7.54229040,
     longitude: 79.98920340,
   ),
-
   Cities(
     id: 1195,
     districtId: 14,
@@ -13167,7 +11971,6 @@ final List<Cities> locations = [
     latitude: 8.11756490,
     longitude: 80.19169110,
   ),
-
   Cities(
     id: 1196,
     districtId: 14,
@@ -13178,7 +11981,6 @@ final List<Cities> locations = [
     latitude: 7.48098480,
     longitude: 80.41225080,
   ),
-
   Cities(
     id: 1197,
     districtId: 14,
@@ -13189,7 +11991,6 @@ final List<Cities> locations = [
     latitude: 7.94746600,
     longitude: 80.52022900,
   ),
-
   Cities(
     id: 1198,
     districtId: 14,
@@ -13200,7 +12001,6 @@ final List<Cities> locations = [
     latitude: 7.53773830,
     longitude: 80.62714150,
   ),
-
   Cities(
     id: 1199,
     districtId: 14,
@@ -13211,7 +12011,6 @@ final List<Cities> locations = [
     latitude: 7.98124320,
     longitude: 79.84648040,
   ),
-
   Cities(
     id: 1200,
     districtId: 14,
@@ -13222,7 +12021,6 @@ final List<Cities> locations = [
     latitude: 7.47829810,
     longitude: 79.99479560,
   ),
-
   Cities(
     id: 1201,
     districtId: 14,
@@ -13233,7 +12031,6 @@ final List<Cities> locations = [
     latitude: 7.95708350,
     longitude: 80.29623850,
   ),
-
   Cities(
     id: 1202,
     districtId: 14,
@@ -13244,7 +12041,6 @@ final List<Cities> locations = [
     latitude: 7.54304430,
     longitude: 80.22864590,
   ),
-
   Cities(
     id: 1203,
     districtId: 14,
@@ -13255,7 +12051,6 @@ final List<Cities> locations = [
     latitude: 7.48991870,
     longitude: 80.51883960,
   ),
-
   Cities(
     id: 1204,
     districtId: 14,
@@ -13266,7 +12061,6 @@ final List<Cities> locations = [
     latitude: 7.33093560,
     longitude: 80.32966640,
   ),
-
   Cities(
     id: 1205,
     districtId: 14,
@@ -13277,7 +12071,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1206,
     districtId: 14,
@@ -13288,7 +12081,6 @@ final List<Cities> locations = [
     latitude: 7.67263930,
     longitude: 80.54662290,
   ),
-
   Cities(
     id: 1207,
     districtId: 14,
@@ -13299,7 +12091,6 @@ final List<Cities> locations = [
     latitude: 7.73521190,
     longitude: 80.49686610,
   ),
-
   Cities(
     id: 1208,
     districtId: 14,
@@ -13310,7 +12101,6 @@ final List<Cities> locations = [
     latitude: 7.37257910,
     longitude: 80.41493250,
   ),
-
   Cities(
     id: 1209,
     districtId: 14,
@@ -13321,7 +12111,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1210,
     districtId: 14,
@@ -13332,7 +12121,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1211,
     districtId: 14,
@@ -13343,7 +12131,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1212,
     districtId: 14,
@@ -13354,7 +12141,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1213,
     districtId: 14,
@@ -13365,7 +12151,6 @@ final List<Cities> locations = [
     latitude: 7.57682140,
     longitude: 80.03313450,
   ),
-
   Cities(
     id: 1214,
     districtId: 14,
@@ -13376,7 +12161,6 @@ final List<Cities> locations = [
     latitude: 7.45907940,
     longitude: 80.51467130,
   ),
-
   Cities(
     id: 1215,
     districtId: 14,
@@ -13387,7 +12171,6 @@ final List<Cities> locations = [
     latitude: 7.46154690,
     longitude: 80.41248240,
   ),
-
   Cities(
     id: 1216,
     districtId: 14,
@@ -13398,7 +12181,6 @@ final List<Cities> locations = [
     latitude: 7.32748660,
     longitude: 80.29345220,
   ),
-
   Cities(
     id: 1217,
     districtId: 14,
@@ -13409,7 +12191,6 @@ final List<Cities> locations = [
     latitude: 7.31642280,
     longitude: 80.65211390,
   ),
-
   Cities(
     id: 1218,
     districtId: 14,
@@ -13420,7 +12201,6 @@ final List<Cities> locations = [
     latitude: 7.82115110,
     longitude: 80.40622190,
   ),
-
   Cities(
     id: 1219,
     districtId: 14,
@@ -13431,7 +12211,6 @@ final List<Cities> locations = [
     latitude: 7.42167240,
     longitude: 80.32966640,
   ),
-
   Cities(
     id: 1220,
     districtId: 14,
@@ -13442,7 +12221,6 @@ final List<Cities> locations = [
     latitude: 7.35420460,
     longitude: 80.17355650,
   ),
-
   Cities(
     id: 1221,
     districtId: 14,
@@ -13453,7 +12231,6 @@ final List<Cities> locations = [
     latitude: 7.49813340,
     longitude: 80.38431860,
   ),
-
   Cities(
     id: 1222,
     districtId: 14,
@@ -13464,7 +12241,6 @@ final List<Cities> locations = [
     latitude: 6.46472370,
     longitude: 80.61604020,
   ),
-
   Cities(
     id: 1223,
     districtId: 14,
@@ -13475,7 +12251,6 @@ final List<Cities> locations = [
     latitude: 7.60087940,
     longitude: 80.21261090,
   ),
-
   Cities(
     id: 1224,
     districtId: 14,
@@ -13486,7 +12261,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1225,
     districtId: 14,
@@ -13497,7 +12271,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1226,
     districtId: 14,
@@ -13508,7 +12281,6 @@ final List<Cities> locations = [
     latitude: 7.54963470,
     longitude: 80.49137540,
   ),
-
   Cities(
     id: 1227,
     districtId: 14,
@@ -13519,7 +12291,6 @@ final List<Cities> locations = [
     latitude: 8.13469970,
     longitude: 80.18879360,
   ),
-
   Cities(
     id: 1228,
     districtId: 14,
@@ -13530,7 +12301,6 @@ final List<Cities> locations = [
     latitude: 7.31510150,
     longitude: 79.95957180,
   ),
-
   Cities(
     id: 1229,
     districtId: 14,
@@ -13541,7 +12311,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1230,
     districtId: 14,
@@ -13552,7 +12321,6 @@ final List<Cities> locations = [
     latitude: 8.05712610,
     longitude: 79.86888370,
   ),
-
   Cities(
     id: 1231,
     districtId: 14,
@@ -13563,7 +12331,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1232,
     districtId: 14,
@@ -13574,7 +12341,6 @@ final List<Cities> locations = [
     latitude: 7.52948050,
     longitude: 80.34285300,
   ),
-
   Cities(
     id: 1233,
     districtId: 14,
@@ -13585,7 +12351,6 @@ final List<Cities> locations = [
     latitude: 7.80422750,
     longitude: 80.42987040,
   ),
-
   Cities(
     id: 1234,
     districtId: 14,
@@ -13596,7 +12361,6 @@ final List<Cities> locations = [
     latitude: 8.15312720,
     longitude: 80.15681340,
   ),
-
   Cities(
     id: 1235,
     districtId: 14,
@@ -13607,7 +12371,6 @@ final List<Cities> locations = [
     latitude: 8.14705210,
     longitude: 80.12890100,
   ),
-
   Cities(
     id: 1236,
     districtId: 14,
@@ -13618,7 +12381,6 @@ final List<Cities> locations = [
     latitude: 7.63659560,
     longitude: 80.07235920,
   ),
-
   Cities(
     id: 1237,
     districtId: 14,
@@ -13629,7 +12391,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1238,
     districtId: 14,
@@ -13640,7 +12401,6 @@ final List<Cities> locations = [
     latitude: 8.08740100,
     longitude: 80.22655450,
   ),
-
   Cities(
     id: 1239,
     districtId: 14,
@@ -13651,7 +12411,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1240,
     districtId: 14,
@@ -13662,7 +12421,6 @@ final List<Cities> locations = [
     latitude: 7.43050010,
     longitude: 80.00597900,
   ),
-
   Cities(
     id: 1241,
     districtId: 14,
@@ -13673,7 +12431,6 @@ final List<Cities> locations = [
     latitude: 7.79492120,
     longitude: 80.43404290,
   ),
-
   Cities(
     id: 1242,
     districtId: 14,
@@ -13684,7 +12441,6 @@ final List<Cities> locations = [
     latitude: 7.58221730,
     longitude: 80.33523640,
   ),
-
   Cities(
     id: 1243,
     districtId: 14,
@@ -13695,7 +12451,6 @@ final List<Cities> locations = [
     latitude: 7.56001430,
     longitude: 79.99410510,
   ),
-
   Cities(
     id: 1244,
     districtId: 14,
@@ -13706,7 +12461,6 @@ final List<Cities> locations = [
     latitude: 7.74926250,
     longitude: 80.14006710,
   ),
-
   Cities(
     id: 1245,
     districtId: 14,
@@ -13717,7 +12471,6 @@ final List<Cities> locations = [
     latitude: 7.59055980,
     longitude: 79.83209660,
   ),
-
   Cities(
     id: 1246,
     districtId: 14,
@@ -13728,7 +12481,6 @@ final List<Cities> locations = [
     latitude: 7.50874930,
     longitude: 80.40684690,
   ),
-
   Cities(
     id: 1247,
     districtId: 14,
@@ -13739,7 +12491,6 @@ final List<Cities> locations = [
     latitude: 7.27533840,
     longitude: 80.22376600,
   ),
-
   Cities(
     id: 1248,
     districtId: 14,
@@ -13750,7 +12501,6 @@ final List<Cities> locations = [
     latitude: 7.19318910,
     longitude: 80.26506200,
   ),
-
   Cities(
     id: 1249,
     districtId: 14,
@@ -13761,7 +12511,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1250,
     districtId: 14,
@@ -13772,7 +12521,6 @@ final List<Cities> locations = [
     latitude: 7.41747560,
     longitude: 80.47506200,
   ),
-
   Cities(
     id: 1251,
     districtId: 14,
@@ -13783,7 +12531,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1252,
     districtId: 14,
@@ -13794,7 +12541,6 @@ final List<Cities> locations = [
     latitude: 7.48949470,
     longitude: 80.36093070,
   ),
-
   Cities(
     id: 1253,
     districtId: 14,
@@ -13805,7 +12551,6 @@ final List<Cities> locations = [
     latitude: 7.48529250,
     longitude: 79.96753660,
   ),
-
   Cities(
     id: 1254,
     districtId: 14,
@@ -13816,7 +12561,6 @@ final List<Cities> locations = [
     latitude: 7.46531670,
     longitude: 80.42056820,
   ),
-
   Cities(
     id: 1255,
     districtId: 14,
@@ -13827,7 +12571,6 @@ final List<Cities> locations = [
     latitude: 7.46392420,
     longitude: 80.29853450,
   ),
-
   Cities(
     id: 1256,
     districtId: 14,
@@ -13838,7 +12581,6 @@ final List<Cities> locations = [
     latitude: 7.82652290,
     longitude: 80.43722130,
   ),
-
   Cities(
     id: 1257,
     districtId: 14,
@@ -13849,7 +12591,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1258,
     districtId: 14,
@@ -13860,7 +12601,6 @@ final List<Cities> locations = [
     latitude: 8.09826450,
     longitude: 80.29486960,
   ),
-
   Cities(
     id: 1259,
     districtId: 14,
@@ -13871,7 +12611,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1260,
     districtId: 14,
@@ -13882,7 +12621,6 @@ final List<Cities> locations = [
     latitude: 7.39754080,
     longitude: 80.26873400,
   ),
-
   Cities(
     id: 1261,
     districtId: 14,
@@ -13893,7 +12631,6 @@ final List<Cities> locations = [
     latitude: 7.39810800,
     longitude: 79.97739810,
   ),
-
   Cities(
     id: 1262,
     districtId: 14,
@@ -13904,7 +12641,6 @@ final List<Cities> locations = [
     latitude: 7.42540260,
     longitude: 80.01558170,
   ),
-
   Cities(
     id: 1263,
     districtId: 14,
@@ -13915,7 +12651,6 @@ final List<Cities> locations = [
     latitude: 7.70780050,
     longitude: 80.14425400,
   ),
-
   Cities(
     id: 1264,
     districtId: 14,
@@ -13926,7 +12661,6 @@ final List<Cities> locations = [
     latitude: 8.03396870,
     longitude: 80.21749140,
   ),
-
   Cities(
     id: 1265,
     districtId: 14,
@@ -13937,7 +12671,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1266,
     districtId: 14,
@@ -13948,7 +12681,6 @@ final List<Cities> locations = [
     latitude: 7.48176950,
     longitude: 80.36088760,
   ),
-
   Cities(
     id: 1267,
     districtId: 14,
@@ -13959,7 +12691,6 @@ final List<Cities> locations = [
     latitude: 8.12049370,
     longitude: 80.14564960,
   ),
-
   Cities(
     id: 1268,
     districtId: 14,
@@ -13970,7 +12701,6 @@ final List<Cities> locations = [
     latitude: 7.62391440,
     longitude: 80.24331450,
   ),
-
   Cities(
     id: 1269,
     districtId: 14,
@@ -13981,7 +12711,6 @@ final List<Cities> locations = [
     latitude: 7.39726030,
     longitude: 80.43543370,
   ),
-
   Cities(
     id: 1270,
     districtId: 14,
@@ -13992,7 +12721,6 @@ final List<Cities> locations = [
     latitude: 7.35033130,
     longitude: 80.68124680,
   ),
-
   Cities(
     id: 1271,
     districtId: 14,
@@ -14003,7 +12731,6 @@ final List<Cities> locations = [
     latitude: 7.50830680,
     longitude: 79.91728030,
   ),
-
   Cities(
     id: 1272,
     districtId: 14,
@@ -14014,7 +12741,6 @@ final List<Cities> locations = [
     latitude: 7.65135010,
     longitude: 79.98890560,
   ),
-
   Cities(
     id: 1273,
     districtId: 14,
@@ -14025,7 +12751,6 @@ final List<Cities> locations = [
     latitude: 7.69012190,
     longitude: 80.17453550,
   ),
-
   Cities(
     id: 1274,
     districtId: 14,
@@ -14036,7 +12761,6 @@ final List<Cities> locations = [
     latitude: 7.43131540,
     longitude: 79.92757560,
   ),
-
   Cities(
     id: 1275,
     districtId: 14,
@@ -14047,7 +12771,6 @@ final List<Cities> locations = [
     latitude: 7.62222220,
     longitude: 80.27666670,
   ),
-
   Cities(
     id: 1276,
     districtId: 14,
@@ -14058,7 +12781,6 @@ final List<Cities> locations = [
     latitude: 7.55692210,
     longitude: 80.36918790,
   ),
-
   Cities(
     id: 1277,
     districtId: 14,
@@ -14069,7 +12791,6 @@ final List<Cities> locations = [
     latitude: 7.56154660,
     longitude: 80.36864880,
   ),
-
   Cities(
     id: 1278,
     districtId: 14,
@@ -14080,7 +12801,6 @@ final List<Cities> locations = [
     latitude: 7.36547860,
     longitude: 79.96123680,
   ),
-
   Cities(
     id: 1279,
     districtId: 14,
@@ -14091,7 +12811,6 @@ final List<Cities> locations = [
     latitude: 7.38049560,
     longitude: 80.21679420,
   ),
-
   Cities(
     id: 1280,
     districtId: 14,
@@ -14102,7 +12821,6 @@ final List<Cities> locations = [
     latitude: 7.40652540,
     longitude: 80.49382670,
   ),
-
   Cities(
     id: 1281,
     districtId: 14,
@@ -14113,7 +12831,6 @@ final List<Cities> locations = [
     latitude: 7.42332590,
     longitude: 80.10237590,
   ),
-
   Cities(
     id: 1282,
     districtId: 14,
@@ -14124,7 +12841,6 @@ final List<Cities> locations = [
     latitude: 7.36099280,
     longitude: 80.20536390,
   ),
-
   Cities(
     id: 1283,
     districtId: 14,
@@ -14135,7 +12851,6 @@ final List<Cities> locations = [
     latitude: 7.38186900,
     longitude: 80.03812320,
   ),
-
   Cities(
     id: 1284,
     districtId: 14,
@@ -14146,7 +12861,6 @@ final List<Cities> locations = [
     latitude: 7.32973050,
     longitude: 80.27394580,
   ),
-
   Cities(
     id: 1285,
     districtId: 15,
@@ -14157,7 +12871,6 @@ final List<Cities> locations = [
     latitude: 8.98097430,
     longitude: 79.90441490,
   ),
-
   Cities(
     id: 1286,
     districtId: 15,
@@ -14168,7 +12881,6 @@ final List<Cities> locations = [
     latitude: 9.06038940,
     longitude: 79.84730910,
   ),
-
   Cities(
     id: 1287,
     districtId: 16,
@@ -14179,7 +12891,6 @@ final List<Cities> locations = [
     latitude: 7.65000000,
     longitude: 80.60000000,
   ),
-
   Cities(
     id: 1288,
     districtId: 16,
@@ -14190,7 +12901,6 @@ final List<Cities> locations = [
     latitude: 7.45765490,
     longitude: 80.62425990,
   ),
-
   Cities(
     id: 1289,
     districtId: 16,
@@ -14201,7 +12911,6 @@ final List<Cities> locations = [
     latitude: 7.44890800,
     longitude: 80.66459730,
   ),
-
   Cities(
     id: 1290,
     districtId: 16,
@@ -14212,7 +12921,6 @@ final List<Cities> locations = [
     latitude: 7.64766030,
     longitude: 80.69233120,
   ),
-
   Cities(
     id: 1291,
     districtId: 16,
@@ -14223,7 +12931,6 @@ final List<Cities> locations = [
     latitude: 7.78278190,
     longitude: 81.18454260,
   ),
-
   Cities(
     id: 1292,
     districtId: 16,
@@ -14234,7 +12941,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1293,
     districtId: 16,
@@ -14245,7 +12951,6 @@ final List<Cities> locations = [
     latitude: 7.78609140,
     longitude: 80.53291660,
   ),
-
   Cities(
     id: 1294,
     districtId: 16,
@@ -14256,7 +12961,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1295,
     districtId: 16,
@@ -14267,7 +12971,6 @@ final List<Cities> locations = [
     latitude: 7.72737210,
     longitude: 80.54974800,
   ),
-
   Cities(
     id: 1296,
     districtId: 16,
@@ -14278,7 +12981,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1297,
     districtId: 16,
@@ -14289,7 +12991,6 @@ final List<Cities> locations = [
     latitude: 7.87421700,
     longitude: 80.65112870,
   ),
-
   Cities(
     id: 1298,
     districtId: 16,
@@ -14300,7 +13001,6 @@ final List<Cities> locations = [
     latitude: 7.75023710,
     longitude: 81.21673770,
   ),
-
   Cities(
     id: 1299,
     districtId: 16,
@@ -14311,7 +13011,6 @@ final List<Cities> locations = [
     latitude: 7.53472880,
     longitude: 80.70109270,
   ),
-
   Cities(
     id: 1300,
     districtId: 16,
@@ -14322,7 +13021,6 @@ final List<Cities> locations = [
     latitude: 7.47097150,
     longitude: 80.62306210,
   ),
-
   Cities(
     id: 1301,
     districtId: 16,
@@ -14333,7 +13031,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1302,
     districtId: 16,
@@ -14344,7 +13041,6 @@ final List<Cities> locations = [
     latitude: 7.84386120,
     longitude: 80.57856210,
   ),
-
   Cities(
     id: 1303,
     districtId: 16,
@@ -14355,7 +13051,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1304,
     districtId: 16,
@@ -14366,7 +13061,6 @@ final List<Cities> locations = [
     latitude: 7.51442180,
     longitude: 80.60077340,
   ),
-
   Cities(
     id: 1305,
     districtId: 16,
@@ -14377,7 +13071,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1306,
     districtId: 16,
@@ -14388,7 +13081,6 @@ final List<Cities> locations = [
     latitude: 7.41723760,
     longitude: 80.68401210,
   ),
-
   Cities(
     id: 1307,
     districtId: 16,
@@ -14399,7 +13091,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1308,
     districtId: 16,
@@ -14410,7 +13101,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1309,
     districtId: 16,
@@ -14421,7 +13111,6 @@ final List<Cities> locations = [
     latitude: 7.75650450,
     longitude: 80.57717370,
   ),
-
   Cities(
     id: 1310,
     districtId: 16,
@@ -14432,7 +13121,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1311,
     districtId: 16,
@@ -14443,7 +13131,6 @@ final List<Cities> locations = [
     latitude: 7.57022620,
     longitude: 80.69709690,
   ),
-
   Cities(
     id: 1312,
     districtId: 16,
@@ -14454,7 +13141,6 @@ final List<Cities> locations = [
     latitude: 7.58824670,
     longitude: 80.75496740,
   ),
-
   Cities(
     id: 1313,
     districtId: 16,
@@ -14465,7 +13151,6 @@ final List<Cities> locations = [
     latitude: 7.46802280,
     longitude: 80.62482660,
   ),
-
   Cities(
     id: 1314,
     districtId: 16,
@@ -14476,7 +13161,6 @@ final List<Cities> locations = [
     latitude: 7.61224780,
     longitude: 80.82755060,
   ),
-
   Cities(
     id: 1315,
     districtId: 16,
@@ -14487,7 +13171,6 @@ final List<Cities> locations = [
     latitude: 7.56681210,
     longitude: 80.66692110,
   ),
-
   Cities(
     id: 1316,
     districtId: 16,
@@ -14498,7 +13181,6 @@ final List<Cities> locations = [
     latitude: 7.92424990,
     longitude: 80.68401210,
   ),
-
   Cities(
     id: 1317,
     districtId: 16,
@@ -14509,7 +13191,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1318,
     districtId: 16,
@@ -14520,7 +13201,6 @@ final List<Cities> locations = [
     latitude: 7.50769890,
     longitude: 80.66182340,
   ),
-
   Cities(
     id: 1319,
     districtId: 16,
@@ -14531,7 +13211,6 @@ final List<Cities> locations = [
     latitude: 7.80335460,
     longitude: 80.66960340,
   ),
-
   Cities(
     id: 1320,
     districtId: 16,
@@ -14542,7 +13221,6 @@ final List<Cities> locations = [
     latitude: 7.88849850,
     longitude: 80.71035320,
   ),
-
   Cities(
     id: 1321,
     districtId: 16,
@@ -14553,7 +13231,6 @@ final List<Cities> locations = [
     latitude: 7.58020770,
     longitude: 80.62658080,
   ),
-
   Cities(
     id: 1322,
     districtId: 16,
@@ -14564,7 +13241,6 @@ final List<Cities> locations = [
     latitude: 7.93732850,
     longitude: 80.72698540,
   ),
-
   Cities(
     id: 1323,
     districtId: 16,
@@ -14575,7 +13251,6 @@ final List<Cities> locations = [
     latitude: 7.46347490,
     longitude: 80.62644770,
   ),
-
   Cities(
     id: 1324,
     districtId: 16,
@@ -14586,7 +13261,6 @@ final List<Cities> locations = [
     latitude: 7.68975230,
     longitude: 80.71589770,
   ),
-
   Cities(
     id: 1325,
     districtId: 16,
@@ -14597,7 +13271,6 @@ final List<Cities> locations = [
     latitude: 7.59653370,
     longitude: 80.83678340,
   ),
-
   Cities(
     id: 1326,
     districtId: 16,
@@ -14608,7 +13281,6 @@ final List<Cities> locations = [
     latitude: 7.42250790,
     longitude: 80.65710080,
   ),
-
   Cities(
     id: 1327,
     districtId: 16,
@@ -14619,7 +13291,6 @@ final List<Cities> locations = [
     latitude: 7.75551730,
     longitude: 80.66165000,
   ),
-
   Cities(
     id: 1328,
     districtId: 16,
@@ -14630,7 +13301,6 @@ final List<Cities> locations = [
     latitude: 8.13637740,
     longitude: 80.35751280,
   ),
-
   Cities(
     id: 1329,
     districtId: 16,
@@ -14641,7 +13311,6 @@ final List<Cities> locations = [
     latitude: 7.54413100,
     longitude: 80.80178770,
   ),
-
   Cities(
     id: 1330,
     districtId: 16,
@@ -14652,7 +13321,6 @@ final List<Cities> locations = [
     latitude: 7.67611540,
     longitude: 80.58272720,
   ),
-
   Cities(
     id: 1332,
     districtId: 16,
@@ -14663,7 +13331,6 @@ final List<Cities> locations = [
     latitude: 7.58014170,
     longitude: 80.61138060,
   ),
-
   Cities(
     id: 1333,
     districtId: 16,
@@ -14674,7 +13341,6 @@ final List<Cities> locations = [
     latitude: 7.68458910,
     longitude: 80.60216140,
   ),
-
   Cities(
     id: 1334,
     districtId: 16,
@@ -14685,7 +13351,6 @@ final List<Cities> locations = [
     latitude: 7.58553720,
     longitude: 80.96561810,
   ),
-
   Cities(
     id: 1335,
     districtId: 16,
@@ -14696,7 +13361,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1336,
     districtId: 16,
@@ -14707,7 +13371,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1337,
     districtId: 16,
@@ -14718,7 +13381,6 @@ final List<Cities> locations = [
     latitude: 7.54009730,
     longitude: 80.65322010,
   ),
-
   Cities(
     id: 1338,
     districtId: 16,
@@ -14729,7 +13391,6 @@ final List<Cities> locations = [
     latitude: 7.64991060,
     longitude: 80.57546640,
   ),
-
   Cities(
     id: 1339,
     districtId: 16,
@@ -14740,7 +13401,6 @@ final List<Cities> locations = [
     latitude: 7.45476490,
     longitude: 80.64097640,
   ),
-
   Cities(
     id: 1340,
     districtId: 16,
@@ -14751,7 +13411,6 @@ final List<Cities> locations = [
     latitude: 7.66974860,
     longitude: 80.64585600,
   ),
-
   Cities(
     id: 1341,
     districtId: 16,
@@ -14762,7 +13421,6 @@ final List<Cities> locations = [
     latitude: 7.70714930,
     longitude: 80.65211390,
   ),
-
   Cities(
     id: 1342,
     districtId: 16,
@@ -14773,7 +13431,6 @@ final List<Cities> locations = [
     latitude: 7.62489860,
     longitude: 80.69371770,
   ),
-
   Cities(
     id: 1343,
     districtId: 16,
@@ -14784,7 +13441,6 @@ final List<Cities> locations = [
     latitude: 7.62297620,
     longitude: 80.60493740,
   ),
-
   Cities(
     id: 1344,
     districtId: 16,
@@ -14795,7 +13451,6 @@ final List<Cities> locations = [
     latitude: 7.71855030,
     longitude: 81.18852930,
   ),
-
   Cities(
     id: 1345,
     districtId: 16,
@@ -14806,7 +13461,6 @@ final List<Cities> locations = [
     latitude: 8.04219630,
     longitude: 81.08098480,
   ),
-
   Cities(
     id: 1346,
     districtId: 16,
@@ -14817,7 +13471,6 @@ final List<Cities> locations = [
     latitude: 7.50290940,
     longitude: 80.83303400,
   ),
-
   Cities(
     id: 1347,
     districtId: 16,
@@ -14828,7 +13481,6 @@ final List<Cities> locations = [
     latitude: 7.51727300,
     longitude: 80.67153170,
   ),
-
   Cities(
     id: 1348,
     districtId: 16,
@@ -14839,7 +13491,6 @@ final List<Cities> locations = [
     latitude: 7.59204690,
     longitude: 80.59404970,
   ),
-
   Cities(
     id: 1349,
     districtId: 16,
@@ -14850,7 +13501,6 @@ final List<Cities> locations = [
     latitude: 7.95410850,
     longitude: 80.75469800,
   ),
-
   Cities(
     id: 1350,
     districtId: 16,
@@ -14861,7 +13511,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1351,
     districtId: 16,
@@ -14872,7 +13521,6 @@ final List<Cities> locations = [
     latitude: 8.07483740,
     longitude: 81.09202180,
   ),
-
   Cities(
     id: 1352,
     districtId: 16,
@@ -14883,7 +13531,6 @@ final List<Cities> locations = [
     latitude: 7.70144770,
     longitude: 80.76023940,
   ),
-
   Cities(
     id: 1353,
     districtId: 16,
@@ -14894,7 +13541,6 @@ final List<Cities> locations = [
     latitude: 7.82531670,
     longitude: 80.62089720,
   ),
-
   Cities(
     id: 1354,
     districtId: 16,
@@ -14905,7 +13551,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1355,
     districtId: 16,
@@ -14916,7 +13561,6 @@ final List<Cities> locations = [
     latitude: 7.53517470,
     longitude: 80.57023140,
   ),
-
   Cities(
     id: 1356,
     districtId: 16,
@@ -14927,7 +13571,6 @@ final List<Cities> locations = [
     latitude: 7.42874250,
     longitude: 80.64754180,
   ),
-
   Cities(
     id: 1357,
     districtId: 16,
@@ -14938,7 +13581,6 @@ final List<Cities> locations = [
     latitude: 7.42346230,
     longitude: 80.63061030,
   ),
-
   Cities(
     id: 1358,
     districtId: 16,
@@ -14949,7 +13591,6 @@ final List<Cities> locations = [
     latitude: 7.71904370,
     longitude: 80.58272720,
   ),
-
   Cities(
     id: 1359,
     districtId: 16,
@@ -14960,7 +13601,6 @@ final List<Cities> locations = [
     latitude: 7.51971430,
     longitude: 80.59799730,
   ),
-
   Cities(
     id: 1360,
     districtId: 16,
@@ -14971,7 +13611,6 @@ final List<Cities> locations = [
     latitude: 7.43822650,
     longitude: 80.61406850,
   ),
-
   Cities(
     id: 1361,
     districtId: 16,
@@ -14982,7 +13621,6 @@ final List<Cities> locations = [
     latitude: 7.54980700,
     longitude: 80.75424470,
   ),
-
   Cities(
     id: 1362,
     districtId: 16,
@@ -14993,7 +13631,6 @@ final List<Cities> locations = [
     latitude: 7.46746500,
     longitude: 80.62341610,
   ),
-
   Cities(
     id: 1363,
     districtId: 16,
@@ -15004,7 +13641,6 @@ final List<Cities> locations = [
     latitude: 7.56348260,
     longitude: 80.58767940,
   ),
-
   Cities(
     id: 1364,
     districtId: 17,
@@ -15015,7 +13651,6 @@ final List<Cities> locations = [
     latitude: 6.10013880,
     longitude: 80.47595670,
   ),
-
   Cities(
     id: 1365,
     districtId: 17,
@@ -15026,7 +13661,6 @@ final List<Cities> locations = [
     latitude: 6.28333300,
     longitude: 80.45000000,
   ),
-
   Cities(
     id: 1366,
     districtId: 17,
@@ -15037,7 +13671,6 @@ final List<Cities> locations = [
     latitude: 5.99253730,
     longitude: 80.61604020,
   ),
-
   Cities(
     id: 1367,
     districtId: 17,
@@ -15048,7 +13681,6 @@ final List<Cities> locations = [
     latitude: 6.06607070,
     longitude: 80.50227640,
   ),
-
   Cities(
     id: 1368,
     districtId: 17,
@@ -15059,7 +13691,6 @@ final List<Cities> locations = [
     latitude: 6.27861390,
     longitude: 80.60426390,
   ),
-
   Cities(
     id: 1369,
     districtId: 17,
@@ -15070,7 +13701,6 @@ final List<Cities> locations = [
     latitude: 6.15866160,
     longitude: 80.49953120,
   ),
-
   Cities(
     id: 1370,
     districtId: 17,
@@ -15081,7 +13711,6 @@ final List<Cities> locations = [
     latitude: 6.27152470,
     longitude: 80.64010980,
   ),
-
   Cities(
     id: 1371,
     districtId: 17,
@@ -15092,7 +13721,6 @@ final List<Cities> locations = [
     latitude: 6.16598040,
     longitude: 80.46164750,
   ),
-
   Cities(
     id: 1372,
     districtId: 17,
@@ -15103,7 +13731,6 @@ final List<Cities> locations = [
     latitude: 6.15256980,
     longitude: 80.60285540,
   ),
-
   Cities(
     id: 1373,
     districtId: 17,
@@ -15114,7 +13741,6 @@ final List<Cities> locations = [
     latitude: 6.11421070,
     longitude: 80.66164450,
   ),
-
   Cities(
     id: 1374,
     districtId: 17,
@@ -15125,7 +13751,6 @@ final List<Cities> locations = [
     latitude: 5.98287730,
     longitude: 80.45180530,
   ),
-
   Cities(
     id: 1375,
     districtId: 17,
@@ -15136,7 +13761,6 @@ final List<Cities> locations = [
     latitude: 6.34248470,
     longitude: 80.55965820,
   ),
-
   Cities(
     id: 1376,
     districtId: 17,
@@ -15147,7 +13771,6 @@ final List<Cities> locations = [
     latitude: 6.21891180,
     longitude: 80.45004250,
   ),
-
   Cities(
     id: 1377,
     districtId: 17,
@@ -15158,7 +13781,6 @@ final List<Cities> locations = [
     latitude: 5.93125530,
     longitude: 80.59143310,
   ),
-
   Cities(
     id: 1378,
     districtId: 17,
@@ -15169,7 +13791,6 @@ final List<Cities> locations = [
     latitude: 5.97167620,
     longitude: 80.69510410,
   ),
-
   Cities(
     id: 1379,
     districtId: 17,
@@ -15180,7 +13801,6 @@ final List<Cities> locations = [
     latitude: 5.98551850,
     longitude: 80.57856010,
   ),
-
   Cities(
     id: 1380,
     districtId: 17,
@@ -15191,7 +13811,6 @@ final List<Cities> locations = [
     latitude: 6.12295420,
     longitude: 80.44655940,
   ),
-
   Cities(
     id: 1381,
     districtId: 17,
@@ -15202,7 +13821,6 @@ final List<Cities> locations = [
     latitude: 5.93764030,
     longitude: 80.61326460,
   ),
-
   Cities(
     id: 1382,
     districtId: 17,
@@ -15213,7 +13831,6 @@ final List<Cities> locations = [
     latitude: 6.08866040,
     longitude: 80.47908660,
   ),
-
   Cities(
     id: 1383,
     districtId: 17,
@@ -15224,7 +13841,6 @@ final List<Cities> locations = [
     latitude: 6.21009260,
     longitude: 80.59228810,
   ),
-
   Cities(
     id: 1384,
     districtId: 17,
@@ -15235,7 +13851,6 @@ final List<Cities> locations = [
     latitude: 6.13288520,
     longitude: 80.48965710,
   ),
-
   Cities(
     id: 1385,
     districtId: 17,
@@ -15246,7 +13861,6 @@ final List<Cities> locations = [
     latitude: 6.10703990,
     longitude: 80.58272720,
   ),
-
   Cities(
     id: 1386,
     districtId: 17,
@@ -15257,7 +13871,6 @@ final List<Cities> locations = [
     latitude: 6.31165380,
     longitude: 80.39371820,
   ),
-
   Cities(
     id: 1387,
     districtId: 17,
@@ -15268,7 +13881,6 @@ final List<Cities> locations = [
     latitude: 5.94458700,
     longitude: 80.49383440,
   ),
-
   Cities(
     id: 1388,
     districtId: 17,
@@ -15279,7 +13891,6 @@ final List<Cities> locations = [
     latitude: 6.07791070,
     longitude: 80.56328840,
   ),
-
   Cities(
     id: 1389,
     districtId: 17,
@@ -15290,7 +13901,6 @@ final List<Cities> locations = [
     latitude: 6.05200090,
     longitude: 80.52825870,
   ),
-
   Cities(
     id: 1390,
     districtId: 17,
@@ -15301,7 +13911,6 @@ final List<Cities> locations = [
     latitude: 6.08452960,
     longitude: 80.60134030,
   ),
-
   Cities(
     id: 1391,
     districtId: 17,
@@ -15312,7 +13921,6 @@ final List<Cities> locations = [
     latitude: 6.06412720,
     longitude: 80.66600920,
   ),
-
   Cities(
     id: 1392,
     districtId: 17,
@@ -15323,7 +13931,6 @@ final List<Cities> locations = [
     latitude: 5.96375280,
     longitude: 80.61326460,
   ),
-
   Cities(
     id: 1393,
     districtId: 17,
@@ -15334,7 +13941,6 @@ final List<Cities> locations = [
     latitude: 6.37115050,
     longitude: 80.53551070,
   ),
-
   Cities(
     id: 1394,
     districtId: 17,
@@ -15345,7 +13951,6 @@ final List<Cities> locations = [
     latitude: 6.24224840,
     longitude: 80.45073110,
   ),
-
   Cities(
     id: 1395,
     districtId: 17,
@@ -15356,7 +13961,6 @@ final List<Cities> locations = [
     latitude: 6.32323980,
     longitude: 80.50216520,
   ),
-
   Cities(
     id: 1396,
     districtId: 17,
@@ -15367,7 +13971,6 @@ final List<Cities> locations = [
     latitude: 6.27797250,
     longitude: 80.53967800,
   ),
-
   Cities(
     id: 1397,
     districtId: 17,
@@ -15378,7 +13981,6 @@ final List<Cities> locations = [
     latitude: 6.36713720,
     longitude: 80.46046430,
   ),
-
   Cities(
     id: 1398,
     districtId: 17,
@@ -15389,7 +13991,6 @@ final List<Cities> locations = [
     latitude: 6.14192480,
     longitude: 80.55634490,
   ),
-
   Cities(
     id: 1399,
     districtId: 17,
@@ -15400,7 +14001,6 @@ final List<Cities> locations = [
     latitude: 6.13543390,
     longitude: 80.41047430,
   ),
-
   Cities(
     id: 1400,
     districtId: 17,
@@ -15411,7 +14011,6 @@ final List<Cities> locations = [
     latitude: 6.14552080,
     longitude: 80.48235990,
   ),
-
   Cities(
     id: 1401,
     districtId: 17,
@@ -15422,7 +14021,6 @@ final List<Cities> locations = [
     latitude: 5.94953080,
     longitude: 80.53039310,
   ),
-
   Cities(
     id: 1402,
     districtId: 17,
@@ -15433,7 +14031,6 @@ final List<Cities> locations = [
     latitude: 6.35070950,
     longitude: 80.49309040,
   ),
-
   Cities(
     id: 1403,
     districtId: 17,
@@ -15444,7 +14041,6 @@ final List<Cities> locations = [
     latitude: 6.11791320,
     longitude: 80.67161110,
   ),
-
   Cities(
     id: 1404,
     districtId: 17,
@@ -15455,7 +14051,6 @@ final List<Cities> locations = [
     latitude: 5.94826200,
     longitude: 80.47158660,
   ),
-
   Cities(
     id: 1405,
     districtId: 17,
@@ -15466,7 +14061,6 @@ final List<Cities> locations = [
     latitude: 6.26528020,
     longitude: 80.49104700,
   ),
-
   Cities(
     id: 1406,
     districtId: 17,
@@ -15477,7 +14071,6 @@ final List<Cities> locations = [
     latitude: 6.16208860,
     longitude: 80.58550380,
   ),
-
   Cities(
     id: 1407,
     districtId: 17,
@@ -15488,7 +14081,6 @@ final List<Cities> locations = [
     latitude: 5.98136590,
     longitude: 80.54971010,
   ),
-
   Cities(
     id: 1408,
     districtId: 17,
@@ -15499,7 +14091,6 @@ final List<Cities> locations = [
     latitude: 5.96344580,
     longitude: 80.56584960,
   ),
-
   Cities(
     id: 1409,
     districtId: 17,
@@ -15510,7 +14101,6 @@ final List<Cities> locations = [
     latitude: 5.97631240,
     longitude: 80.51844180,
   ),
-
   Cities(
     id: 1410,
     districtId: 17,
@@ -15521,7 +14111,6 @@ final List<Cities> locations = [
     latitude: 6.15162590,
     longitude: 80.62186660,
   ),
-
   Cities(
     id: 1411,
     districtId: 17,
@@ -15532,7 +14121,6 @@ final List<Cities> locations = [
     latitude: 6.24639160,
     longitude: 80.60771320,
   ),
-
   Cities(
     id: 1412,
     districtId: 17,
@@ -15543,7 +14131,6 @@ final List<Cities> locations = [
     latitude: 6.04772800,
     longitude: 80.44994740,
   ),
-
   Cities(
     id: 1413,
     districtId: 17,
@@ -15554,7 +14141,6 @@ final List<Cities> locations = [
     latitude: 6.20707730,
     longitude: 80.46324500,
   ),
-
   Cities(
     id: 1414,
     districtId: 17,
@@ -15565,7 +14151,6 @@ final List<Cities> locations = [
     latitude: 6.05152880,
     longitude: 80.62575390,
   ),
-
   Cities(
     id: 1415,
     districtId: 17,
@@ -15576,7 +14161,6 @@ final List<Cities> locations = [
     latitude: 7.67275800,
     longitude: 80.70937300,
   ),
-
   Cities(
     id: 1416,
     districtId: 17,
@@ -15587,7 +14171,6 @@ final List<Cities> locations = [
     latitude: 6.11862980,
     longitude: 80.56415070,
   ),
-
   Cities(
     id: 1417,
     districtId: 17,
@@ -15598,7 +14181,6 @@ final List<Cities> locations = [
     latitude: 6.22578800,
     longitude: 80.57597720,
   ),
-
   Cities(
     id: 1418,
     districtId: 17,
@@ -15609,7 +14191,6 @@ final List<Cities> locations = [
     latitude: 5.97724210,
     longitude: 80.51099480,
   ),
-
   Cities(
     id: 1419,
     districtId: 17,
@@ -15620,7 +14201,6 @@ final List<Cities> locations = [
     latitude: 6.02508460,
     longitude: 80.49591140,
   ),
-
   Cities(
     id: 1420,
     districtId: 17,
@@ -15631,7 +14211,6 @@ final List<Cities> locations = [
     latitude: 6.01333870,
     longitude: 80.56600410,
   ),
-
   Cities(
     id: 1421,
     districtId: 17,
@@ -15642,7 +14221,6 @@ final List<Cities> locations = [
     latitude: 6.30652970,
     longitude: 80.63061030,
   ),
-
   Cities(
     id: 1422,
     districtId: 17,
@@ -15653,7 +14231,6 @@ final List<Cities> locations = [
     latitude: 6.01007300,
     longitude: 80.64795240,
   ),
-
   Cities(
     id: 1423,
     districtId: 17,
@@ -15664,7 +14241,6 @@ final List<Cities> locations = [
     latitude: 6.16195980,
     longitude: 80.51692520,
   ),
-
   Cities(
     id: 1424,
     districtId: 17,
@@ -15675,7 +14251,6 @@ final List<Cities> locations = [
     latitude: 6.38276970,
     longitude: 80.60202340,
   ),
-
   Cities(
     id: 1425,
     districtId: 17,
@@ -15686,7 +14261,6 @@ final List<Cities> locations = [
     latitude: 6.02305050,
     longitude: 80.65586580,
   ),
-
   Cities(
     id: 1426,
     districtId: 17,
@@ -15697,7 +14271,6 @@ final List<Cities> locations = [
     latitude: 5.98284010,
     longitude: 80.69857010,
   ),
-
   Cities(
     id: 1427,
     districtId: 17,
@@ -15708,7 +14281,6 @@ final List<Cities> locations = [
     latitude: 6.27638310,
     longitude: 80.52439700,
   ),
-
   Cities(
     id: 1428,
     districtId: 17,
@@ -15719,7 +14291,6 @@ final List<Cities> locations = [
     latitude: 5.97303210,
     longitude: 80.42280410,
   ),
-
   Cities(
     id: 1429,
     districtId: 17,
@@ -15730,7 +14301,6 @@ final List<Cities> locations = [
     latitude: 5.94603270,
     longitude: 80.55772880,
   ),
-
   Cities(
     id: 1430,
     districtId: 17,
@@ -15741,7 +14311,6 @@ final List<Cities> locations = [
     latitude: 6.03027130,
     longitude: 80.60632530,
   ),
-
   Cities(
     id: 1431,
     districtId: 18,
@@ -15752,7 +14321,6 @@ final List<Cities> locations = [
     latitude: 7.10702560,
     longitude: 81.25048550,
   ),
-
   Cities(
     id: 1432,
     districtId: 18,
@@ -15763,7 +14331,6 @@ final List<Cities> locations = [
     latitude: 6.89559920,
     longitude: 81.23635890,
   ),
-
   Cities(
     id: 1433,
     districtId: 18,
@@ -15774,7 +14341,6 @@ final List<Cities> locations = [
     latitude: 6.99340090,
     longitude: 81.05498150,
   ),
-
   Cities(
     id: 1434,
     districtId: 18,
@@ -15785,7 +14351,6 @@ final List<Cities> locations = [
     latitude: 6.99824690,
     longitude: 81.28508070,
   ),
-
   Cities(
     id: 1435,
     districtId: 18,
@@ -15796,7 +14361,6 @@ final List<Cities> locations = [
     latitude: 6.53084900,
     longitude: 81.06442630,
   ),
-
   Cities(
     id: 1436,
     districtId: 18,
@@ -15807,7 +14371,6 @@ final List<Cities> locations = [
     latitude: 6.86086240,
     longitude: 81.35025410,
   ),
-
   Cities(
     id: 1437,
     districtId: 18,
@@ -15818,7 +14381,6 @@ final List<Cities> locations = [
     latitude: 7.04054500,
     longitude: 81.48880660,
   ),
-
   Cities(
     id: 1438,
     districtId: 18,
@@ -15829,7 +14391,6 @@ final List<Cities> locations = [
     latitude: 6.75892330,
     longitude: 81.24912980,
   ),
-
   Cities(
     id: 1439,
     districtId: 18,
@@ -15840,7 +14401,6 @@ final List<Cities> locations = [
     latitude: 6.94999990,
     longitude: 81.36666710,
   ),
-
   Cities(
     id: 1440,
     districtId: 18,
@@ -15851,7 +14411,6 @@ final List<Cities> locations = [
     latitude: 7.15884730,
     longitude: 81.19934040,
   ),
-
   Cities(
     id: 1441,
     districtId: 18,
@@ -15862,7 +14421,6 @@ final List<Cities> locations = [
     latitude: 6.90764870,
     longitude: 81.50941940,
   ),
-
   Cities(
     id: 1442,
     districtId: 18,
@@ -15873,7 +14431,6 @@ final List<Cities> locations = [
     latitude: 6.81115120,
     longitude: 81.50203280,
   ),
-
   Cities(
     id: 1443,
     districtId: 18,
@@ -15884,7 +14441,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1444,
     districtId: 18,
@@ -15895,7 +14451,6 @@ final List<Cities> locations = [
     latitude: 6.91911390,
     longitude: 81.38509100,
   ),
-
   Cities(
     id: 1445,
     districtId: 18,
@@ -15906,7 +14461,6 @@ final List<Cities> locations = [
     latitude: 6.92464050,
     longitude: 81.20533240,
   ),
-
   Cities(
     id: 1446,
     districtId: 18,
@@ -15917,7 +14471,6 @@ final List<Cities> locations = [
     latitude: 6.53863360,
     longitude: 80.96301560,
   ),
-
   Cities(
     id: 1447,
     districtId: 18,
@@ -15928,7 +14481,6 @@ final List<Cities> locations = [
     latitude: 6.82574560,
     longitude: 81.16298410,
   ),
-
   Cities(
     id: 1448,
     districtId: 18,
@@ -15939,7 +14491,6 @@ final List<Cities> locations = [
     latitude: 6.85467910,
     longitude: 81.33856630,
   ),
-
   Cities(
     id: 1449,
     districtId: 18,
@@ -15950,7 +14501,6 @@ final List<Cities> locations = [
     latitude: 7.21381560,
     longitude: 81.54318720,
   ),
-
   Cities(
     id: 1450,
     districtId: 18,
@@ -15961,7 +14511,6 @@ final List<Cities> locations = [
     latitude: 6.98034640,
     longitude: 81.54148000,
   ),
-
   Cities(
     id: 1451,
     districtId: 18,
@@ -15972,7 +14521,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1452,
     districtId: 18,
@@ -15983,7 +14531,6 @@ final List<Cities> locations = [
     latitude: 6.41354630,
     longitude: 81.33256790,
   ),
-
   Cities(
     id: 1453,
     districtId: 18,
@@ -15994,7 +14541,6 @@ final List<Cities> locations = [
     latitude: 7.11098880,
     longitude: 81.18026190,
   ),
-
   Cities(
     id: 1454,
     districtId: 18,
@@ -16005,7 +14551,6 @@ final List<Cities> locations = [
     latitude: 6.89022610,
     longitude: 81.17750590,
   ),
-
   Cities(
     id: 1455,
     districtId: 18,
@@ -16016,7 +14561,6 @@ final List<Cities> locations = [
     latitude: 6.64690700,
     longitude: 80.90847550,
   ),
-
   Cities(
     id: 1456,
     districtId: 18,
@@ -16027,7 +14571,6 @@ final List<Cities> locations = [
     latitude: 8.56222220,
     longitude: 80.69388890,
   ),
-
   Cities(
     id: 1457,
     districtId: 18,
@@ -16038,7 +14581,6 @@ final List<Cities> locations = [
     latitude: 6.81059500,
     longitude: 81.30066680,
   ),
-
   Cities(
     id: 1458,
     districtId: 18,
@@ -16049,7 +14591,6 @@ final List<Cities> locations = [
     latitude: 6.80900980,
     longitude: 81.38118390,
   ),
-
   Cities(
     id: 1459,
     districtId: 18,
@@ -16060,7 +14601,6 @@ final List<Cities> locations = [
     latitude: 6.96837810,
     longitude: 81.47620430,
   ),
-
   Cities(
     id: 1460,
     districtId: 18,
@@ -16071,7 +14611,6 @@ final List<Cities> locations = [
     latitude: 7.03447320,
     longitude: 81.27600400,
   ),
-
   Cities(
     id: 1461,
     districtId: 18,
@@ -16082,7 +14621,6 @@ final List<Cities> locations = [
     latitude: 7.03447320,
     longitude: 81.27600400,
   ),
-
   Cities(
     id: 1462,
     districtId: 18,
@@ -16093,7 +14631,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1463,
     districtId: 18,
@@ -16104,7 +14641,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1464,
     districtId: 18,
@@ -16115,7 +14651,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1465,
     districtId: 18,
@@ -16126,7 +14661,6 @@ final List<Cities> locations = [
     latitude: 6.88999620,
     longitude: 81.29843090,
   ),
-
   Cities(
     id: 1466,
     districtId: 18,
@@ -16137,7 +14671,6 @@ final List<Cities> locations = [
     latitude: 6.87447870,
     longitude: 81.11547030,
   ),
-
   Cities(
     id: 1467,
     districtId: 18,
@@ -16148,7 +14681,6 @@ final List<Cities> locations = [
     latitude: 7.08537010,
     longitude: 81.25931330,
   ),
-
   Cities(
     id: 1468,
     districtId: 18,
@@ -16159,7 +14691,6 @@ final List<Cities> locations = [
     latitude: 7.38785580,
     longitude: 81.41690930,
   ),
-
   Cities(
     id: 1469,
     districtId: 18,
@@ -16170,7 +14701,6 @@ final List<Cities> locations = [
     latitude: 7.19333790,
     longitude: 81.39639010,
   ),
-
   Cities(
     id: 1470,
     districtId: 18,
@@ -16181,7 +14711,6 @@ final List<Cities> locations = [
     latitude: 6.92507090,
     longitude: 81.35408600,
   ),
-
   Cities(
     id: 1471,
     districtId: 18,
@@ -16192,7 +14721,6 @@ final List<Cities> locations = [
     latitude: 6.75003500,
     longitude: 81.30761930,
   ),
-
   Cities(
     id: 1472,
     districtId: 18,
@@ -16203,7 +14731,6 @@ final List<Cities> locations = [
     latitude: 6.97668660,
     longitude: 81.32008930,
   ),
-
   Cities(
     id: 1473,
     districtId: 18,
@@ -16214,7 +14741,6 @@ final List<Cities> locations = [
     latitude: 7.17869360,
     longitude: 81.29312200,
   ),
-
   Cities(
     id: 1474,
     districtId: 18,
@@ -16225,7 +14751,6 @@ final List<Cities> locations = [
     latitude: 6.80151990,
     longitude: 81.11409120,
   ),
-
   Cities(
     id: 1475,
     districtId: 18,
@@ -16236,7 +14761,6 @@ final List<Cities> locations = [
     latitude: 6.86108030,
     longitude: 81.33918040,
   ),
-
   Cities(
     id: 1476,
     districtId: 18,
@@ -16247,7 +14771,6 @@ final List<Cities> locations = [
     latitude: 6.43732850,
     longitude: 81.29867670,
   ),
-
   Cities(
     id: 1477,
     districtId: 18,
@@ -16258,7 +14781,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1478,
     districtId: 18,
@@ -16269,7 +14791,6 @@ final List<Cities> locations = [
     latitude: 6.90646360,
     longitude: 81.56101380,
   ),
-
   Cities(
     id: 1479,
     districtId: 18,
@@ -16280,7 +14801,6 @@ final List<Cities> locations = [
     latitude: 6.89064540,
     longitude: 81.34544170,
   ),
-
   Cities(
     id: 1480,
     districtId: 18,
@@ -16291,7 +14811,6 @@ final List<Cities> locations = [
     latitude: 6.43975480,
     longitude: 81.13339680,
   ),
-
   Cities(
     id: 1481,
     districtId: 18,
@@ -16302,7 +14821,6 @@ final List<Cities> locations = [
     latitude: 7.01985990,
     longitude: 81.43339230,
   ),
-
   Cities(
     id: 1482,
     districtId: 18,
@@ -16313,7 +14831,6 @@ final List<Cities> locations = [
     latitude: 6.53279710,
     longitude: 81.17474980,
   ),
-
   Cities(
     id: 1483,
     districtId: 18,
@@ -16324,7 +14841,6 @@ final List<Cities> locations = [
     latitude: 6.74473370,
     longitude: 81.19679580,
   ),
-
   Cities(
     id: 1484,
     districtId: 18,
@@ -16335,7 +14851,6 @@ final List<Cities> locations = [
     latitude: 6.73234260,
     longitude: 81.13408620,
   ),
-
   Cities(
     id: 1485,
     districtId: 18,
@@ -16346,7 +14861,6 @@ final List<Cities> locations = [
     latitude: 6.89559920,
     longitude: 81.23635890,
   ),
-
   Cities(
     id: 1486,
     districtId: 18,
@@ -16357,7 +14871,6 @@ final List<Cities> locations = [
     latitude: 6.64359030,
     longitude: 81.11825900,
   ),
-
   Cities(
     id: 1487,
     districtId: 18,
@@ -16368,7 +14881,6 @@ final List<Cities> locations = [
     latitude: 6.73773560,
     longitude: 81.10305730,
   ),
-
   Cities(
     id: 1488,
     districtId: 18,
@@ -16379,7 +14891,6 @@ final List<Cities> locations = [
     latitude: 6.76778200,
     longitude: 81.69721660,
   ),
-
   Cities(
     id: 1489,
     districtId: 18,
@@ -16390,7 +14901,6 @@ final List<Cities> locations = [
     latitude: 6.77425080,
     longitude: 81.23511310,
   ),
-
   Cities(
     id: 1490,
     districtId: 19,
@@ -16401,7 +14911,6 @@ final List<Cities> locations = [
     latitude: 9.26709110,
     longitude: 80.81424800,
   ),
-
   Cities(
     id: 1491,
     districtId: 20,
@@ -16412,7 +14921,6 @@ final List<Cities> locations = [
     latitude: 6.86724310,
     longitude: 80.71217540,
   ),
-
   Cities(
     id: 1492,
     districtId: 20,
@@ -16423,7 +14931,6 @@ final List<Cities> locations = [
     latitude: 7.05000000,
     longitude: 80.66666690,
   ),
-
   Cities(
     id: 1493,
     districtId: 20,
@@ -16434,7 +14941,6 @@ final List<Cities> locations = [
     latitude: 6.87871950,
     longitude: 80.81355580,
   ),
-
   Cities(
     id: 1494,
     districtId: 20,
@@ -16445,7 +14951,6 @@ final List<Cities> locations = [
     latitude: 6.79723370,
     longitude: 80.67569200,
   ),
-
   Cities(
     id: 1495,
     districtId: 20,
@@ -16456,7 +14961,6 @@ final List<Cities> locations = [
     latitude: 6.80901900,
     longitude: 80.69590130,
   ),
-
   Cities(
     id: 1496,
     districtId: 20,
@@ -16467,7 +14971,6 @@ final List<Cities> locations = [
     latitude: 6.97747550,
     longitude: 80.47436690,
   ),
-
   Cities(
     id: 1497,
     districtId: 20,
@@ -16478,7 +14981,6 @@ final List<Cities> locations = [
     latitude: 6.85612990,
     longitude: 80.74742610,
   ),
-
   Cities(
     id: 1498,
     districtId: 20,
@@ -16489,7 +14991,6 @@ final List<Cities> locations = [
     latitude: 6.87513130,
     longitude: 80.60067720,
   ),
-
   Cities(
     id: 1499,
     districtId: 20,
@@ -16500,7 +15001,6 @@ final List<Cities> locations = [
     latitude: 6.95627300,
     longitude: 80.78471800,
   ),
-
   Cities(
     id: 1500,
     districtId: 20,
@@ -16511,7 +15011,6 @@ final List<Cities> locations = [
     latitude: 6.99002820,
     longitude: 80.63685390,
   ),
-
   Cities(
     id: 1501,
     districtId: 20,
@@ -16522,7 +15021,6 @@ final List<Cities> locations = [
     latitude: 6.96448360,
     longitude: 80.76335990,
   ),
-
   Cities(
     id: 1502,
     districtId: 20,
@@ -16533,7 +15031,6 @@ final List<Cities> locations = [
     latitude: 7.14825510,
     longitude: 80.75435170,
   ),
-
   Cities(
     id: 1503,
     districtId: 20,
@@ -16544,7 +15041,6 @@ final List<Cities> locations = [
     latitude: 7.05668610,
     longitude: 80.76843740,
   ),
-
   Cities(
     id: 1504,
     districtId: 20,
@@ -16555,7 +15051,6 @@ final List<Cities> locations = [
     latitude: 6.98931710,
     longitude: 80.49269330,
   ),
-
   Cities(
     id: 1505,
     districtId: 20,
@@ -16566,7 +15061,6 @@ final List<Cities> locations = [
     latitude: 6.98379580,
     longitude: 80.75815850,
   ),
-
   Cities(
     id: 1506,
     districtId: 20,
@@ -16577,7 +15071,6 @@ final List<Cities> locations = [
     latitude: 6.91868170,
     longitude: 80.83103180,
   ),
-
   Cities(
     id: 1507,
     districtId: 20,
@@ -16588,7 +15081,6 @@ final List<Cities> locations = [
     latitude: 7.00678340,
     longitude: 80.86520380,
   ),
-
   Cities(
     id: 1508,
     districtId: 20,
@@ -16599,7 +15091,6 @@ final List<Cities> locations = [
     latitude: 6.92040700,
     longitude: 80.47255650,
   ),
-
   Cities(
     id: 1509,
     districtId: 20,
@@ -16610,7 +15101,6 @@ final List<Cities> locations = [
     latitude: 7.05781340,
     longitude: 80.57300840,
   ),
-
   Cities(
     id: 1510,
     districtId: 20,
@@ -16621,7 +15111,6 @@ final List<Cities> locations = [
     latitude: 7.06263870,
     longitude: 80.88205350,
   ),
-
   Cities(
     id: 1511,
     districtId: 20,
@@ -16632,7 +15121,6 @@ final List<Cities> locations = [
     latitude: 6.89221530,
     longitude: 80.59857650,
   ),
-
   Cities(
     id: 1512,
     districtId: 20,
@@ -16643,7 +15131,6 @@ final List<Cities> locations = [
     latitude: 7.11183660,
     longitude: 80.76335630,
   ),
-
   Cities(
     id: 1513,
     districtId: 20,
@@ -16654,7 +15141,6 @@ final List<Cities> locations = [
     latitude: 6.95060760,
     longitude: 80.45768350,
   ),
-
   Cities(
     id: 1514,
     districtId: 20,
@@ -16665,7 +15151,6 @@ final List<Cities> locations = [
     latitude: 6.94971660,
     longitude: 80.78910680,
   ),
-
   Cities(
     id: 1515,
     districtId: 20,
@@ -16676,7 +15161,6 @@ final List<Cities> locations = [
     latitude: 7.10063900,
     longitude: 80.89945790,
   ),
-
   Cities(
     id: 1516,
     districtId: 20,
@@ -16687,7 +15171,6 @@ final List<Cities> locations = [
     latitude: 7.00025120,
     longitude: 80.81840100,
   ),
-
   Cities(
     id: 1517,
     districtId: 20,
@@ -16698,7 +15181,6 @@ final List<Cities> locations = [
     latitude: 7.05701940,
     longitude: 80.90072450,
   ),
-
   Cities(
     id: 1518,
     districtId: 20,
@@ -16709,7 +15191,6 @@ final List<Cities> locations = [
     latitude: 7.14589980,
     longitude: 80.85300100,
   ),
-
   Cities(
     id: 1519,
     districtId: 20,
@@ -16720,7 +15201,6 @@ final List<Cities> locations = [
     latitude: 7.26962890,
     longitude: 80.57571610,
   ),
-
   Cities(
     id: 1520,
     districtId: 20,
@@ -16731,7 +15211,6 @@ final List<Cities> locations = [
     latitude: 6.78550740,
     longitude: 80.68539860,
   ),
-
   Cities(
     id: 1521,
     districtId: 20,
@@ -16742,7 +15221,6 @@ final List<Cities> locations = [
     latitude: 7.02230890,
     longitude: 80.59105670,
   ),
-
   Cities(
     id: 1522,
     districtId: 20,
@@ -16753,7 +15231,6 @@ final List<Cities> locations = [
     latitude: 6.89316840,
     longitude: 80.50216520,
   ),
-
   Cities(
     id: 1523,
     districtId: 20,
@@ -16764,7 +15241,6 @@ final List<Cities> locations = [
     latitude: 7.11248390,
     longitude: 80.84608220,
   ),
-
   Cities(
     id: 1524,
     districtId: 20,
@@ -16775,7 +15251,6 @@ final List<Cities> locations = [
     latitude: 7.05346520,
     longitude: 80.88896920,
   ),
-
   Cities(
     id: 1525,
     districtId: 20,
@@ -16786,7 +15261,6 @@ final List<Cities> locations = [
     latitude: 7.01672620,
     longitude: 80.91386080,
   ),
-
   Cities(
     id: 1526,
     districtId: 20,
@@ -16797,7 +15271,6 @@ final List<Cities> locations = [
     latitude: 7.02431540,
     longitude: 80.71909510,
   ),
-
   Cities(
     id: 1527,
     districtId: 20,
@@ -16808,7 +15281,6 @@ final List<Cities> locations = [
     latitude: 6.92475840,
     longitude: 80.49104700,
   ),
-
   Cities(
     id: 1528,
     districtId: 20,
@@ -16819,7 +15291,6 @@ final List<Cities> locations = [
     latitude: 6.90189800,
     longitude: 80.67165240,
   ),
-
   Cities(
     id: 1529,
     districtId: 20,
@@ -16830,7 +15301,6 @@ final List<Cities> locations = [
     latitude: 7.01944190,
     longitude: 80.92130100,
   ),
-
   Cities(
     id: 1530,
     districtId: 20,
@@ -16841,7 +15311,6 @@ final List<Cities> locations = [
     latitude: 7.04201080,
     longitude: 80.77963130,
   ),
-
   Cities(
     id: 1531,
     districtId: 20,
@@ -16852,7 +15321,6 @@ final List<Cities> locations = [
     latitude: 6.83292940,
     longitude: 80.57092560,
   ),
-
   Cities(
     id: 1532,
     districtId: 20,
@@ -16863,7 +15331,6 @@ final List<Cities> locations = [
     latitude: 7.06397370,
     longitude: 80.63304790,
   ),
-
   Cities(
     id: 1533,
     districtId: 20,
@@ -16874,7 +15341,6 @@ final List<Cities> locations = [
     latitude: 6.99108740,
     longitude: 80.83380120,
   ),
-
   Cities(
     id: 1534,
     districtId: 20,
@@ -16885,7 +15351,6 @@ final List<Cities> locations = [
     latitude: 6.97314000,
     longitude: 80.76664000,
   ),
-
   Cities(
     id: 1535,
     districtId: 20,
@@ -16896,7 +15361,6 @@ final List<Cities> locations = [
     latitude: 6.93045680,
     longitude: 80.77963130,
   ),
-
   Cities(
     id: 1536,
     districtId: 20,
@@ -16907,7 +15371,6 @@ final List<Cities> locations = [
     latitude: 6.94575120,
     longitude: 80.47992730,
   ),
-
   Cities(
     id: 1537,
     districtId: 20,
@@ -16918,7 +15381,6 @@ final List<Cities> locations = [
     latitude: 7.11578960,
     longitude: 80.81147920,
   ),
-
   Cities(
     id: 1538,
     districtId: 20,
@@ -16929,7 +15391,6 @@ final List<Cities> locations = [
     latitude: 7.06653840,
     longitude: 80.60653300,
   ),
-
   Cities(
     id: 1539,
     districtId: 20,
@@ -16940,7 +15401,6 @@ final List<Cities> locations = [
     latitude: 7.08011970,
     longitude: 80.89173530,
   ),
-
   Cities(
     id: 1540,
     districtId: 20,
@@ -16951,7 +15411,6 @@ final List<Cities> locations = [
     latitude: 6.94971660,
     longitude: 80.78910680,
   ),
-
   Cities(
     id: 1541,
     districtId: 20,
@@ -16962,7 +15421,6 @@ final List<Cities> locations = [
     latitude: 6.83842070,
     longitude: 80.61465240,
   ),
-
   Cities(
     id: 1542,
     districtId: 20,
@@ -16973,7 +15431,6 @@ final List<Cities> locations = [
     latitude: 6.94795810,
     longitude: 80.78851030,
   ),
-
   Cities(
     id: 1543,
     districtId: 20,
@@ -16984,7 +15441,6 @@ final List<Cities> locations = [
     latitude: 7.09357490,
     longitude: 80.79832620,
   ),
-
   Cities(
     id: 1544,
     districtId: 20,
@@ -16995,7 +15451,6 @@ final List<Cities> locations = [
     latitude: 7.15150470,
     longitude: 80.73391440,
   ),
-
   Cities(
     id: 1545,
     districtId: 20,
@@ -17006,7 +15461,6 @@ final List<Cities> locations = [
     latitude: 7.40042080,
     longitude: 80.73290790,
   ),
-
   Cities(
     id: 1546,
     districtId: 20,
@@ -17017,7 +15471,6 @@ final List<Cities> locations = [
     latitude: 6.99836950,
     longitude: 80.45768350,
   ),
-
   Cities(
     id: 1547,
     districtId: 20,
@@ -17028,7 +15481,6 @@ final List<Cities> locations = [
     latitude: 7.01312780,
     longitude: 80.66321030,
   ),
-
   Cities(
     id: 1548,
     districtId: 20,
@@ -17039,7 +15491,6 @@ final List<Cities> locations = [
     latitude: 7.05654680,
     longitude: 80.69384740,
   ),
-
   Cities(
     id: 1549,
     districtId: 20,
@@ -17050,7 +15501,6 @@ final List<Cities> locations = [
     latitude: 7.14865160,
     longitude: 80.79071030,
   ),
-
   Cities(
     id: 1550,
     districtId: 20,
@@ -17061,7 +15511,6 @@ final List<Cities> locations = [
     latitude: 6.92768270,
     longitude: 80.55854600,
   ),
-
   Cities(
     id: 1551,
     districtId: 20,
@@ -17072,7 +15521,6 @@ final List<Cities> locations = [
     latitude: 7.03225930,
     longitude: 80.90432340,
   ),
-
   Cities(
     id: 1552,
     districtId: 20,
@@ -17083,7 +15531,6 @@ final List<Cities> locations = [
     latitude: 6.94208920,
     longitude: 80.77681290,
   ),
-
   Cities(
     id: 1553,
     districtId: 20,
@@ -17094,7 +15541,6 @@ final List<Cities> locations = [
     latitude: 6.97894530,
     longitude: 80.74777080,
   ),
-
   Cities(
     id: 1554,
     districtId: 20,
@@ -17105,7 +15551,6 @@ final List<Cities> locations = [
     latitude: 6.93879140,
     longitude: 80.66321030,
   ),
-
   Cities(
     id: 1555,
     districtId: 20,
@@ -17116,7 +15561,6 @@ final List<Cities> locations = [
     latitude: 7.07068220,
     longitude: 80.68401210,
   ),
-
   Cities(
     id: 1556,
     districtId: 20,
@@ -17127,7 +15571,6 @@ final List<Cities> locations = [
     latitude: 7.11404420,
     longitude: 80.91442850,
   ),
-
   Cities(
     id: 1557,
     districtId: 20,
@@ -17138,7 +15581,6 @@ final List<Cities> locations = [
     latitude: 7.09657370,
     longitude: 80.91662600,
   ),
-
   Cities(
     id: 1558,
     districtId: 20,
@@ -17149,7 +15591,6 @@ final List<Cities> locations = [
     latitude: 7.01271230,
     longitude: 80.91247810,
   ),
-
   Cities(
     id: 1559,
     districtId: 20,
@@ -17160,7 +15601,6 @@ final List<Cities> locations = [
     latitude: 6.94971660,
     longitude: 80.78910680,
   ),
-
   Cities(
     id: 1560,
     districtId: 20,
@@ -17171,7 +15611,6 @@ final List<Cities> locations = [
     latitude: 6.93044210,
     longitude: 81.05614580,
   ),
-
   Cities(
     id: 1561,
     districtId: 20,
@@ -17182,7 +15621,6 @@ final List<Cities> locations = [
     latitude: 6.94971660,
     longitude: 80.78910680,
   ),
-
   Cities(
     id: 1562,
     districtId: 20,
@@ -17193,7 +15631,6 @@ final List<Cities> locations = [
     latitude: 7.10216630,
     longitude: 80.86268640,
   ),
-
   Cities(
     id: 1563,
     districtId: 20,
@@ -17204,7 +15641,6 @@ final List<Cities> locations = [
     latitude: 6.94494680,
     longitude: 80.53898340,
   ),
-
   Cities(
     id: 1564,
     districtId: 20,
@@ -17215,7 +15651,6 @@ final List<Cities> locations = [
     latitude: 6.90940570,
     longitude: 80.51883960,
   ),
-
   Cities(
     id: 1565,
     districtId: 20,
@@ -17226,7 +15661,6 @@ final List<Cities> locations = [
     latitude: 6.94971660,
     longitude: 80.78910680,
   ),
-
   Cities(
     id: 1566,
     districtId: 21,
@@ -17237,7 +15671,6 @@ final List<Cities> locations = [
     latitude: 7.93309540,
     longitude: 80.87029550,
   ),
-
   Cities(
     id: 1567,
     districtId: 21,
@@ -17248,7 +15681,6 @@ final List<Cities> locations = [
     latitude: 7.78060200,
     longitude: 80.81840100,
   ),
-
   Cities(
     id: 1568,
     districtId: 21,
@@ -17259,7 +15691,6 @@ final List<Cities> locations = [
     latitude: 7.92974320,
     longitude: 80.87098720,
   ),
-
   Cities(
     id: 1569,
     districtId: 21,
@@ -17270,7 +15701,6 @@ final List<Cities> locations = [
     latitude: 7.73438700,
     longitude: 80.79347980,
   ),
-
   Cities(
     id: 1570,
     districtId: 21,
@@ -17281,7 +15711,6 @@ final List<Cities> locations = [
     latitude: 8.00235640,
     longitude: 80.92492120,
   ),
-
   Cities(
     id: 1571,
     districtId: 21,
@@ -17292,7 +15721,6 @@ final List<Cities> locations = [
     latitude: 8.04158880,
     longitude: 80.95323590,
   ),
-
   Cities(
     id: 1572,
     districtId: 21,
@@ -17303,7 +15731,6 @@ final List<Cities> locations = [
     latitude: 8.04158880,
     longitude: 80.95323590,
   ),
-
   Cities(
     id: 1573,
     districtId: 21,
@@ -17314,7 +15741,6 @@ final List<Cities> locations = [
     latitude: 7.94831560,
     longitude: 81.00178270,
   ),
-
   Cities(
     id: 1574,
     districtId: 21,
@@ -17325,7 +15751,6 @@ final List<Cities> locations = [
     latitude: 7.94033840,
     longitude: 81.01879840,
   ),
-
   Cities(
     id: 1575,
     districtId: 21,
@@ -17336,7 +15761,6 @@ final List<Cities> locations = [
     latitude: 7.99050680,
     longitude: 80.99953870,
   ),
-
   Cities(
     id: 1576,
     districtId: 21,
@@ -17347,7 +15771,6 @@ final List<Cities> locations = [
     latitude: 7.94033840,
     longitude: 81.01879840,
   ),
-
   Cities(
     id: 1577,
     districtId: 21,
@@ -17358,7 +15781,6 @@ final List<Cities> locations = [
     latitude: 8.03867090,
     longitude: 80.90639220,
   ),
-
   Cities(
     id: 1578,
     districtId: 21,
@@ -17369,7 +15791,6 @@ final List<Cities> locations = [
     latitude: 7.97767770,
     longitude: 81.09202180,
   ),
-
   Cities(
     id: 1579,
     districtId: 21,
@@ -17380,7 +15801,6 @@ final List<Cities> locations = [
     latitude: 7.75360980,
     longitude: 80.81286360,
   ),
-
   Cities(
     id: 1580,
     districtId: 21,
@@ -17391,7 +15811,6 @@ final List<Cities> locations = [
     latitude: 7.96545990,
     longitude: 81.02577630,
   ),
-
   Cities(
     id: 1581,
     districtId: 21,
@@ -17402,7 +15821,6 @@ final List<Cities> locations = [
     latitude: 7.94033840,
     longitude: 81.01879840,
   ),
-
   Cities(
     id: 1582,
     districtId: 21,
@@ -17413,7 +15831,6 @@ final List<Cities> locations = [
     latitude: 7.96191410,
     longitude: 80.99523530,
   ),
-
   Cities(
     id: 1583,
     districtId: 21,
@@ -17424,7 +15841,6 @@ final List<Cities> locations = [
     latitude: 8.03145710,
     longitude: 81.03401510,
   ),
-
   Cities(
     id: 1584,
     districtId: 21,
@@ -17435,7 +15851,6 @@ final List<Cities> locations = [
     latitude: 8.00939770,
     longitude: 81.06970530,
   ),
-
   Cities(
     id: 1585,
     districtId: 21,
@@ -17446,7 +15861,6 @@ final List<Cities> locations = [
     latitude: 8.01190430,
     longitude: 80.99125140,
   ),
-
   Cities(
     id: 1586,
     districtId: 21,
@@ -17457,7 +15871,6 @@ final List<Cities> locations = [
     latitude: 7.82271190,
     longitude: 81.18569940,
   ),
-
   Cities(
     id: 1587,
     districtId: 22,
@@ -17468,7 +15881,6 @@ final List<Cities> locations = [
     latitude: 7.67343660,
     longitude: 79.87728340,
   ),
-
   Cities(
     id: 1588,
     districtId: 22,
@@ -17479,7 +15891,6 @@ final List<Cities> locations = [
     latitude: 7.56666700,
     longitude: 79.90000000,
   ),
-
   Cities(
     id: 1589,
     districtId: 22,
@@ -17490,7 +15901,6 @@ final List<Cities> locations = [
     latitude: 7.98333300,
     longitude: 80.40000000,
   ),
-
   Cities(
     id: 1590,
     districtId: 22,
@@ -17501,7 +15911,6 @@ final List<Cities> locations = [
     latitude: 7.52756270,
     longitude: 79.79363220,
   ),
-
   Cities(
     id: 1591,
     districtId: 22,
@@ -17512,7 +15921,6 @@ final List<Cities> locations = [
     latitude: 7.87777030,
     longitude: 80.01111560,
   ),
-
   Cities(
     id: 1592,
     districtId: 22,
@@ -17523,7 +15931,6 @@ final List<Cities> locations = [
     latitude: 7.77828890,
     longitude: 79.94864890,
   ),
-
   Cities(
     id: 1593,
     districtId: 22,
@@ -17534,7 +15941,6 @@ final List<Cities> locations = [
     latitude: 7.75339880,
     longitude: 79.86048310,
   ),
-
   Cities(
     id: 1594,
     districtId: 22,
@@ -17545,7 +15951,6 @@ final List<Cities> locations = [
     latitude: 7.96055990,
     longitude: 79.88008320,
   ),
-
   Cities(
     id: 1595,
     districtId: 22,
@@ -17556,7 +15961,6 @@ final List<Cities> locations = [
     latitude: 7.62805620,
     longitude: 79.82547220,
   ),
-
   Cities(
     id: 1596,
     districtId: 22,
@@ -17567,7 +15971,6 @@ final List<Cities> locations = [
     latitude: 7.80192840,
     longitude: 79.87168370,
   ),
-
   Cities(
     id: 1597,
     districtId: 22,
@@ -17578,7 +15981,6 @@ final List<Cities> locations = [
     latitude: 7.73377000,
     longitude: 79.82407150,
   ),
-
   Cities(
     id: 1598,
     districtId: 22,
@@ -17589,7 +15991,6 @@ final List<Cities> locations = [
     latitude: 7.32716380,
     longitude: 79.91647170,
   ),
-
   Cities(
     id: 1599,
     districtId: 22,
@@ -17600,7 +16001,6 @@ final List<Cities> locations = [
     latitude: 7.56198940,
     longitude: 79.80165690,
   ),
-
   Cities(
     id: 1600,
     districtId: 22,
@@ -17611,7 +16011,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1601,
     districtId: 22,
@@ -17622,7 +16021,6 @@ final List<Cities> locations = [
     latitude: 7.29746350,
     longitude: 79.88218810,
   ),
-
   Cities(
     id: 1602,
     districtId: 22,
@@ -17633,7 +16031,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1603,
     districtId: 22,
@@ -17644,7 +16041,6 @@ final List<Cities> locations = [
     latitude: 7.49240010,
     longitude: 79.91087440,
   ),
-
   Cities(
     id: 1604,
     districtId: 22,
@@ -17655,7 +16051,6 @@ final List<Cities> locations = [
     latitude: 7.41867940,
     longitude: 79.91003190,
   ),
-
   Cities(
     id: 1605,
     districtId: 22,
@@ -17666,7 +16061,6 @@ final List<Cities> locations = [
     latitude: 8.27308210,
     longitude: 79.88008320,
   ),
-
   Cities(
     id: 1606,
     districtId: 22,
@@ -17677,7 +16071,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1607,
     districtId: 22,
@@ -17688,7 +16081,6 @@ final List<Cities> locations = [
     latitude: 7.46616800,
     longitude: 79.87308370,
   ),
-
   Cities(
     id: 1608,
     districtId: 22,
@@ -17699,7 +16091,6 @@ final List<Cities> locations = [
     latitude: 7.50282450,
     longitude: 79.89967890,
   ),
-
   Cities(
     id: 1609,
     districtId: 22,
@@ -17710,7 +16101,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1610,
     districtId: 22,
@@ -17721,7 +16111,6 @@ final List<Cities> locations = [
     latitude: 7.37820890,
     longitude: 79.87588350,
   ),
-
   Cities(
     id: 1611,
     districtId: 22,
@@ -17732,7 +16121,6 @@ final List<Cities> locations = [
     latitude: 7.57059860,
     longitude: 79.82687290,
   ),
-
   Cities(
     id: 1612,
     districtId: 22,
@@ -17743,7 +16131,6 @@ final List<Cities> locations = [
     latitude: 7.98668480,
     longitude: 79.95908080,
   ),
-
   Cities(
     id: 1613,
     districtId: 22,
@@ -17754,7 +16141,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1614,
     districtId: 22,
@@ -17765,7 +16151,6 @@ final List<Cities> locations = [
     latitude: 7.57565870,
     longitude: 80.04510950,
   ),
-
   Cities(
     id: 1615,
     districtId: 22,
@@ -17776,7 +16161,6 @@ final List<Cities> locations = [
     latitude: 7.52771560,
     longitude: 79.82127000,
   ),
-
   Cities(
     id: 1616,
     districtId: 22,
@@ -17787,7 +16171,6 @@ final List<Cities> locations = [
     latitude: 8.11736840,
     longitude: 79.71523340,
   ),
-
   Cities(
     id: 1617,
     districtId: 22,
@@ -17798,7 +16181,6 @@ final List<Cities> locations = [
     latitude: 7.99048070,
     longitude: 79.89408060,
   ),
-
   Cities(
     id: 1618,
     districtId: 22,
@@ -17809,7 +16191,6 @@ final List<Cities> locations = [
     latitude: 8.20374730,
     longitude: 79.70072110,
   ),
-
   Cities(
     id: 1619,
     districtId: 22,
@@ -17820,7 +16201,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1620,
     districtId: 22,
@@ -17831,7 +16211,6 @@ final List<Cities> locations = [
     latitude: 7.56708100,
     longitude: 79.84788080,
   ),
-
   Cities(
     id: 1621,
     districtId: 22,
@@ -17842,7 +16221,6 @@ final List<Cities> locations = [
     latitude: 8.05657590,
     longitude: 79.95564240,
   ),
-
   Cities(
     id: 1622,
     districtId: 22,
@@ -17853,7 +16231,6 @@ final List<Cities> locations = [
     latitude: 7.37062070,
     longitude: 79.83527670,
   ),
-
   Cities(
     id: 1623,
     districtId: 22,
@@ -17864,7 +16241,6 @@ final List<Cities> locations = [
     latitude: 7.39206080,
     longitude: 79.90126710,
   ),
-
   Cities(
     id: 1624,
     districtId: 22,
@@ -17875,7 +16251,6 @@ final List<Cities> locations = [
     latitude: 7.86167050,
     longitude: 79.79044750,
   ),
-
   Cities(
     id: 1625,
     districtId: 22,
@@ -17886,7 +16261,6 @@ final List<Cities> locations = [
     latitude: 7.63588320,
     longitude: 79.81706750,
   ),
-
   Cities(
     id: 1626,
     districtId: 22,
@@ -17897,7 +16271,6 @@ final List<Cities> locations = [
     latitude: 7.94069150,
     longitude: 79.94725020,
   ),
-
   Cities(
     id: 1627,
     districtId: 22,
@@ -17908,7 +16281,6 @@ final List<Cities> locations = [
     latitude: 7.63411080,
     longitude: 79.87432630,
   ),
-
   Cities(
     id: 1628,
     districtId: 22,
@@ -17919,7 +16291,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1629,
     districtId: 22,
@@ -17930,7 +16301,6 @@ final List<Cities> locations = [
     latitude: 8.02027780,
     longitude: 80.05361110,
   ),
-
   Cities(
     id: 1630,
     districtId: 22,
@@ -17941,7 +16311,6 @@ final List<Cities> locations = [
     latitude: 7.35587820,
     longitude: 79.87265240,
   ),
-
   Cities(
     id: 1631,
     districtId: 22,
@@ -17952,7 +16321,6 @@ final List<Cities> locations = [
     latitude: 7.49723360,
     longitude: 79.84133190,
   ),
-
   Cities(
     id: 1632,
     districtId: 22,
@@ -17963,7 +16331,6 @@ final List<Cities> locations = [
     latitude: 7.90806630,
     longitude: 79.82127000,
   ),
-
   Cities(
     id: 1633,
     districtId: 22,
@@ -17974,7 +16341,6 @@ final List<Cities> locations = [
     latitude: 7.84787790,
     longitude: 79.88568240,
   ),
-
   Cities(
     id: 1634,
     districtId: 22,
@@ -17985,7 +16351,6 @@ final List<Cities> locations = [
     latitude: 7.92412600,
     longitude: 80.09679060,
   ),
-
   Cities(
     id: 1635,
     districtId: 22,
@@ -17996,7 +16361,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1636,
     districtId: 22,
@@ -18007,7 +16371,6 @@ final List<Cities> locations = [
     latitude: 8.00353730,
     longitude: 79.74072560,
   ),
-
   Cities(
     id: 1637,
     districtId: 22,
@@ -18018,7 +16381,6 @@ final List<Cities> locations = [
     latitude: 7.85990910,
     longitude: 79.82046190,
   ),
-
   Cities(
     id: 1638,
     districtId: 22,
@@ -18029,7 +16391,6 @@ final List<Cities> locations = [
     latitude: 7.42394280,
     longitude: 79.83527670,
   ),
-
   Cities(
     id: 1639,
     districtId: 22,
@@ -18040,7 +16401,6 @@ final List<Cities> locations = [
     latitude: 7.90806630,
     longitude: 79.82127000,
   ),
-
   Cities(
     id: 1640,
     districtId: 22,
@@ -18051,7 +16411,6 @@ final List<Cities> locations = [
     latitude: 7.58338240,
     longitude: 79.85908300,
   ),
-
   Cities(
     id: 1641,
     districtId: 22,
@@ -18062,7 +16421,6 @@ final List<Cities> locations = [
     latitude: 7.91833330,
     longitude: 79.76027780,
   ),
-
   Cities(
     id: 1642,
     districtId: 22,
@@ -18073,7 +16431,6 @@ final List<Cities> locations = [
     latitude: 7.79755870,
     longitude: 79.80165690,
   ),
-
   Cities(
     id: 1643,
     districtId: 22,
@@ -18084,7 +16441,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1644,
     districtId: 22,
@@ -18095,7 +16451,6 @@ final List<Cities> locations = [
     latitude: 7.31486810,
     longitude: 79.84367960,
   ),
-
   Cities(
     id: 1645,
     districtId: 22,
@@ -18106,7 +16461,6 @@ final List<Cities> locations = [
     latitude: 7.66371710,
     longitude: 79.83930340,
   ),
-
   Cities(
     id: 1646,
     districtId: 22,
@@ -18117,7 +16471,6 @@ final List<Cities> locations = [
     latitude: 7.41248700,
     longitude: 79.85908300,
   ),
-
   Cities(
     id: 1647,
     districtId: 22,
@@ -18128,7 +16481,6 @@ final List<Cities> locations = [
     latitude: 8.00129060,
     longitude: 80.10379000,
   ),
-
   Cities(
     id: 1648,
     districtId: 22,
@@ -18139,7 +16491,6 @@ final List<Cities> locations = [
     latitude: 8.01349020,
     longitude: 79.87002700,
   ),
-
   Cities(
     id: 1649,
     districtId: 22,
@@ -18150,7 +16501,6 @@ final List<Cities> locations = [
     latitude: 8.01316760,
     longitude: 79.72423930,
   ),
-
   Cities(
     id: 1650,
     districtId: 22,
@@ -18161,7 +16511,6 @@ final List<Cities> locations = [
     latitude: 7.68439390,
     longitude: 79.92579690,
   ),
-
   Cities(
     id: 1651,
     districtId: 22,
@@ -18172,7 +16521,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1652,
     districtId: 22,
@@ -18183,7 +16531,6 @@ final List<Cities> locations = [
     latitude: 7.49188440,
     longitude: 79.88848190,
   ),
-
   Cities(
     id: 1653,
     districtId: 22,
@@ -18194,7 +16541,6 @@ final List<Cities> locations = [
     latitude: 7.89959000,
     longitude: 80.97052920,
   ),
-
   Cities(
     id: 1654,
     districtId: 22,
@@ -18205,7 +16551,6 @@ final List<Cities> locations = [
     latitude: 7.35854110,
     longitude: 79.91647120,
   ),
-
   Cities(
     id: 1655,
     districtId: 22,
@@ -18216,7 +16561,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1656,
     districtId: 22,
@@ -18227,7 +16571,6 @@ final List<Cities> locations = [
     latitude: 7.98782750,
     longitude: 79.86818370,
   ),
-
   Cities(
     id: 1657,
     districtId: 22,
@@ -18238,7 +16581,6 @@ final List<Cities> locations = [
     latitude: 7.65644900,
     longitude: 79.83807780,
   ),
-
   Cities(
     id: 1658,
     districtId: 22,
@@ -18249,7 +16591,6 @@ final List<Cities> locations = [
     latitude: 8.19340770,
     longitude: 80.09399780,
   ),
-
   Cities(
     id: 1659,
     districtId: 22,
@@ -18260,7 +16601,6 @@ final List<Cities> locations = [
     latitude: 7.72661490,
     longitude: 79.91813320,
   ),
-
   Cities(
     id: 1660,
     districtId: 22,
@@ -18271,7 +16611,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1661,
     districtId: 22,
@@ -18282,7 +16621,6 @@ final List<Cities> locations = [
     latitude: 8.08612210,
     longitude: 79.92635980,
   ),
-
   Cities(
     id: 1662,
     districtId: 22,
@@ -18293,7 +16631,6 @@ final List<Cities> locations = [
     latitude: 8.11254360,
     longitude: 79.70345860,
   ),
-
   Cities(
     id: 1663,
     districtId: 22,
@@ -18304,7 +16641,6 @@ final List<Cities> locations = [
     latitude: 7.48590270,
     longitude: 79.80305800,
   ),
-
   Cities(
     id: 1664,
     districtId: 22,
@@ -18315,7 +16651,6 @@ final List<Cities> locations = [
     latitude: 7.73584470,
     longitude: 79.79885470,
   ),
-
   Cities(
     id: 1665,
     districtId: 22,
@@ -18326,7 +16661,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1666,
     districtId: 22,
@@ -18337,7 +16671,6 @@ final List<Cities> locations = [
     latitude: 8.18693150,
     longitude: 79.86118320,
   ),
-
   Cities(
     id: 1667,
     districtId: 22,
@@ -18348,7 +16681,6 @@ final List<Cities> locations = [
     latitude: 7.28379190,
     longitude: 79.85776340,
   ),
-
   Cities(
     id: 1668,
     districtId: 22,
@@ -18359,7 +16691,6 @@ final List<Cities> locations = [
     latitude: 8.04079130,
     longitude: 79.83938600,
   ),
-
   Cities(
     id: 1669,
     districtId: 22,
@@ -18370,7 +16701,6 @@ final List<Cities> locations = [
     latitude: 7.34930370,
     longitude: 79.83527670,
   ),
-
   Cities(
     id: 1670,
     districtId: 22,
@@ -18381,7 +16711,6 @@ final List<Cities> locations = [
     latitude: 7.72412290,
     longitude: 79.86888370,
   ),
-
   Cities(
     id: 1671,
     districtId: 22,
@@ -18392,7 +16721,6 @@ final List<Cities> locations = [
     latitude: 7.74582630,
     longitude: 79.88008320,
   ),
-
   Cities(
     id: 1672,
     districtId: 22,
@@ -18403,7 +16731,6 @@ final List<Cities> locations = [
     latitude: 7.56666670,
     longitude: 79.86666670,
   ),
-
   Cities(
     id: 1673,
     districtId: 22,
@@ -18414,7 +16741,6 @@ final List<Cities> locations = [
     latitude: 7.28876750,
     longitude: 79.92626600,
   ),
-
   Cities(
     id: 1674,
     districtId: 23,
@@ -18425,7 +16751,6 @@ final List<Cities> locations = [
     latitude: 6.59053290,
     longitude: 80.64795240,
   ),
-
   Cities(
     id: 1675,
     districtId: 23,
@@ -18436,7 +16761,6 @@ final List<Cities> locations = [
     latitude: 6.71459120,
     longitude: 80.78721850,
   ),
-
   Cities(
     id: 1676,
     districtId: 23,
@@ -18447,7 +16771,6 @@ final List<Cities> locations = [
     latitude: 6.54066950,
     longitude: 80.59105670,
   ),
-
   Cities(
     id: 1677,
     districtId: 23,
@@ -18458,7 +16781,6 @@ final List<Cities> locations = [
     latitude: 6.63772660,
     longitude: 80.31255370,
   ),
-
   Cities(
     id: 1678,
     districtId: 23,
@@ -18469,7 +16791,6 @@ final List<Cities> locations = [
     latitude: 6.64252200,
     longitude: 80.68873330,
   ),
-
   Cities(
     id: 1679,
     districtId: 23,
@@ -18480,7 +16801,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1680,
     districtId: 23,
@@ -18491,7 +16811,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1681,
     districtId: 23,
@@ -18502,7 +16821,6 @@ final List<Cities> locations = [
     latitude: 6.86329850,
     longitude: 80.87375390,
   ),
-
   Cities(
     id: 1682,
     districtId: 23,
@@ -18513,7 +16831,6 @@ final List<Cities> locations = [
     latitude: 6.74284770,
     longitude: 80.66875800,
   ),
-
   Cities(
     id: 1683,
     districtId: 23,
@@ -18524,7 +16841,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1684,
     districtId: 23,
@@ -18535,7 +16851,6 @@ final List<Cities> locations = [
     latitude: 6.67928120,
     longitude: 80.40647070,
   ),
-
   Cities(
     id: 1685,
     districtId: 23,
@@ -18546,7 +16861,6 @@ final List<Cities> locations = [
     latitude: 6.47066510,
     longitude: 80.61208900,
   ),
-
   Cities(
     id: 1686,
     districtId: 23,
@@ -18557,7 +16871,6 @@ final List<Cities> locations = [
     latitude: 6.70183190,
     longitude: 80.32688120,
   ),
-
   Cities(
     id: 1687,
     districtId: 23,
@@ -18568,7 +16881,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1688,
     districtId: 23,
@@ -18579,7 +16891,6 @@ final List<Cities> locations = [
     latitude: 6.62049340,
     longitude: 80.45420740,
   ),
-
   Cities(
     id: 1689,
     districtId: 23,
@@ -18590,7 +16901,6 @@ final List<Cities> locations = [
     latitude: 6.51666700,
     longitude: 80.46666700,
   ),
-
   Cities(
     id: 1690,
     districtId: 23,
@@ -18601,7 +16911,6 @@ final List<Cities> locations = [
     latitude: 6.74794090,
     longitude: 80.31465020,
   ),
-
   Cities(
     id: 1691,
     districtId: 23,
@@ -18612,7 +16921,6 @@ final List<Cities> locations = [
     latitude: 6.57442010,
     longitude: 80.45060660,
   ),
-
   Cities(
     id: 1692,
     districtId: 23,
@@ -18623,7 +16931,6 @@ final List<Cities> locations = [
     latitude: 6.68239770,
     longitude: 80.24271850,
   ),
-
   Cities(
     id: 1693,
     districtId: 23,
@@ -18634,7 +16941,6 @@ final List<Cities> locations = [
     latitude: 6.84856380,
     longitude: 80.26001000,
   ),
-
   Cities(
     id: 1694,
     districtId: 23,
@@ -18645,7 +16951,6 @@ final List<Cities> locations = [
     latitude: 6.67008500,
     longitude: 80.39535200,
   ),
-
   Cities(
     id: 1695,
     districtId: 23,
@@ -18656,7 +16961,6 @@ final List<Cities> locations = [
     latitude: 6.65911030,
     longitude: 80.37004070,
   ),
-
   Cities(
     id: 1696,
     districtId: 23,
@@ -18667,7 +16971,6 @@ final List<Cities> locations = [
     latitude: 6.73322300,
     longitude: 80.21481700,
   ),
-
   Cities(
     id: 1697,
     districtId: 23,
@@ -18678,7 +16981,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1698,
     districtId: 23,
@@ -18689,7 +16991,6 @@ final List<Cities> locations = [
     latitude: 6.80892830,
     longitude: 80.26279730,
   ),
-
   Cities(
     id: 1699,
     districtId: 23,
@@ -18700,7 +17001,6 @@ final List<Cities> locations = [
     latitude: 6.31623240,
     longitude: 80.84331450,
   ),
-
   Cities(
     id: 1700,
     districtId: 23,
@@ -18711,7 +17011,6 @@ final List<Cities> locations = [
     latitude: 6.83500650,
     longitude: 80.40830880,
   ),
-
   Cities(
     id: 1701,
     districtId: 23,
@@ -18722,7 +17021,6 @@ final List<Cities> locations = [
     latitude: 6.80329990,
     longitude: 80.24607180,
   ),
-
   Cities(
     id: 1702,
     districtId: 23,
@@ -18733,7 +17031,6 @@ final List<Cities> locations = [
     latitude: 6.51347930,
     longitude: 80.54662290,
   ),
-
   Cities(
     id: 1703,
     districtId: 23,
@@ -18744,7 +17041,6 @@ final List<Cities> locations = [
     latitude: 6.37398870,
     longitude: 80.83777890,
   ),
-
   Cities(
     id: 1704,
     districtId: 23,
@@ -18755,7 +17051,6 @@ final List<Cities> locations = [
     latitude: 6.65040560,
     longitude: 80.26279730,
   ),
-
   Cities(
     id: 1705,
     districtId: 23,
@@ -18766,7 +17061,6 @@ final List<Cities> locations = [
     latitude: 6.75193930,
     longitude: 80.42670370,
   ),
-
   Cities(
     id: 1706,
     districtId: 23,
@@ -18777,7 +17071,6 @@ final List<Cities> locations = [
     latitude: 6.50490600,
     longitude: 80.65211390,
   ),
-
   Cities(
     id: 1707,
     districtId: 23,
@@ -18788,7 +17081,6 @@ final List<Cities> locations = [
     latitude: 7.87305400,
     longitude: 80.77179700,
   ),
-
   Cities(
     id: 1708,
     districtId: 23,
@@ -18799,7 +17091,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1709,
     districtId: 23,
@@ -18810,7 +17101,6 @@ final List<Cities> locations = [
     latitude: 6.55213540,
     longitude: 80.78240120,
   ),
-
   Cities(
     id: 1710,
     districtId: 23,
@@ -18821,7 +17111,6 @@ final List<Cities> locations = [
     latitude: 6.54269300,
     longitude: 80.74005370,
   ),
-
   Cities(
     id: 1711,
     districtId: 23,
@@ -18832,7 +17121,6 @@ final List<Cities> locations = [
     latitude: 6.65824100,
     longitude: 80.74914430,
   ),
-
   Cities(
     id: 1712,
     districtId: 23,
@@ -18843,7 +17131,6 @@ final List<Cities> locations = [
     latitude: 7.30570880,
     longitude: 80.67377420,
   ),
-
   Cities(
     id: 1713,
     districtId: 23,
@@ -18854,7 +17141,6 @@ final List<Cities> locations = [
     latitude: 6.71422580,
     longitude: 80.38604590,
   ),
-
   Cities(
     id: 1714,
     districtId: 23,
@@ -18865,7 +17151,6 @@ final List<Cities> locations = [
     latitude: 6.53431270,
     longitude: 80.60354940,
   ),
-
   Cities(
     id: 1715,
     districtId: 23,
@@ -18876,7 +17161,6 @@ final List<Cities> locations = [
     latitude: 6.72834120,
     longitude: 80.39381100,
   ),
-
   Cities(
     id: 1716,
     districtId: 23,
@@ -18887,7 +17171,6 @@ final List<Cities> locations = [
     latitude: 6.40196150,
     longitude: 80.63824130,
   ),
-
   Cities(
     id: 1717,
     districtId: 23,
@@ -18898,7 +17181,6 @@ final List<Cities> locations = [
     latitude: 6.71312360,
     longitude: 80.35647920,
   ),
-
   Cities(
     id: 1718,
     districtId: 23,
@@ -18909,7 +17191,6 @@ final List<Cities> locations = [
     latitude: 6.57553120,
     longitude: 80.57457300,
   ),
-
   Cities(
     id: 1719,
     districtId: 23,
@@ -18920,7 +17201,6 @@ final List<Cities> locations = [
     latitude: 6.53171360,
     longitude: 80.39648240,
   ),
-
   Cities(
     id: 1720,
     districtId: 23,
@@ -18931,7 +17211,6 @@ final List<Cities> locations = [
     latitude: 6.65939600,
     longitude: 80.87098720,
   ),
-
   Cities(
     id: 1721,
     districtId: 23,
@@ -18942,7 +17221,6 @@ final List<Cities> locations = [
     latitude: 6.72834120,
     longitude: 80.39381100,
   ),
-
   Cities(
     id: 1722,
     districtId: 23,
@@ -18953,7 +17231,6 @@ final List<Cities> locations = [
     latitude: 6.01876550,
     longitude: 80.44209920,
   ),
-
   Cities(
     id: 1723,
     districtId: 23,
@@ -18964,7 +17241,6 @@ final List<Cities> locations = [
     latitude: 6.83668260,
     longitude: 80.86822030,
   ),
-
   Cities(
     id: 1724,
     districtId: 23,
@@ -18975,7 +17251,6 @@ final List<Cities> locations = [
     latitude: 6.78270350,
     longitude: 80.21839510,
   ),
-
   Cities(
     id: 1725,
     districtId: 23,
@@ -18986,7 +17261,6 @@ final List<Cities> locations = [
     latitude: 6.67757110,
     longitude: 80.39578850,
   ),
-
   Cities(
     id: 1726,
     districtId: 23,
@@ -18997,7 +17271,6 @@ final List<Cities> locations = [
     latitude: 6.36110440,
     longitude: 80.69191190,
   ),
-
   Cities(
     id: 1727,
     districtId: 23,
@@ -19008,7 +17281,6 @@ final List<Cities> locations = [
     latitude: 7.16325170,
     longitude: 80.57053960,
   ),
-
   Cities(
     id: 1728,
     districtId: 23,
@@ -19019,7 +17291,6 @@ final List<Cities> locations = [
     latitude: 6.72950380,
     longitude: 80.27046020,
   ),
-
   Cities(
     id: 1729,
     districtId: 23,
@@ -19030,7 +17301,6 @@ final List<Cities> locations = [
     latitude: 6.37767420,
     longitude: 80.97191080,
   ),
-
   Cities(
     id: 1730,
     districtId: 23,
@@ -19041,7 +17311,6 @@ final List<Cities> locations = [
     latitude: 6.41835640,
     longitude: 80.78032380,
   ),
-
   Cities(
     id: 1731,
     districtId: 23,
@@ -19052,7 +17321,6 @@ final List<Cities> locations = [
     latitude: 6.56783560,
     longitude: 80.49382670,
   ),
-
   Cities(
     id: 1732,
     districtId: 23,
@@ -19063,7 +17331,6 @@ final List<Cities> locations = [
     latitude: 6.40528450,
     longitude: 80.68522530,
   ),
-
   Cities(
     id: 1733,
     districtId: 23,
@@ -19074,7 +17341,6 @@ final List<Cities> locations = [
     latitude: 6.44335460,
     longitude: 80.41705720,
   ),
-
   Cities(
     id: 1734,
     districtId: 23,
@@ -19085,7 +17351,6 @@ final List<Cities> locations = [
     latitude: 6.82184030,
     longitude: 80.36150790,
   ),
-
   Cities(
     id: 1735,
     districtId: 23,
@@ -19096,7 +17361,6 @@ final List<Cities> locations = [
     latitude: 6.66396700,
     longitude: 80.48409740,
   ),
-
   Cities(
     id: 1736,
     districtId: 23,
@@ -19107,7 +17371,6 @@ final List<Cities> locations = [
     latitude: 6.03598780,
     longitude: 80.39039020,
   ),
-
   Cities(
     id: 1737,
     districtId: 23,
@@ -19118,7 +17381,6 @@ final List<Cities> locations = [
     latitude: 6.70081730,
     longitude: 80.75331260,
   ),
-
   Cities(
     id: 1738,
     districtId: 23,
@@ -19129,7 +17391,6 @@ final List<Cities> locations = [
     latitude: 7.37879790,
     longitude: 80.38395840,
   ),
-
   Cities(
     id: 1739,
     districtId: 23,
@@ -19140,7 +17401,6 @@ final List<Cities> locations = [
     latitude: 6.58708770,
     longitude: 80.74860620,
   ),
-
   Cities(
     id: 1740,
     districtId: 23,
@@ -19151,7 +17411,6 @@ final List<Cities> locations = [
     latitude: 6.55328880,
     longitude: 80.63130410,
   ),
-
   Cities(
     id: 1741,
     districtId: 23,
@@ -19162,7 +17421,6 @@ final List<Cities> locations = [
     latitude: 6.68217430,
     longitude: 80.40973490,
   ),
-
   Cities(
     id: 1742,
     districtId: 23,
@@ -19173,7 +17431,6 @@ final List<Cities> locations = [
     latitude: 6.50997090,
     longitude: 80.64101600,
   ),
-
   Cities(
     id: 1743,
     districtId: 23,
@@ -19184,7 +17441,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1744,
     districtId: 23,
@@ -19195,7 +17451,6 @@ final List<Cities> locations = [
     latitude: 6.67757110,
     longitude: 80.39578850,
   ),
-
   Cities(
     id: 1745,
     districtId: 23,
@@ -19206,7 +17461,6 @@ final List<Cities> locations = [
     latitude: 6.67524330,
     longitude: 80.65904940,
   ),
-
   Cities(
     id: 1746,
     districtId: 23,
@@ -19217,7 +17471,6 @@ final List<Cities> locations = [
     latitude: 6.71593270,
     longitude: 80.21391730,
   ),
-
   Cities(
     id: 1747,
     districtId: 23,
@@ -19228,7 +17481,6 @@ final List<Cities> locations = [
     latitude: 6.83459390,
     longitude: 80.22376600,
   ),
-
   Cities(
     id: 1748,
     districtId: 23,
@@ -19239,7 +17491,6 @@ final List<Cities> locations = [
     latitude: 6.85774360,
     longitude: 80.25582880,
   ),
-
   Cities(
     id: 1749,
     districtId: 23,
@@ -19250,7 +17501,6 @@ final List<Cities> locations = [
     latitude: 6.68509810,
     longitude: 80.69094480,
   ),
-
   Cities(
     id: 1750,
     districtId: 23,
@@ -19261,7 +17511,6 @@ final List<Cities> locations = [
     latitude: 6.28868400,
     longitude: 80.77132100,
   ),
-
   Cities(
     id: 1751,
     districtId: 23,
@@ -19272,7 +17521,6 @@ final List<Cities> locations = [
     latitude: 6.66605170,
     longitude: 80.81765100,
   ),
-
   Cities(
     id: 1752,
     districtId: 23,
@@ -19283,7 +17531,6 @@ final List<Cities> locations = [
     latitude: 6.24460700,
     longitude: 80.14345730,
   ),
-
   Cities(
     id: 1753,
     districtId: 23,
@@ -19294,7 +17541,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1754,
     districtId: 23,
@@ -19305,7 +17551,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1755,
     districtId: 23,
@@ -19316,7 +17561,6 @@ final List<Cities> locations = [
     latitude: 6.59588500,
     longitude: 80.45776700,
   ),
-
   Cities(
     id: 1756,
     districtId: 23,
@@ -19327,7 +17571,6 @@ final List<Cities> locations = [
     latitude: 6.32676260,
     longitude: 80.69649050,
   ),
-
   Cities(
     id: 1757,
     districtId: 23,
@@ -19338,7 +17581,6 @@ final List<Cities> locations = [
     latitude: 6.62375960,
     longitude: 80.68743720,
   ),
-
   Cities(
     id: 1758,
     districtId: 23,
@@ -19349,7 +17591,6 @@ final List<Cities> locations = [
     latitude: 6.24917790,
     longitude: 80.91524340,
   ),
-
   Cities(
     id: 1759,
     districtId: 23,
@@ -19360,7 +17601,6 @@ final List<Cities> locations = [
     latitude: 6.48273980,
     longitude: 80.70644890,
   ),
-
   Cities(
     id: 1760,
     districtId: 23,
@@ -19371,7 +17611,6 @@ final List<Cities> locations = [
     latitude: 6.63603730,
     longitude: 80.68123880,
   ),
-
   Cities(
     id: 1761,
     districtId: 23,
@@ -19382,7 +17621,6 @@ final List<Cities> locations = [
     latitude: 6.69048710,
     longitude: 80.37989330,
   ),
-
   Cities(
     id: 1762,
     districtId: 23,
@@ -19393,7 +17631,6 @@ final List<Cities> locations = [
     latitude: 6.34352750,
     longitude: 80.77319320,
   ),
-
   Cities(
     id: 1763,
     districtId: 23,
@@ -19404,7 +17641,6 @@ final List<Cities> locations = [
     latitude: 6.43003730,
     longitude: 80.44934050,
   ),
-
   Cities(
     id: 1764,
     districtId: 23,
@@ -19415,7 +17651,6 @@ final List<Cities> locations = [
     latitude: 6.59648320,
     longitude: 80.33802130,
   ),
-
   Cities(
     id: 1765,
     districtId: 23,
@@ -19426,7 +17661,6 @@ final List<Cities> locations = [
     latitude: 6.82570290,
     longitude: 80.30738260,
   ),
-
   Cities(
     id: 1766,
     districtId: 23,
@@ -19437,7 +17671,6 @@ final List<Cities> locations = [
     latitude: 6.52792350,
     longitude: 80.45381770,
   ),
-
   Cities(
     id: 1767,
     districtId: 23,
@@ -19448,7 +17681,6 @@ final List<Cities> locations = [
     latitude: 6.63448470,
     longitude: 80.52995410,
   ),
-
   Cities(
     id: 1768,
     districtId: 23,
@@ -19459,7 +17691,6 @@ final List<Cities> locations = [
     latitude: 7.30097050,
     longitude: 80.38715630,
   ),
-
   Cities(
     id: 1769,
     districtId: 23,
@@ -19470,7 +17701,6 @@ final List<Cities> locations = [
     latitude: 6.70824960,
     longitude: 80.38266440,
   ),
-
   Cities(
     id: 1770,
     districtId: 23,
@@ -19481,7 +17711,6 @@ final List<Cities> locations = [
     latitude: 6.60274090,
     longitude: 80.80732590,
   ),
-
   Cities(
     id: 1771,
     districtId: 23,
@@ -19492,7 +17721,6 @@ final List<Cities> locations = [
     latitude: 6.54729140,
     longitude: 80.66321030,
   ),
-
   Cities(
     id: 1772,
     districtId: 23,
@@ -19503,7 +17731,6 @@ final List<Cities> locations = [
     latitude: 6.69234870,
     longitude: 80.63789450,
   ),
-
   Cities(
     id: 1773,
     districtId: 23,
@@ -19514,7 +17741,6 @@ final List<Cities> locations = [
     latitude: 6.71516980,
     longitude: 80.46888050,
   ),
-
   Cities(
     id: 1774,
     districtId: 23,
@@ -19525,7 +17751,6 @@ final List<Cities> locations = [
     latitude: 6.64236010,
     longitude: 80.39091640,
   ),
-
   Cities(
     id: 1775,
     districtId: 23,
@@ -19536,7 +17761,6 @@ final List<Cities> locations = [
     latitude: 6.69514540,
     longitude: 80.37274290,
   ),
-
   Cities(
     id: 1776,
     districtId: 23,
@@ -19547,7 +17771,6 @@ final List<Cities> locations = [
     latitude: 6.35989160,
     longitude: 80.91956050,
   ),
-
   Cities(
     id: 1777,
     districtId: 23,
@@ -19558,7 +17781,6 @@ final List<Cities> locations = [
     latitude: 6.78906410,
     longitude: 80.46046430,
   ),
-
   Cities(
     id: 1778,
     districtId: 23,
@@ -19569,7 +17791,6 @@ final List<Cities> locations = [
     latitude: 6.80890880,
     longitude: 80.39369940,
   ),
-
   Cities(
     id: 1779,
     districtId: 23,
@@ -19580,7 +17801,6 @@ final List<Cities> locations = [
     latitude: 6.70557420,
     longitude: 80.38473450,
   ),
-
   Cities(
     id: 1780,
     districtId: 23,
@@ -19591,7 +17811,6 @@ final List<Cities> locations = [
     latitude: 6.63349430,
     longitude: 80.84573630,
   ),
-
   Cities(
     id: 1781,
     districtId: 23,
@@ -19602,7 +17821,6 @@ final List<Cities> locations = [
     latitude: 6.74944380,
     longitude: 80.34602730,
   ),
-
   Cities(
     id: 1782,
     districtId: 23,
@@ -19613,7 +17831,6 @@ final List<Cities> locations = [
     latitude: 6.27825950,
     longitude: 80.88827770,
   ),
-
   Cities(
     id: 1783,
     districtId: 23,
@@ -19624,7 +17841,6 @@ final List<Cities> locations = [
     latitude: 6.59280220,
     longitude: 80.45945050,
   ),
-
   Cities(
     id: 1784,
     districtId: 23,
@@ -19635,7 +17851,6 @@ final List<Cities> locations = [
     latitude: 6.72950380,
     longitude: 80.27046020,
   ),
-
   Cities(
     id: 1785,
     districtId: 23,
@@ -19646,7 +17861,6 @@ final List<Cities> locations = [
     latitude: 6.40556190,
     longitude: 80.80205430,
   ),
-
   Cities(
     id: 1786,
     districtId: 23,
@@ -19657,7 +17871,6 @@ final List<Cities> locations = [
     latitude: 6.37019760,
     longitude: 80.62714150,
   ),
-
   Cities(
     id: 1787,
     districtId: 23,
@@ -19668,7 +17881,6 @@ final List<Cities> locations = [
     latitude: 6.46458460,
     longitude: 80.43202860,
   ),
-
   Cities(
     id: 1788,
     districtId: 23,
@@ -19679,7 +17891,6 @@ final List<Cities> locations = [
     latitude: 6.41732680,
     longitude: 80.65359580,
   ),
-
   Cities(
     id: 1789,
     districtId: 23,
@@ -19690,7 +17901,6 @@ final List<Cities> locations = [
     latitude: 6.72651570,
     longitude: 80.66400360,
   ),
-
   Cities(
     id: 1790,
     districtId: 23,
@@ -19701,7 +17911,6 @@ final List<Cities> locations = [
     latitude: 6.72834120,
     longitude: 80.39381100,
   ),
-
   Cities(
     id: 1791,
     districtId: 23,
@@ -19712,7 +17921,6 @@ final List<Cities> locations = [
     latitude: 6.49853270,
     longitude: 80.44456110,
   ),
-
   Cities(
     id: 1792,
     districtId: 23,
@@ -19723,7 +17931,6 @@ final List<Cities> locations = [
     latitude: 6.57180590,
     longitude: 80.70480840,
   ),
-
   Cities(
     id: 1793,
     districtId: 23,
@@ -19734,7 +17941,6 @@ final List<Cities> locations = [
     latitude: 6.61981170,
     longitude: 80.87375390,
   ),
-
   Cities(
     id: 1794,
     districtId: 23,
@@ -19745,7 +17951,6 @@ final List<Cities> locations = [
     latitude: 6.62149100,
     longitude: 80.75054170,
   ),
-
   Cities(
     id: 1795,
     districtId: 24,
@@ -19756,7 +17961,6 @@ final List<Cities> locations = [
     latitude: 8.33139520,
     longitude: 80.97648920,
   ),
-
   Cities(
     id: 1796,
     districtId: 24,
@@ -19767,7 +17971,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1797,
     districtId: 24,
@@ -19778,7 +17981,6 @@ final List<Cities> locations = [
     latitude: 8.56292020,
     longitude: 81.19900940,
   ),
-
   Cities(
     id: 1798,
     districtId: 24,
@@ -19789,7 +17991,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1799,
     districtId: 24,
@@ -19800,7 +18001,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1800,
     districtId: 24,
@@ -19811,7 +18011,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1801,
     districtId: 24,
@@ -19822,7 +18021,6 @@ final List<Cities> locations = [
     latitude: 8.67503840,
     longitude: 80.96324230,
   ),
-
   Cities(
     id: 1802,
     districtId: 24,
@@ -19833,7 +18031,6 @@ final List<Cities> locations = [
     latitude: 8.45435440,
     longitude: 81.29179710,
   ),
-
   Cities(
     id: 1803,
     districtId: 24,
@@ -19844,7 +18041,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1804,
     districtId: 24,
@@ -19855,7 +18051,6 @@ final List<Cities> locations = [
     latitude: 8.59878050,
     longitude: 81.18715150,
   ),
-
   Cities(
     id: 1805,
     districtId: 24,
@@ -19866,7 +18061,6 @@ final List<Cities> locations = [
     latitude: 8.35126340,
     longitude: 81.00699280,
   ),
-
   Cities(
     id: 1806,
     districtId: 24,
@@ -19877,7 +18071,6 @@ final List<Cities> locations = [
     latitude: 8.31672220,
     longitude: 81.04672190,
   ),
-
   Cities(
     id: 1807,
     districtId: 24,
@@ -19888,7 +18081,6 @@ final List<Cities> locations = [
     latitude: 8.36183610,
     longitude: 81.28427020,
   ),
-
   Cities(
     id: 1808,
     districtId: 24,
@@ -19899,7 +18091,6 @@ final List<Cities> locations = [
     latitude: 8.50254730,
     longitude: 81.18038320,
   ),
-
   Cities(
     id: 1809,
     districtId: 24,
@@ -19910,7 +18101,6 @@ final List<Cities> locations = [
     latitude: 8.82138500,
     longitude: 81.09478080,
   ),
-
   Cities(
     id: 1810,
     districtId: 24,
@@ -19921,7 +18111,6 @@ final List<Cities> locations = [
     latitude: 8.73568790,
     longitude: 81.16096790,
   ),
-
   Cities(
     id: 1811,
     districtId: 24,
@@ -19932,7 +18121,6 @@ final List<Cities> locations = [
     latitude: 8.50191580,
     longitude: 81.17199360,
   ),
-
   Cities(
     id: 1812,
     districtId: 24,
@@ -19943,7 +18131,6 @@ final List<Cities> locations = [
     latitude: 8.35736110,
     longitude: 81.38962220,
   ),
-
   Cities(
     id: 1813,
     districtId: 24,
@@ -19954,7 +18141,6 @@ final List<Cities> locations = [
     latitude: 8.61738580,
     longitude: 80.96427730,
   ),
-
   Cities(
     id: 1814,
     districtId: 24,
@@ -19965,7 +18151,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1815,
     districtId: 24,
@@ -19976,7 +18161,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1816,
     districtId: 24,
@@ -19987,7 +18171,6 @@ final List<Cities> locations = [
     latitude: 8.60944630,
     longitude: 81.21638370,
   ),
-
   Cities(
     id: 1817,
     districtId: 24,
@@ -19998,7 +18181,6 @@ final List<Cities> locations = [
     latitude: 8.42867990,
     longitude: 81.05614580,
   ),
-
   Cities(
     id: 1818,
     districtId: 24,
@@ -20009,7 +18191,6 @@ final List<Cities> locations = [
     latitude: 8.45790650,
     longitude: 81.26840190,
   ),
-
   Cities(
     id: 1819,
     districtId: 24,
@@ -20020,7 +18201,6 @@ final List<Cities> locations = [
     latitude: 8.37006770,
     longitude: 81.22434440,
   ),
-
   Cities(
     id: 1820,
     districtId: 24,
@@ -20031,7 +18211,6 @@ final List<Cities> locations = [
     latitude: 8.69273310,
     longitude: 81.18852930,
   ),
-
   Cities(
     id: 1821,
     districtId: 24,
@@ -20042,7 +18221,6 @@ final List<Cities> locations = [
     latitude: 8.62513020,
     longitude: 81.03267950,
   ),
-
   Cities(
     id: 1822,
     districtId: 24,
@@ -20053,7 +18231,6 @@ final List<Cities> locations = [
     latitude: 8.94455220,
     longitude: 80.98267180,
   ),
-
   Cities(
     id: 1823,
     districtId: 24,
@@ -20064,7 +18241,6 @@ final List<Cities> locations = [
     latitude: 8.59950020,
     longitude: 80.92170210,
   ),
-
   Cities(
     id: 1824,
     districtId: 24,
@@ -20075,7 +18251,6 @@ final List<Cities> locations = [
     latitude: 8.63659760,
     longitude: 81.22304850,
   ),
-
   Cities(
     id: 1825,
     districtId: 24,
@@ -20086,7 +18261,6 @@ final List<Cities> locations = [
     latitude: 8.48224360,
     longitude: 81.28937930,
   ),
-
   Cities(
     id: 1826,
     districtId: 24,
@@ -20097,7 +18271,6 @@ final List<Cities> locations = [
     latitude: 8.32497340,
     longitude: 81.30074050,
   ),
-
   Cities(
     id: 1827,
     districtId: 24,
@@ -20108,7 +18281,6 @@ final List<Cities> locations = [
     latitude: 8.37057000,
     longitude: 81.31991360,
   ),
-
   Cities(
     id: 1828,
     districtId: 24,
@@ -20119,7 +18291,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1829,
     districtId: 24,
@@ -20130,7 +18301,6 @@ final List<Cities> locations = [
     latitude: 8.29801560,
     longitude: 81.27665980,
   ),
-
   Cities(
     id: 1830,
     districtId: 24,
@@ -20141,7 +18311,6 @@ final List<Cities> locations = [
     latitude: 8.49737520,
     longitude: 81.09202180,
   ),
-
   Cities(
     id: 1831,
     districtId: 24,
@@ -20152,7 +18321,6 @@ final List<Cities> locations = [
     latitude: 7.44730640,
     longitude: 81.79920570,
   ),
-
   Cities(
     id: 1832,
     districtId: 24,
@@ -20163,7 +18331,6 @@ final List<Cities> locations = [
     latitude: 6.94064680,
     longitude: 79.86132860,
   ),
-
   Cities(
     id: 1833,
     districtId: 24,
@@ -20174,7 +18341,6 @@ final List<Cities> locations = [
     latitude: 8.40458120,
     longitude: 81.31243410,
   ),
-
   Cities(
     id: 1834,
     districtId: 24,
@@ -20185,7 +18351,6 @@ final List<Cities> locations = [
     latitude: 8.58736380,
     longitude: 81.21521210,
   ),
-
   Cities(
     id: 1835,
     districtId: 24,
@@ -20196,7 +18361,6 @@ final List<Cities> locations = [
     latitude: 8.38173830,
     longitude: 81.07960500,
   ),
-
   Cities(
     id: 1836,
     districtId: 25,
@@ -20207,7 +18371,6 @@ final List<Cities> locations = [
     latitude: 8.75420290,
     longitude: 80.49824020,
   ),
-
   Cities(
     id: 1837,
     districtId: 5,
@@ -20218,7 +18381,6 @@ final List<Cities> locations = [
     latitude: 6.87587000,
     longitude: 79.86067390,
   ),
-
   Cities(
     id: 1838,
     districtId: 5,
@@ -20229,7 +18391,6 @@ final List<Cities> locations = [
     latitude: 6.89893440,
     longitude: 79.85376720,
   ),
-
   Cities(
     id: 1839,
     districtId: 5,
@@ -20240,7 +18401,6 @@ final List<Cities> locations = [
     latitude: 6.89613350,
     longitude: 79.85714750,
   ),
-
   Cities(
     id: 1840,
     districtId: 5,
@@ -20251,7 +18411,6 @@ final List<Cities> locations = [
     latitude: 6.88879470,
     longitude: 79.86630240,
   ),
-
   Cities(
     id: 1841,
     districtId: 5,
@@ -20262,7 +18421,6 @@ final List<Cities> locations = [
     latitude: 6.91166520,
     longitude: 79.86456780,
   ),
-
   Cities(
     id: 1842,
     districtId: 5,
@@ -20273,7 +18431,6 @@ final List<Cities> locations = [
     latitude: 6.93677080,
     longitude: 79.86078060,
   ),
-
   Cities(
     id: 1843,
     districtId: 5,
@@ -20284,7 +18441,6 @@ final List<Cities> locations = [
     latitude: 6.92770380,
     longitude: 79.86608360,
   ),
-
   Cities(
     id: 1844,
     districtId: 5,
@@ -20295,7 +18451,6 @@ final List<Cities> locations = [
     latitude: 6.93904180,
     longitude: 79.85331900,
   ),
-
   Cities(
     id: 1845,
     districtId: 5,
@@ -20306,7 +18461,6 @@ final List<Cities> locations = [
     latitude: 6.93863620,
     longitude: 79.86091740,
   ),
-
   Cities(
     id: 1846,
     districtId: 5,
@@ -20317,7 +18471,6 @@ final List<Cities> locations = [
     latitude: 6.94476020,
     longitude: 79.86802080,
   ),
-
   Cities(
     id: 1847,
     districtId: 5,
@@ -20328,7 +18481,6 @@ final List<Cities> locations = [
     latitude: 6.93883020,
     longitude: 79.85597300,
   ),
-
   Cities(
     id: 1848,
     districtId: 5,
@@ -20339,7 +18491,6 @@ final List<Cities> locations = [
     latitude: 6.92707860,
     longitude: 79.86124300,
   ),
-
   Cities(
     id: 1849,
     districtId: 5,
@@ -20350,7 +18501,6 @@ final List<Cities> locations = [
     latitude: 6.92381440,
     longitude: 79.85049130,
   ),
-
   Cities(
     id: 1850,
     districtId: 5,
@@ -20361,7 +18511,6 @@ final List<Cities> locations = [
     latitude: 6.93265290,
     longitude: 79.84416100,
   ),
-
   Cities(
     id: 1851,
     districtId: 5,
@@ -20372,7 +18521,6 @@ final List<Cities> locations = [
     latitude: 6.90353830,
     longitude: 79.86810980,
   ),
-
   Cities(
     id: 1852,
     districtId: 5,
@@ -20383,7 +18531,6 @@ final List<Cities> locations = [
     latitude: 6.91045550,
     longitude: 79.86099250,
   ),
-
   Cities(
     id: 1853,
     districtId: 5,
@@ -20394,7 +18541,6 @@ final List<Cities> locations = [
     latitude: 6.89200690,
     longitude: 79.87642540,
   ),
-
   Cities(
     id: 1854,
     districtId: 5,
@@ -20405,7 +18551,6 @@ final List<Cities> locations = [
     latitude: 6.88105880,
     longitude: 79.88013350,
   ),
-
   Cities(
     id: 1855,
     districtId: 5,
@@ -20416,7 +18561,6 @@ final List<Cities> locations = [
     latitude: 6.89017040,
     longitude: 79.87296210,
   ),
-
   Cities(
     id: 1856,
     districtId: 5,
@@ -20427,7 +18571,6 @@ final List<Cities> locations = [
     latitude: 6.92800620,
     longitude: 79.88757070,
   ),
-
   Cities(
     id: 1857,
     districtId: 5,
@@ -20438,7 +18581,6 @@ final List<Cities> locations = [
     latitude: 6.89759340,
     longitude: 79.88148300,
   ),
-
   Cities(
     id: 1858,
     districtId: 5,
@@ -20449,7 +18591,6 @@ final List<Cities> locations = [
     latitude: 6.88147170,
     longitude: 79.87634760,
   ),
-
   Cities(
     id: 1859,
     districtId: 5,
@@ -20460,7 +18601,6 @@ final List<Cities> locations = [
     latitude: 6.90001490,
     longitude: 79.85879380,
   ),
-
   Cities(
     id: 1860,
     districtId: 5,
@@ -20471,7 +18611,6 @@ final List<Cities> locations = [
     latitude: 6.91874290,
     longitude: 79.86899200,
   ),
-
   Cities(
     id: 1861,
     districtId: 5,
@@ -20482,7 +18621,6 @@ final List<Cities> locations = [
     latitude: 6.91453560,
     longitude: 79.88735650,
   ),
-
   Cities(
     id: 1862,
     districtId: 5,
@@ -20493,7 +18631,6 @@ final List<Cities> locations = [
     latitude: 6.92670930,
     longitude: 79.88148300,
   ),
-
   Cities(
     id: 1863,
     districtId: 5,
@@ -20504,7 +18641,6 @@ final List<Cities> locations = [
     latitude: 6.93279660,
     longitude: 79.87817750,
   ),
-
   Cities(
     id: 1864,
     districtId: 5,
@@ -20515,7 +18651,6 @@ final List<Cities> locations = [
     latitude: 6.93369020,
     longitude: 79.87874170,
   ),
-
   Cities(
     id: 1865,
     districtId: 5,
@@ -20526,7 +18661,6 @@ final List<Cities> locations = [
     latitude: 6.93727160,
     longitude: 79.87175120,
   ),
-
   Cities(
     id: 1866,
     districtId: 5,
@@ -20537,7 +18671,6 @@ final List<Cities> locations = [
     latitude: 6.93096820,
     longitude: 79.86398350,
   ),
-
   Cities(
     id: 1867,
     districtId: 5,
@@ -20548,7 +18681,6 @@ final List<Cities> locations = [
     latitude: 6.90804600,
     longitude: 79.87598160,
   ),
-
   Cities(
     id: 1868,
     districtId: 5,
@@ -20559,7 +18691,6 @@ final List<Cities> locations = [
     latitude: 6.92841060,
     longitude: 79.86818370,
   ),
-
   Cities(
     id: 1869,
     districtId: 5,
@@ -20570,7 +18701,6 @@ final List<Cities> locations = [
     latitude: 6.93963520,
     longitude: 79.85430140,
   ),
-
   Cities(
     id: 1870,
     districtId: 5,
@@ -20581,7 +18711,6 @@ final List<Cities> locations = [
     latitude: 6.93500540,
     longitude: 79.85456970,
   ),
-
   Cities(
     id: 1871,
     districtId: 5,
@@ -20592,7 +18721,6 @@ final List<Cities> locations = [
     latitude: 6.93840050,
     longitude: 79.85555210,
   ),
-
   Cities(
     id: 1872,
     districtId: 5,
@@ -20603,7 +18731,6 @@ final List<Cities> locations = [
     latitude: 6.94242220,
     longitude: 79.86376180,
   ),
-
   Cities(
     id: 1873,
     districtId: 5,
@@ -20614,7 +18741,6 @@ final List<Cities> locations = [
     latitude: 6.93171040,
     longitude: 79.87376180,
   ),
-
   Cities(
     id: 1874,
     districtId: 5,
@@ -20625,7 +18751,6 @@ final List<Cities> locations = [
     latitude: 6.93696440,
     longitude: 79.86364710,
   ),
-
   Cities(
     id: 1875,
     districtId: 5,
@@ -20636,7 +18761,6 @@ final List<Cities> locations = [
     latitude: 6.95118770,
     longitude: 79.86498570,
   ),
-
   Cities(
     id: 1876,
     districtId: 5,
@@ -20647,7 +18771,6 @@ final List<Cities> locations = [
     latitude: 6.95527300,
     longitude: 79.87651510,
   ),
-
   Cities(
     id: 1877,
     districtId: 5,
@@ -20658,7 +18781,6 @@ final List<Cities> locations = [
     latitude: 6.96952880,
     longitude: 79.87322490,
   ),
-
   Cities(
     id: 1878,
     districtId: 5,
@@ -20669,7 +18791,6 @@ final List<Cities> locations = [
     latitude: 6.96692470,
     longitude: 79.87115330,
   ),
-
   Cities(
     id: 1879,
     districtId: 5,
@@ -20680,7 +18801,6 @@ final List<Cities> locations = [
     latitude: 6.89149910,
     longitude: 79.90908710,
   ),
-
   Cities(
     id: 1880,
     districtId: 5,
@@ -20691,7 +18811,6 @@ final List<Cities> locations = [
     latitude: 6.87731530,
     longitude: 79.92346780,
   ),
-
   Cities(
     id: 1881,
     districtId: 5,
@@ -20702,7 +18821,6 @@ final List<Cities> locations = [
     latitude: 8.15285510,
     longitude: 80.14564960,
   ),
-
   Cities(
     id: 1882,
     districtId: 5,
@@ -20713,7 +18831,6 @@ final List<Cities> locations = [
     latitude: 6.87966520,
     longitude: 79.90947510,
   ),
-
   Cities(
     id: 1883,
     districtId: 5,
@@ -20724,7 +18841,6 @@ final List<Cities> locations = [
     latitude: 6.90053750,
     longitude: 79.89548020,
   ),
-
   Cities(
     id: 1884,
     districtId: 5,
@@ -20735,7 +18851,6 @@ final List<Cities> locations = [
     latitude: 6.89641910,
     longitude: 79.88848190,
   ),
-
   Cities(
     id: 1885,
     districtId: 5,
@@ -20746,7 +18861,6 @@ final List<Cities> locations = [
     latitude: 6.90941080,
     longitude: 79.89425380,
   ),
-
   Cities(
     id: 1886,
     districtId: 5,
@@ -20757,7 +18871,6 @@ final List<Cities> locations = [
     latitude: 6.93110950,
     longitude: 79.84302960,
   ),
-
   Cities(
     id: 1887,
     districtId: 5,
@@ -20768,7 +18881,6 @@ final List<Cities> locations = [
     latitude: 6.91330980,
     longitude: 79.89026360,
   ),
-
   Cities(
     id: 1888,
     districtId: 5,
@@ -20779,7 +18891,6 @@ final List<Cities> locations = [
     latitude: 6.91655310,
     longitude: 79.92083240,
   ),
-
   Cities(
     id: 1889,
     districtId: 5,
@@ -20790,7 +18901,6 @@ final List<Cities> locations = [
     latitude: 6.91687820,
     longitude: 79.93173020,
   ),
-
   Cities(
     id: 1890,
     districtId: 5,
@@ -20801,7 +18911,6 @@ final List<Cities> locations = [
     latitude: 6.88675520,
     longitude: 79.94759990,
   ),
-
   Cities(
     id: 1891,
     districtId: 5,
@@ -20812,7 +18921,6 @@ final List<Cities> locations = [
     latitude: 6.92707860,
     longitude: 79.86124300,
   ),
-
   Cities(
     id: 1892,
     districtId: 5,
@@ -20823,7 +18931,6 @@ final List<Cities> locations = [
     latitude: 6.92918770,
     longitude: 79.86394890,
   ),
-
   Cities(
     id: 1893,
     districtId: 5,
@@ -20834,7 +18941,6 @@ final List<Cities> locations = [
     latitude: 6.90327690,
     longitude: 79.91542220,
   ),
-
   Cities(
     id: 1894,
     districtId: 5,
@@ -20845,7 +18951,6 @@ final List<Cities> locations = [
     latitude: 6.90607870,
     longitude: 79.96962770,
   ),
-
   Cities(
     id: 1895,
     districtId: 5,
@@ -20856,7 +18961,6 @@ final List<Cities> locations = [
     latitude: 6.88290380,
     longitude: 80.00038750,
   ),
-
   Cities(
     id: 1896,
     districtId: 5,
@@ -20867,7 +18971,6 @@ final List<Cities> locations = [
     latitude: 6.86561170,
     longitude: 80.02764270,
   ),
-
   Cities(
     id: 1897,
     districtId: 5,
@@ -20878,7 +18981,6 @@ final List<Cities> locations = [
     latitude: 6.82178770,
     longitude: 79.99838110,
   ),
-
   Cities(
     id: 1898,
     districtId: 5,
@@ -20889,7 +18991,6 @@ final List<Cities> locations = [
     latitude: 6.84327620,
     longitude: 80.00318330,
   ),
-
   Cities(
     id: 1899,
     districtId: 5,
@@ -20900,7 +19001,6 @@ final List<Cities> locations = [
     latitude: 6.85167240,
     longitude: 80.03273340,
   ),
-
   Cities(
     id: 1900,
     districtId: 5,
@@ -20911,7 +19011,6 @@ final List<Cities> locations = [
     latitude: 6.86561170,
     longitude: 80.02764270,
   ),
-
   Cities(
     id: 1901,
     districtId: 5,
@@ -20922,7 +19021,6 @@ final List<Cities> locations = [
     latitude: 6.83646020,
     longitude: 79.99339760,
   ),
-
   Cities(
     id: 1902,
     districtId: 5,
@@ -20933,7 +19031,6 @@ final List<Cities> locations = [
     latitude: 6.84116520,
     longitude: 79.96543240,
   ),
-
   Cities(
     id: 1903,
     districtId: 5,
@@ -20944,7 +19041,6 @@ final List<Cities> locations = [
     latitude: 6.82353930,
     longitude: 79.94445260,
   ),
-
   Cities(
     id: 1904,
     districtId: 5,
@@ -20955,7 +19051,6 @@ final List<Cities> locations = [
     latitude: 6.83824460,
     longitude: 79.94407100,
   ),
-
   Cities(
     id: 1905,
     districtId: 5,
@@ -20966,7 +19061,6 @@ final List<Cities> locations = [
     latitude: 6.86147310,
     longitude: 79.95634170,
   ),
-
   Cities(
     id: 1906,
     districtId: 5,
@@ -20977,7 +19071,6 @@ final List<Cities> locations = [
     latitude: 6.85597580,
     longitude: 79.97801780,
   ),
-
   Cities(
     id: 1907,
     districtId: 5,
@@ -20988,7 +19081,6 @@ final List<Cities> locations = [
     latitude: 6.84680570,
     longitude: 79.98221260,
   ),
-
   Cities(
     id: 1908,
     districtId: 5,
@@ -20999,7 +19091,6 @@ final List<Cities> locations = [
     latitude: 6.81354880,
     longitude: 79.97242450,
   ),
-
   Cities(
     id: 1909,
     districtId: 5,
@@ -21010,7 +19101,6 @@ final List<Cities> locations = [
     latitude: 6.86896470,
     longitude: 79.90387740,
   ),
-
   Cities(
     id: 1910,
     districtId: 5,
@@ -21021,7 +19111,6 @@ final List<Cities> locations = [
     latitude: 6.86655590,
     longitude: 79.91507240,
   ),
-
   Cities(
     id: 1911,
     districtId: 5,
@@ -21032,7 +19121,6 @@ final List<Cities> locations = [
     latitude: 6.86248420,
     longitude: 79.88549830,
   ),
-
   Cities(
     id: 1912,
     districtId: 5,
@@ -21043,7 +19131,6 @@ final List<Cities> locations = [
     latitude: 6.86166890,
     longitude: 79.92892900,
   ),
-
   Cities(
     id: 1913,
     districtId: 5,
@@ -21054,7 +19141,6 @@ final List<Cities> locations = [
     latitude: 6.87830600,
     longitude: 80.24325360,
   ),
-
   Cities(
     id: 1914,
     districtId: 5,
@@ -21065,7 +19151,6 @@ final List<Cities> locations = [
     latitude: 6.85333090,
     longitude: 79.91507240,
   ),
-
   Cities(
     id: 1915,
     districtId: 5,
@@ -21076,7 +19161,6 @@ final List<Cities> locations = [
     latitude: 6.90522350,
     longitude: 79.85125590,
   ),
-
   Cities(
     id: 1916,
     districtId: 5,
@@ -21087,7 +19171,6 @@ final List<Cities> locations = [
     latitude: 6.85381660,
     longitude: 79.88508760,
   ),
-
   Cities(
     id: 1917,
     districtId: 5,
@@ -21098,7 +19181,6 @@ final List<Cities> locations = [
     latitude: 6.83211780,
     longitude: 79.91227380,
   ),
-
   Cities(
     id: 1918,
     districtId: 5,
@@ -21109,7 +19191,6 @@ final List<Cities> locations = [
     latitude: 6.79787420,
     longitude: 79.91787090,
   ),
-
   Cities(
     id: 1919,
     districtId: 5,
@@ -21120,7 +19201,6 @@ final List<Cities> locations = [
     latitude: 6.81437460,
     longitude: 79.94864890,
   ),
-
   Cities(
     id: 1920,
     districtId: 5,
@@ -21131,7 +19211,6 @@ final List<Cities> locations = [
     latitude: 6.77693190,
     longitude: 79.95111430,
   ),
-
   Cities(
     id: 1921,
     districtId: 5,
@@ -21142,7 +19221,6 @@ final List<Cities> locations = [
     latitude: 6.77867010,
     longitude: 79.94725020,
   ),
-
   Cities(
     id: 1922,
     districtId: 5,
@@ -21153,7 +19231,6 @@ final List<Cities> locations = [
     latitude: 6.81643270,
     longitude: 79.92066940,
   ),
-
   Cities(
     id: 1923,
     districtId: 5,
@@ -21164,7 +19241,6 @@ final List<Cities> locations = [
     latitude: 6.78229800,
     longitude: 79.99479560,
   ),
-
   Cities(
     id: 1924,
     districtId: 5,
@@ -21175,7 +19251,6 @@ final List<Cities> locations = [
     latitude: 6.82138560,
     longitude: 79.89012960,
   ),
-
   Cities(
     id: 1925,
     districtId: 5,
@@ -21186,7 +19261,6 @@ final List<Cities> locations = [
     latitude: 6.82677000,
     longitude: 79.87798340,
   ),
-
   Cities(
     id: 1926,
     districtId: 5,
@@ -21197,7 +19271,6 @@ final List<Cities> locations = [
     latitude: 6.81879540,
     longitude: 79.87101950,
   ),
-
   Cities(
     id: 1927,
     districtId: 5,
@@ -21208,7 +19281,6 @@ final List<Cities> locations = [
     latitude: 6.75779280,
     longitude: 79.88737000,
   ),
-
   Cities(
     id: 1928,
     districtId: 5,
@@ -21219,7 +19291,6 @@ final List<Cities> locations = [
     latitude: 6.72094140,
     longitude: 79.90107840,
   ),
-
   Cities(
     id: 1929,
     districtId: 5,
@@ -21230,7 +19301,6 @@ final List<Cities> locations = [
     latitude: 6.72094140,
     longitude: 79.90107840,
   ),
-
   Cities(
     id: 1930,
     districtId: 5,
@@ -21241,7 +19311,6 @@ final List<Cities> locations = [
     latitude: 6.77380480,
     longitude: 79.90387740,
   ),
-
   Cities(
     id: 1931,
     districtId: 5,
@@ -21252,7 +19321,6 @@ final List<Cities> locations = [
     latitude: 6.78084970,
     longitude: 79.89338070,
   ),
-
   Cities(
     id: 1932,
     districtId: 5,
@@ -21263,7 +19331,6 @@ final List<Cities> locations = [
     latitude: 6.79188690,
     longitude: 79.88428260,
   ),
-
   Cities(
     id: 1933,
     districtId: 5,
@@ -21274,7 +19341,6 @@ final List<Cities> locations = [
     latitude: 6.78687850,
     longitude: 79.90098840,
   ),
-
   Cities(
     id: 1934,
     districtId: 5,
@@ -21285,7 +19351,6 @@ final List<Cities> locations = [
     latitude: 6.78648590,
     longitude: 79.87868330,
   ),
-
   Cities(
     id: 1935,
     districtId: 5,
@@ -21296,7 +19361,6 @@ final List<Cities> locations = [
     latitude: 6.92707860,
     longitude: 79.86124300,
   ),
-
   Cities(
     id: 1936,
     districtId: 5,
@@ -21307,7 +19371,6 @@ final List<Cities> locations = [
     latitude: 6.79761140,
     longitude: 79.87378360,
   ),
-
   Cities(
     id: 1937,
     districtId: 5,
@@ -21318,7 +19381,6 @@ final List<Cities> locations = [
     latitude: 6.80562650,
     longitude: 79.87798340,
   ),
-
   Cities(
     id: 1938,
     districtId: 5,
@@ -21329,7 +19391,6 @@ final List<Cities> locations = [
     latitude: 6.80145720,
     longitude: 79.89967890,
   ),
-
   Cities(
     id: 1939,
     districtId: 5,
@@ -21340,7 +19401,6 @@ final List<Cities> locations = [
     latitude: 6.83690770,
     longitude: 80.07863590,
   ),
-
   Cities(
     id: 1940,
     districtId: 5,
@@ -21351,7 +19411,6 @@ final List<Cities> locations = [
     latitude: 6.82250470,
     longitude: 80.08561890,
   ),
-
   Cities(
     id: 1941,
     districtId: 5,
@@ -21362,7 +19421,6 @@ final List<Cities> locations = [
     latitude: 6.77178680,
     longitude: 79.91591810,
   ),
-
   Cities(
     id: 1942,
     districtId: 5,
@@ -21373,7 +19431,6 @@ final List<Cities> locations = [
     latitude: 6.79517150,
     longitude: 80.10656460,
   ),
-
   Cities(
     id: 1943,
     districtId: 5,
@@ -21384,7 +19441,6 @@ final List<Cities> locations = [
     latitude: 6.76749490,
     longitude: 80.84717490,
   ),
-
   Cities(
     id: 1944,
     districtId: 5,
@@ -21395,7 +19451,6 @@ final List<Cities> locations = [
     latitude: 6.86720730,
     longitude: 80.12094220,
   ),
-
   Cities(
     id: 1945,
     districtId: 5,
@@ -21406,7 +19461,6 @@ final List<Cities> locations = [
     latitude: 6.84700310,
     longitude: 80.11912960,
   ),
-
   Cities(
     id: 1946,
     districtId: 5,
@@ -21417,7 +19471,6 @@ final List<Cities> locations = [
     latitude: 6.87102580,
     longitude: 79.93885710,
   ),
-
   Cities(
     id: 1947,
     districtId: 5,
@@ -21428,7 +19481,6 @@ final List<Cities> locations = [
     latitude: 6.81523830,
     longitude: 80.15173220,
   ),
-
   Cities(
     id: 1948,
     districtId: 5,
@@ -21439,7 +19491,6 @@ final List<Cities> locations = [
     latitude: 6.83457760,
     longitude: 80.15820880,
   ),
-
   Cities(
     id: 1949,
     districtId: 5,
@@ -21450,7 +19501,6 @@ final List<Cities> locations = [
     latitude: 7.13764480,
     longitude: 80.09289820,
   ),
-
   Cities(
     id: 1951,
     districtId: 7,
@@ -21461,7 +19511,6 @@ final List<Cities> locations = [
     latitude: 6.98601320,
     longitude: 79.90701560,
   ),
-
   Cities(
     id: 1952,
     districtId: 2,
@@ -21472,7 +19521,6 @@ final List<Cities> locations = [
     latitude: 8.04139230,
     longitude: 80.44655940,
   ),
-
   Cities(
     id: 1953,
     districtId: 2,
@@ -21483,7 +19531,6 @@ final List<Cities> locations = [
     latitude: 8.64089160,
     longitude: 80.66968160,
   ),
-
   Cities(
     id: 1974,
     districtId: 16,
@@ -21494,7 +19541,6 @@ final List<Cities> locations = [
     latitude: 7.67611540,
     longitude: 80.58272720,
   ),
-
   Cities(
     id: 1975,
     districtId: 17,
@@ -21505,7 +19551,6 @@ final List<Cities> locations = [
     latitude: 6.06412720,
     longitude: 80.66600920,
   ),
-
   Cities(
     id: 1976,
     districtId: 8,
@@ -21516,7 +19561,6 @@ final List<Cities> locations = [
     latitude: 6.29562990,
     longitude: 80.71866970,
   ),
-
   Cities(
     id: 1977,
     districtId: 3,
@@ -21527,7 +19571,6 @@ final List<Cities> locations = [
     latitude: 6.78296900,
     longitude: 80.90003310,
   ),
-
   Cities(
     id: 1978,
     districtId: 9,
@@ -21538,7 +19581,6 @@ final List<Cities> locations = [
     latitude: 9.61988780,
     longitude: 79.96543240,
   ),
-
   Cities(
     id: 1979,
     districtId: 9,
@@ -21549,7 +19591,6 @@ final List<Cities> locations = [
     latitude: 9.66149810,
     longitude: 80.02554650,
   ),
-
   Cities(
     id: 1980,
     districtId: 9,
@@ -21560,7 +19601,6 @@ final List<Cities> locations = [
     latitude: 9.82086330,
     longitude: 80.20424360,
   ),
-
   Cities(
     id: 1981,
     districtId: 9,
@@ -21571,7 +19611,6 @@ final List<Cities> locations = [
     latitude: 9.69635430,
     longitude: 79.99479560,
   ),
-
   Cities(
     id: 1982,
     districtId: 9,
@@ -21582,7 +19621,6 @@ final List<Cities> locations = [
     latitude: 9.66790030,
     longitude: 79.77643370,
   ),
-
   Cities(
     id: 1983,
     districtId: 9,
@@ -21593,7 +19631,6 @@ final List<Cities> locations = [
     latitude: 9.70620780,
     longitude: 79.95564240,
   ),
-
   Cities(
     id: 1984,
     districtId: 9,
@@ -21604,7 +19641,6 @@ final List<Cities> locations = [
     latitude: 9.77863970,
     longitude: 80.11606510,
   ),
-
   Cities(
     id: 1985,
     districtId: 9,
@@ -21615,7 +19651,6 @@ final List<Cities> locations = [
     latitude: 9.74522360,
     longitude: 79.97242450,
   ),
-
   Cities(
     id: 1986,
     districtId: 9,
@@ -21626,7 +19661,6 @@ final List<Cities> locations = [
     latitude: 9.66646000,
     longitude: 80.13209180,
   ),
-
   Cities(
     id: 1987,
     districtId: 9,
@@ -21637,7 +19671,6 @@ final List<Cities> locations = [
     latitude: 9.76592620,
     longitude: 79.94623750,
   ),
-
   Cities(
     id: 1988,
     districtId: 9,
@@ -21648,7 +19681,6 @@ final List<Cities> locations = [
     latitude: 9.65349270,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 1989,
     districtId: 9,
@@ -21659,7 +19691,6 @@ final List<Cities> locations = [
     latitude: 9.73756340,
     longitude: 80.02450490,
   ),
-
   Cities(
     id: 1990,
     districtId: 9,
@@ -21670,7 +19701,6 @@ final List<Cities> locations = [
     latitude: 9.52769110,
     longitude: 79.69985740,
   ),
-
   Cities(
     id: 1991,
     districtId: 9,
@@ -21681,7 +19711,6 @@ final List<Cities> locations = [
     latitude: 9.52769110,
     longitude: 79.69985740,
   ),
-
   Cities(
     id: 1992,
     districtId: 9,
@@ -21692,7 +19721,6 @@ final List<Cities> locations = [
     latitude: 9.69231050,
     longitude: 79.81146400,
   ),
-
   Cities(
     id: 1993,
     districtId: 9,
@@ -21703,7 +19731,6 @@ final List<Cities> locations = [
     latitude: 9.63829020,
     longitude: 80.07863590,
   ),
-
   Cities(
     id: 1994,
     districtId: 9,
@@ -21714,7 +19741,6 @@ final List<Cities> locations = [
     latitude: 9.79527530,
     longitude: 79.98920340,
   ),
-
   Cities(
     id: 1995,
     districtId: 9,
@@ -21725,7 +19751,6 @@ final List<Cities> locations = [
     latitude: 9.81611050,
     longitude: 80.04478780,
   ),
-
   Cities(
     id: 1996,
     districtId: 9,
@@ -21736,7 +19761,6 @@ final List<Cities> locations = [
     latitude: 9.74807380,
     longitude: 79.88288280,
   ),
-
   Cities(
     id: 1997,
     districtId: 9,
@@ -21747,7 +19771,6 @@ final List<Cities> locations = [
     latitude: 9.80006730,
     longitude: 80.19941820,
   ),
-
   Cities(
     id: 1998,
     districtId: 9,
@@ -21758,7 +19781,6 @@ final List<Cities> locations = [
     latitude: 9.69789370,
     longitude: 79.86048310,
   ),
-
   Cities(
     id: 1999,
     districtId: 9,
@@ -21769,7 +19791,6 @@ final List<Cities> locations = [
     latitude: 9.68449040,
     longitude: 80.22201770,
   ),
-
   Cities(
     id: 2000,
     districtId: 9,
@@ -21780,7 +19801,6 @@ final List<Cities> locations = [
     latitude: 9.69082400,
     longitude: 80.02114300,
   ),
-
   Cities(
     id: 2001,
     districtId: 9,
@@ -21791,7 +19811,6 @@ final List<Cities> locations = [
     latitude: 9.70300070,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 2002,
     districtId: 9,
@@ -21802,7 +19821,6 @@ final List<Cities> locations = [
     latitude: 9.70430280,
     longitude: 80.07863590,
   ),
-
   Cities(
     id: 2003,
     districtId: 9,
@@ -21813,7 +19831,6 @@ final List<Cities> locations = [
     latitude: 9.66149810,
     longitude: 80.02554650,
   ),
-
   Cities(
     id: 2004,
     districtId: 9,
@@ -21824,7 +19841,6 @@ final List<Cities> locations = [
     latitude: 9.76188640,
     longitude: 80.02414890,
   ),
-
   Cities(
     id: 2005,
     districtId: 9,
@@ -21835,7 +19851,6 @@ final List<Cities> locations = [
     latitude: 9.61653910,
     longitude: 79.99199950,
   ),
-
   Cities(
     id: 2006,
     districtId: 9,
@@ -21846,7 +19861,6 @@ final List<Cities> locations = [
     latitude: 9.72910620,
     longitude: 79.99254460,
   ),
-
   Cities(
     id: 2007,
     districtId: 9,
@@ -21857,7 +19871,6 @@ final List<Cities> locations = [
     latitude: 9.78601780,
     longitude: 79.96613080,
   ),
-
   Cities(
     id: 2008,
     districtId: 9,
@@ -21868,7 +19881,6 @@ final List<Cities> locations = [
     latitude: 9.67466610,
     longitude: 80.19587550,
   ),
-
   Cities(
     id: 2009,
     districtId: 9,
@@ -21879,7 +19891,6 @@ final List<Cities> locations = [
     latitude: 9.66207980,
     longitude: 80.01189260,
   ),
-
   Cities(
     id: 2010,
     districtId: 9,
@@ -21890,7 +19901,6 @@ final List<Cities> locations = [
     latitude: 9.66770280,
     longitude: 80.23401800,
   ),
-
   Cities(
     id: 2011,
     districtId: 9,
@@ -21901,7 +19911,6 @@ final List<Cities> locations = [
     latitude: 9.70309500,
     longitude: 80.31371060,
   ),
-
   Cities(
     id: 2012,
     districtId: 9,
@@ -21912,7 +19921,6 @@ final List<Cities> locations = [
     latitude: 9.66149810,
     longitude: 80.02554650,
   ),
-
   Cities(
     id: 2013,
     districtId: 9,
@@ -21923,7 +19931,6 @@ final List<Cities> locations = [
     latitude: 9.61901230,
     longitude: 79.77487620,
   ),
-
   Cities(
     id: 2014,
     districtId: 9,
@@ -21934,7 +19941,6 @@ final List<Cities> locations = [
     latitude: 9.72106990,
     longitude: 80.08469440,
   ),
-
   Cities(
     id: 2015,
     districtId: 9,
@@ -21945,7 +19951,6 @@ final List<Cities> locations = [
     latitude: 9.77825690,
     longitude: 79.97242450,
   ),
-
   Cities(
     id: 2016,
     districtId: 9,
@@ -21956,7 +19961,6 @@ final List<Cities> locations = [
     latitude: 9.79378850,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 2017,
     districtId: 9,
@@ -21967,7 +19971,6 @@ final List<Cities> locations = [
     latitude: 9.81728290,
     longitude: 80.23526810,
   ),
-
   Cities(
     id: 2018,
     districtId: 9,
@@ -21978,7 +19981,6 @@ final List<Cities> locations = [
     latitude: 9.58964650,
     longitude: 79.82407150,
   ),
-
   Cities(
     id: 2019,
     districtId: 9,
@@ -21989,7 +19991,6 @@ final List<Cities> locations = [
     latitude: 9.73308980,
     longitude: 80.10003760,
   ),
-
   Cities(
     id: 2020,
     districtId: 9,
@@ -22000,7 +20001,6 @@ final List<Cities> locations = [
     latitude: 9.74933600,
     longitude: 79.98738320,
   ),
-
   Cities(
     id: 2021,
     districtId: 9,
@@ -22011,7 +20011,6 @@ final List<Cities> locations = [
     latitude: 9.72854720,
     longitude: 79.96683080,
   ),
-
   Cities(
     id: 2022,
     districtId: 9,
@@ -22022,7 +20021,6 @@ final List<Cities> locations = [
     latitude: 9.75365500,
     longitude: 79.96177550,
   ),
-
   Cities(
     id: 2023,
     districtId: 9,
@@ -22033,7 +20031,6 @@ final List<Cities> locations = [
     latitude: 9.67130510,
     longitude: 80.01155680,
   ),
-
   Cities(
     id: 2024,
     districtId: 9,
@@ -22044,7 +20041,6 @@ final List<Cities> locations = [
     latitude: 9.79108750,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 2025,
     districtId: 9,
@@ -22055,7 +20051,6 @@ final List<Cities> locations = [
     latitude: 9.81840780,
     longitude: 80.13696540,
   ),
-
   Cities(
     id: 2026,
     districtId: 9,
@@ -22066,7 +20061,6 @@ final List<Cities> locations = [
     latitude: 9.72031900,
     longitude: 80.04304180,
   ),
-
   Cities(
     id: 2027,
     districtId: 9,
@@ -22077,7 +20071,6 @@ final List<Cities> locations = [
     latitude: 9.72238430,
     longitude: 79.94445260,
   ),
-
   Cities(
     id: 2028,
     districtId: 9,
@@ -22088,7 +20081,6 @@ final List<Cities> locations = [
     latitude: 9.81493700,
     longitude: 80.16608040,
   ),
-
   Cities(
     id: 2029,
     districtId: 9,
@@ -22099,7 +20091,6 @@ final List<Cities> locations = [
     latitude: 9.66649990,
     longitude: 80.01096540,
   ),
-
   Cities(
     id: 2030,
     districtId: 9,
@@ -22110,7 +20101,6 @@ final List<Cities> locations = [
     latitude: 9.78830650,
     longitude: 80.07007120,
   ),
-
   Cities(
     id: 2031,
     districtId: 9,
@@ -22121,7 +20111,6 @@ final List<Cities> locations = [
     latitude: 9.63724050,
     longitude: 79.90107840,
   ),
-
   Cities(
     id: 2032,
     districtId: 9,
@@ -22132,7 +20121,6 @@ final List<Cities> locations = [
     latitude: 9.65355890,
     longitude: 80.01695030,
   ),
-
   Cities(
     id: 2033,
     districtId: 9,
@@ -22143,7 +20131,6 @@ final List<Cities> locations = [
     latitude: 9.67146140,
     longitude: 80.09644150,
   ),
-
   Cities(
     id: 2034,
     districtId: 9,
@@ -22154,7 +20141,6 @@ final List<Cities> locations = [
     latitude: 9.67015470,
     longitude: 80.03952050,
   ),
-
   Cities(
     id: 2035,
     districtId: 9,
@@ -22165,7 +20151,6 @@ final List<Cities> locations = [
     latitude: 9.68257550,
     longitude: 80.03699480,
   ),
-
   Cities(
     id: 2036,
     districtId: 9,
@@ -22176,7 +20161,6 @@ final List<Cities> locations = [
     latitude: 9.68384070,
     longitude: 80.01366670,
   ),
-
   Cities(
     id: 2037,
     districtId: 13,
@@ -22187,7 +20171,6 @@ final List<Cities> locations = [
     latitude: 9.32614520,
     longitude: 80.30181070,
   ),
-
   Cities(
     id: 2038,
     districtId: 13,
@@ -22198,7 +20181,6 @@ final List<Cities> locations = [
     latitude: 9.58818920,
     longitude: 80.44655940,
   ),
-
   Cities(
     id: 2039,
     districtId: 13,
@@ -22209,7 +20191,6 @@ final List<Cities> locations = [
     latitude: 9.38028860,
     longitude: 80.37699990,
   ),
-
   Cities(
     id: 2040,
     districtId: 13,
@@ -22220,7 +20201,6 @@ final List<Cities> locations = [
     latitude: 9.52566550,
     longitude: 80.40622650,
   ),
-
   Cities(
     id: 2041,
     districtId: 13,
@@ -22231,7 +20211,6 @@ final List<Cities> locations = [
     latitude: 9.65623000,
     longitude: 80.28316680,
   ),
-
   Cities(
     id: 2042,
     districtId: 13,
@@ -22242,7 +20221,6 @@ final List<Cities> locations = [
     latitude: 9.28993290,
     longitude: 79.98361080,
   ),
-
   Cities(
     id: 2043,
     districtId: 13,
@@ -22253,7 +20231,6 @@ final List<Cities> locations = [
     latitude: 9.57152350,
     longitude: 80.41619680,
   ),
-
   Cities(
     id: 2044,
     districtId: 13,
@@ -22264,7 +20241,6 @@ final List<Cities> locations = [
     latitude: 9.56666700,
     longitude: 80.11666700,
   ),
-
   Cities(
     id: 2045,
     districtId: 13,
@@ -22275,7 +20251,6 @@ final List<Cities> locations = [
     latitude: 9.35149910,
     longitude: 80.32688120,
   ),
-
   Cities(
     id: 2046,
     districtId: 13,
@@ -22286,7 +20261,6 @@ final List<Cities> locations = [
     latitude: 9.55313190,
     longitude: 80.47158660,
   ),
-
   Cities(
     id: 2047,
     districtId: 13,
@@ -22297,7 +20271,6 @@ final List<Cities> locations = [
     latitude: 9.43792020,
     longitude: 80.45281690,
   ),
-
   Cities(
     id: 2048,
     districtId: 13,
@@ -22308,7 +20281,6 @@ final List<Cities> locations = [
     latitude: 9.31432200,
     longitude: 80.17076620,
   ),
-
   Cities(
     id: 2049,
     districtId: 13,
@@ -22319,7 +20291,6 @@ final List<Cities> locations = [
     latitude: 9.44141520,
     longitude: 80.40483060,
   ),
-
   Cities(
     id: 2050,
     districtId: 13,
@@ -22330,7 +20301,6 @@ final List<Cities> locations = [
     latitude: 9.44104490,
     longitude: 80.53125230,
   ),
-
   Cities(
     id: 2051,
     districtId: 13,
@@ -22341,7 +20311,6 @@ final List<Cities> locations = [
     latitude: 9.45027570,
     longitude: 80.27812620,
   ),
-
   Cities(
     id: 2052,
     districtId: 13,
@@ -22352,7 +20321,6 @@ final List<Cities> locations = [
     latitude: 9.36699420,
     longitude: 80.49382670,
   ),
-
   Cities(
     id: 2053,
     districtId: 13,
@@ -22363,7 +20331,6 @@ final List<Cities> locations = [
     latitude: 9.44587530,
     longitude: 80.41735140,
   ),
-
   Cities(
     id: 2054,
     districtId: 13,
@@ -22374,7 +20341,6 @@ final List<Cities> locations = [
     latitude: 9.33710780,
     longitude: 80.30181070,
   ),
-
   Cities(
     id: 2055,
     districtId: 13,
@@ -22385,7 +20351,6 @@ final List<Cities> locations = [
     latitude: 9.63045850,
     longitude: 80.40285230,
   ),
-
   Cities(
     id: 2056,
     districtId: 13,
@@ -22396,7 +20361,6 @@ final List<Cities> locations = [
     latitude: 9.41065240,
     longitude: 80.52336360,
   ),
-
   Cities(
     id: 2057,
     districtId: 13,
@@ -22407,7 +20371,6 @@ final List<Cities> locations = [
     latitude: 9.39865250,
     longitude: 80.34637540,
   ),
-
   Cities(
     id: 2058,
     districtId: 13,
@@ -22418,7 +20381,6 @@ final List<Cities> locations = [
     latitude: 9.36139060,
     longitude: 80.46667320,
   ),
-
   Cities(
     id: 2059,
     districtId: 13,
@@ -22429,7 +20391,6 @@ final List<Cities> locations = [
     latitude: 9.38028860,
     longitude: 80.37699990,
   ),
-
   Cities(
     id: 2060,
     districtId: 13,
@@ -22440,7 +20401,6 @@ final List<Cities> locations = [
     latitude: 9.35284760,
     longitude: 80.07863590,
   ),
-
   Cities(
     id: 2061,
     districtId: 13,
@@ -22451,7 +20411,6 @@ final List<Cities> locations = [
     latitude: 9.11384010,
     longitude: 80.24328390,
   ),
-
   Cities(
     id: 2063,
     districtId: 13,
@@ -22462,7 +20421,6 @@ final List<Cities> locations = [
     latitude: 9.34577150,
     longitude: 80.41874250,
   ),
-
   Cities(
     id: 2064,
     districtId: 13,
@@ -22473,7 +20431,6 @@ final List<Cities> locations = [
     latitude: 9.37272850,
     longitude: 80.41178570,
   ),
-
   Cities(
     id: 2065,
     districtId: 13,
@@ -22484,7 +20441,6 @@ final List<Cities> locations = [
     latitude: 9.51416670,
     longitude: 80.53222220,
   ),
-
   Cities(
     id: 2066,
     districtId: 13,
@@ -22495,7 +20451,6 @@ final List<Cities> locations = [
     latitude: 9.37856530,
     longitude: 80.51606080,
   ),
-
   Cities(
     id: 2067,
     districtId: 13,
@@ -22506,7 +20461,6 @@ final List<Cities> locations = [
     latitude: 9.40863720,
     longitude: 80.40644470,
   ),
-
   Cities(
     id: 2068,
     districtId: 13,
@@ -22517,7 +20471,6 @@ final List<Cities> locations = [
     latitude: 9.38975610,
     longitude: 80.40650010,
   ),
-
   Cities(
     id: 2069,
     districtId: 13,
@@ -22528,7 +20481,6 @@ final List<Cities> locations = [
     latitude: 9.41087790,
     longitude: 80.33826070,
   ),
-
   Cities(
     id: 2070,
     districtId: 13,
@@ -22539,7 +20491,6 @@ final List<Cities> locations = [
     latitude: 9.64717690,
     longitude: 80.29345220,
   ),
-
   Cities(
     id: 2071,
     districtId: 13,
@@ -22550,7 +20501,6 @@ final List<Cities> locations = [
     latitude: 9.56732280,
     longitude: 80.38813330,
   ),
-
   Cities(
     id: 2072,
     districtId: 13,
@@ -22561,7 +20511,6 @@ final List<Cities> locations = [
     latitude: 9.38893750,
     longitude: 80.34219840,
   ),
-
   Cities(
     id: 2073,
     districtId: 13,
@@ -22572,7 +20521,6 @@ final List<Cities> locations = [
     latitude: 9.59702640,
     longitude: 80.36864880,
   ),
-
   Cities(
     id: 2074,
     districtId: 13,
@@ -22583,7 +20531,6 @@ final List<Cities> locations = [
     latitude: 9.39438340,
     longitude: 80.39091640,
   ),
-
   Cities(
     id: 2075,
     districtId: 13,
@@ -22594,7 +20541,6 @@ final List<Cities> locations = [
     latitude: 9.37616450,
     longitude: 80.42708850,
   ),
-
   Cities(
     id: 2076,
     districtId: 19,
@@ -22605,7 +20551,6 @@ final List<Cities> locations = [
     latitude: 9.18157970,
     longitude: 80.84608220,
   ),
-
   Cities(
     id: 2077,
     districtId: 19,
@@ -22616,7 +20561,6 @@ final List<Cities> locations = [
     latitude: 9.15264030,
     longitude: 80.52022900,
   ),
-
   Cities(
     id: 2078,
     districtId: 19,
@@ -22627,7 +20571,6 @@ final List<Cities> locations = [
     latitude: 9.13698850,
     longitude: 80.44516870,
   ),
-
   Cities(
     id: 2079,
     districtId: 19,
@@ -22638,7 +20581,6 @@ final List<Cities> locations = [
     latitude: 9.31196020,
     longitude: 80.78659060,
   ),
-
   Cities(
     id: 2080,
     districtId: 19,
@@ -22649,7 +20591,6 @@ final List<Cities> locations = [
     latitude: 9.21921510,
     longitude: 80.76439520,
   ),
-
   Cities(
     id: 2081,
     districtId: 19,
@@ -22660,7 +20601,6 @@ final List<Cities> locations = [
     latitude: 9.26709110,
     longitude: 80.81424800,
   ),
-
   Cities(
     id: 2082,
     districtId: 19,
@@ -22671,7 +20611,6 @@ final List<Cities> locations = [
     latitude: 9.00401300,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 2083,
     districtId: 19,
@@ -22682,7 +20621,6 @@ final List<Cities> locations = [
     latitude: 9.15386780,
     longitude: 80.64973120,
   ),
-
   Cities(
     id: 2084,
     districtId: 19,
@@ -22693,7 +20631,6 @@ final List<Cities> locations = [
     latitude: 9.31579980,
     longitude: 80.69262120,
   ),
-
   Cities(
     id: 2085,
     districtId: 19,
@@ -22704,7 +20641,6 @@ final List<Cities> locations = [
     latitude: 9.24754080,
     longitude: 80.33245140,
   ),
-
   Cities(
     id: 2086,
     districtId: 19,
@@ -22715,7 +20651,6 @@ final List<Cities> locations = [
     latitude: 9.13404860,
     longitude: 80.28626360,
   ),
-
   Cities(
     id: 2087,
     districtId: 19,
@@ -22726,7 +20661,6 @@ final List<Cities> locations = [
     latitude: 9.31318210,
     longitude: 80.58411550,
   ),
-
   Cities(
     id: 2088,
     districtId: 19,
@@ -22737,7 +20671,6 @@ final List<Cities> locations = [
     latitude: 9.26709110,
     longitude: 80.81424800,
   ),
-
   Cities(
     id: 2089,
     districtId: 19,
@@ -22748,7 +20681,6 @@ final List<Cities> locations = [
     latitude: 9.37603700,
     longitude: 80.55024560,
   ),
-
   Cities(
     id: 2090,
     districtId: 19,
@@ -22759,7 +20691,6 @@ final List<Cities> locations = [
     latitude: 9.13041700,
     longitude: 80.30720850,
   ),
-
   Cities(
     id: 2091,
     districtId: 19,
@@ -22770,7 +20701,6 @@ final List<Cities> locations = [
     latitude: 9.37419060,
     longitude: 80.68717670,
   ),
-
   Cities(
     id: 2092,
     districtId: 19,
@@ -22781,7 +20711,6 @@ final List<Cities> locations = [
     latitude: 9.32541350,
     longitude: 80.72895090,
   ),
-
   Cities(
     id: 2093,
     districtId: 19,
@@ -22792,7 +20721,6 @@ final List<Cities> locations = [
     latitude: 8.97525670,
     longitude: 80.74499970,
   ),
-
   Cities(
     id: 2094,
     districtId: 19,
@@ -22803,7 +20731,6 @@ final List<Cities> locations = [
     latitude: 9.00040660,
     longitude: 80.94914480,
   ),
-
   Cities(
     id: 2095,
     districtId: 19,
@@ -22814,7 +20741,6 @@ final List<Cities> locations = [
     latitude: 9.49361110,
     longitude: 80.57388890,
   ),
-
   Cities(
     id: 2096,
     districtId: 19,
@@ -22825,7 +20751,6 @@ final List<Cities> locations = [
     latitude: 9.15250960,
     longitude: 80.82384490,
   ),
-
   Cities(
     id: 2097,
     districtId: 19,
@@ -22836,7 +20761,6 @@ final List<Cities> locations = [
     latitude: 9.26709110,
     longitude: 80.81424800,
   ),
-
   Cities(
     id: 2098,
     districtId: 19,
@@ -22847,7 +20771,6 @@ final List<Cities> locations = [
     latitude: 9.26295870,
     longitude: 80.39648240,
   ),
-
   Cities(
     id: 2099,
     districtId: 19,
@@ -22858,7 +20781,6 @@ final List<Cities> locations = [
     latitude: 8.96404140,
     longitude: 80.78794070,
   ),
-
   Cities(
     id: 2116,
     districtId: 25,
@@ -22869,7 +20791,6 @@ final List<Cities> locations = [
     latitude: 9.05371870,
     longitude: 80.66043640,
   ),
-
   Cities(
     id: 2117,
     districtId: 25,
@@ -22880,7 +20801,6 @@ final List<Cities> locations = [
     latitude: 8.61546220,
     longitude: 80.35472860,
   ),
-
   Cities(
     id: 2135,
     districtId: 25,
@@ -22891,7 +20811,6 @@ final List<Cities> locations = [
     latitude: 8.67901160,
     longitude: 80.50494450,
   ),
-
   Cities(
     id: 2136,
     districtId: 25,
@@ -22902,7 +20821,6 @@ final List<Cities> locations = [
     latitude: 8.72189240,
     longitude: 80.26558460,
   ),
-
   Cities(
     id: 2137,
     districtId: 25,
@@ -22913,7 +20831,6 @@ final List<Cities> locations = [
     latitude: 8.68181450,
     longitude: 80.53659490,
   ),
-
   Cities(
     id: 2138,
     districtId: 25,
@@ -22924,7 +20841,6 @@ final List<Cities> locations = [
     latitude: 8.66559560,
     longitude: 80.29623850,
   ),
-
   Cities(
     id: 2139,
     districtId: 25,
@@ -22935,7 +20851,6 @@ final List<Cities> locations = [
     latitude: 8.88222220,
     longitude: 80.58194440,
   ),
-
   Cities(
     id: 2140,
     districtId: 25,
@@ -22946,7 +20861,6 @@ final List<Cities> locations = [
     latitude: 8.85239540,
     longitude: 80.36128980,
   ),
-
   Cities(
     id: 2141,
     districtId: 25,
@@ -22957,7 +20871,6 @@ final List<Cities> locations = [
     latitude: 8.83949310,
     longitude: 80.39369940,
   ),
-
   Cities(
     id: 2142,
     districtId: 25,
@@ -22968,7 +20881,6 @@ final List<Cities> locations = [
     latitude: 8.70711060,
     longitude: 80.48207360,
   ),
-
   Cities(
     id: 2143,
     districtId: 25,
@@ -22979,7 +20891,6 @@ final List<Cities> locations = [
     latitude: 8.75365450,
     longitude: 80.49574890,
   ),
-
   Cities(
     id: 2144,
     districtId: 25,
@@ -22990,7 +20901,6 @@ final List<Cities> locations = [
     latitude: 8.78602010,
     longitude: 80.22097730,
   ),
-
   Cities(
     id: 2145,
     districtId: 25,
@@ -23001,7 +20911,6 @@ final List<Cities> locations = [
     latitude: 8.87897430,
     longitude: 80.66043640,
   ),
-
   Cities(
     id: 2146,
     districtId: 25,
@@ -23012,7 +20921,6 @@ final List<Cities> locations = [
     latitude: 8.73753070,
     longitude: 80.50633410,
   ),
-
   Cities(
     id: 2147,
     districtId: 25,
@@ -23023,7 +20931,6 @@ final List<Cities> locations = [
     latitude: 8.75658000,
     longitude: 80.56051110,
   ),
-
   Cities(
     id: 2148,
     districtId: 25,
@@ -23034,7 +20941,6 @@ final List<Cities> locations = [
     latitude: 8.78555240,
     longitude: 80.57578530,
   ),
-
   Cities(
     id: 2149,
     districtId: 25,
@@ -23045,7 +20951,6 @@ final List<Cities> locations = [
     latitude: 8.81635400,
     longitude: 80.55495610,
   ),
-
   Cities(
     id: 2150,
     districtId: 25,
@@ -23056,7 +20961,6 @@ final List<Cities> locations = [
     latitude: 8.57829580,
     longitude: 80.36856430,
   ),
-
   Cities(
     id: 2151,
     districtId: 25,
@@ -23067,7 +20971,6 @@ final List<Cities> locations = [
     latitude: 8.75032420,
     longitude: 80.49704350,
   ),
-
   Cities(
     id: 2152,
     districtId: 25,
@@ -23078,7 +20981,6 @@ final List<Cities> locations = [
     latitude: 8.86861110,
     longitude: 80.51722220,
   ),
-
   Cities(
     id: 2153,
     districtId: 25,
@@ -23089,7 +20991,6 @@ final List<Cities> locations = [
     latitude: 8.75032420,
     longitude: 80.49704350,
   ),
-
   Cities(
     id: 2154,
     districtId: 25,
@@ -23100,7 +21001,6 @@ final List<Cities> locations = [
     latitude: 9.04079380,
     longitude: 80.58272720,
   ),
-
   Cities(
     id: 2155,
     districtId: 25,
@@ -23111,7 +21011,6 @@ final List<Cities> locations = [
     latitude: 8.76466930,
     longitude: 80.44934050,
   ),
-
   Cities(
     id: 2156,
     districtId: 25,
@@ -23122,7 +21021,6 @@ final List<Cities> locations = [
     latitude: 8.83143640,
     longitude: 80.50494450,
   ),
-
   Cities(
     id: 2157,
     districtId: 25,
@@ -23133,7 +21031,6 @@ final List<Cities> locations = [
     latitude: 8.87238700,
     longitude: 80.50772370,
   ),
-
   Cities(
     id: 2158,
     districtId: 25,
@@ -23144,7 +21041,6 @@ final List<Cities> locations = [
     latitude: 8.94322430,
     longitude: 80.39926520,
   ),
-
   Cities(
     id: 2159,
     districtId: 25,
@@ -23155,7 +21051,6 @@ final List<Cities> locations = [
     latitude: 8.78559790,
     longitude: 80.41596030,
   ),
-
   Cities(
     id: 2160,
     districtId: 25,
@@ -23166,7 +21061,6 @@ final List<Cities> locations = [
     latitude: 8.75420290,
     longitude: 80.49824020,
   ),
-
   Cities(
     id: 2161,
     districtId: 25,
@@ -23177,7 +21071,6 @@ final List<Cities> locations = [
     latitude: 8.70633850,
     longitude: 80.40204800,
   ),
-
   Cities(
     id: 2162,
     districtId: 25,
@@ -23188,7 +21081,6 @@ final List<Cities> locations = [
     latitude: 8.79231630,
     longitude: 80.46602560,
   ),
-
   Cities(
     id: 2163,
     districtId: 25,
@@ -23199,7 +21091,6 @@ final List<Cities> locations = [
     latitude: 8.67678120,
     longitude: 80.41596030,
   ),
-
   Cities(
     id: 2164,
     districtId: 25,
@@ -23210,7 +21101,6 @@ final List<Cities> locations = [
     latitude: 8.78417510,
     longitude: 80.36029700,
   ),
-
   Cities(
     id: 2165,
     districtId: 25,
@@ -23221,7 +21111,6 @@ final List<Cities> locations = [
     latitude: 8.97381780,
     longitude: 80.52717560,
   ),
-
   Cities(
     id: 2166,
     districtId: 25,
@@ -23232,7 +21121,6 @@ final List<Cities> locations = [
     latitude: 8.77833450,
     longitude: 80.48489570,
   ),
-
   Cities(
     id: 2167,
     districtId: 25,
@@ -23243,7 +21131,6 @@ final List<Cities> locations = [
     latitude: 8.57146260,
     longitude: 80.33245140,
   ),
-
   Cities(
     id: 2168,
     districtId: 25,
@@ -23254,7 +21141,6 @@ final List<Cities> locations = [
     latitude: 8.78729320,
     longitude: 80.48270740,
   ),
-
   Cities(
     id: 2169,
     districtId: 25,
@@ -23265,7 +21151,6 @@ final List<Cities> locations = [
     latitude: 8.73854240,
     longitude: 80.50937380,
   ),
-
   Cities(
     id: 2172,
     districtId: 15,
@@ -23276,7 +21161,6 @@ final List<Cities> locations = [
     latitude: 8.94142900,
     longitude: 80.02275140,
   ),
-
   Cities(
     id: 2173,
     districtId: 15,
@@ -23287,7 +21171,6 @@ final List<Cities> locations = [
     latitude: 8.93257410,
     longitude: 79.99759160,
   ),
-
   Cities(
     id: 2174,
     districtId: 15,
@@ -23298,7 +21181,6 @@ final List<Cities> locations = [
     latitude: 8.79255710,
     longitude: 79.92965370,
   ),
-
   Cities(
     id: 2175,
     districtId: 15,
@@ -23309,7 +21191,6 @@ final List<Cities> locations = [
     latitude: 8.97773900,
     longitude: 79.91629000,
   ),
-
   Cities(
     id: 2176,
     districtId: 15,
@@ -23320,7 +21201,6 @@ final List<Cities> locations = [
     latitude: 8.74500740,
     longitude: 79.95424380,
   ),
-
   Cities(
     id: 2177,
     districtId: 15,
@@ -23331,7 +21211,6 @@ final List<Cities> locations = [
     latitude: 9.03435060,
     longitude: 79.88148300,
   ),
-
   Cities(
     id: 2178,
     districtId: 15,
@@ -23342,7 +21221,6 @@ final List<Cities> locations = [
     latitude: 9.09252860,
     longitude: 80.08055630,
   ),
-
   Cities(
     id: 2179,
     districtId: 15,
@@ -23353,7 +21231,6 @@ final List<Cities> locations = [
     latitude: 9.06674680,
     longitude: 79.84128420,
   ),
-
   Cities(
     id: 2180,
     districtId: 15,
@@ -23364,7 +21241,6 @@ final List<Cities> locations = [
     latitude: 8.73311300,
     longitude: 79.96683080,
   ),
-
   Cities(
     id: 2181,
     districtId: 15,
@@ -23375,7 +21251,6 @@ final List<Cities> locations = [
     latitude: 8.85502020,
     longitude: 80.20284200,
   ),
-
   Cities(
     id: 2182,
     districtId: 15,
@@ -23386,7 +21261,6 @@ final List<Cities> locations = [
     latitude: 8.81419660,
     longitude: 80.17639490,
   ),
-
   Cities(
     id: 2183,
     districtId: 15,
@@ -23397,7 +21271,6 @@ final List<Cities> locations = [
     latitude: 8.96486110,
     longitude: 79.91827770,
   ),
-
   Cities(
     id: 2184,
     districtId: 15,
@@ -23408,7 +21281,6 @@ final List<Cities> locations = [
     latitude: 8.72547360,
     longitude: 79.96053750,
   ),
-
   Cities(
     id: 2185,
     districtId: 15,
@@ -23419,7 +21291,6 @@ final List<Cities> locations = [
     latitude: 8.83279700,
     longitude: 80.03393120,
   ),
-
   Cities(
     id: 2186,
     districtId: 15,
@@ -23430,7 +21301,6 @@ final List<Cities> locations = [
     latitude: 8.83709930,
     longitude: 79.96910980,
   ),
-
   Cities(
     id: 2187,
     districtId: 15,
@@ -23441,7 +21311,6 @@ final List<Cities> locations = [
     latitude: 8.92204610,
     longitude: 80.21539980,
   ),
-
   Cities(
     id: 2188,
     districtId: 15,
@@ -23452,7 +21321,6 @@ final List<Cities> locations = [
     latitude: 8.98009400,
     longitude: 79.92160730,
   ),
-
   Cities(
     id: 2189,
     districtId: 15,
@@ -23463,7 +21331,6 @@ final List<Cities> locations = [
     latitude: 8.78159340,
     longitude: 79.95004770,
   ),
-
   Cities(
     id: 2190,
     districtId: 15,
@@ -23474,7 +21341,6 @@ final List<Cities> locations = [
     latitude: 8.99299680,
     longitude: 80.01436560,
   ),
-
   Cities(
     id: 2191,
     districtId: 15,
@@ -23485,7 +21351,6 @@ final List<Cities> locations = [
     latitude: 8.87400300,
     longitude: 80.04790390,
   ),
-
   Cities(
     id: 2192,
     districtId: 15,
@@ -23496,7 +21361,6 @@ final List<Cities> locations = [
     latitude: 8.91554570,
     longitude: 80.06530170,
   ),
-
   Cities(
     id: 2193,
     districtId: 15,
@@ -23507,7 +21371,6 @@ final List<Cities> locations = [
     latitude: 8.97585590,
     longitude: 79.91699640,
   ),
-
   Cities(
     id: 2194,
     districtId: 15,
@@ -23518,7 +21381,6 @@ final List<Cities> locations = [
     latitude: 8.98099710,
     longitude: 80.17634670,
   ),
-
   Cities(
     id: 2195,
     districtId: 15,
@@ -23529,7 +21391,6 @@ final List<Cities> locations = [
     latitude: 8.96486110,
     longitude: 79.91827770,
   ),
-
   Cities(
     id: 2196,
     districtId: 15,
@@ -23540,7 +21401,6 @@ final List<Cities> locations = [
     latitude: 9.08283040,
     longitude: 79.81006300,
   ),
-
   Cities(
     id: 2197,
     districtId: 15,
@@ -23551,7 +21411,6 @@ final List<Cities> locations = [
     latitude: 8.77931380,
     longitude: 79.96917970,
   ),
-
   Cities(
     id: 2198,
     districtId: 15,
@@ -23562,7 +21421,6 @@ final List<Cities> locations = [
     latitude: 8.76976940,
     longitude: 79.96543240,
   ),
-
   Cities(
     id: 2199,
     districtId: 15,
@@ -23573,7 +21431,6 @@ final List<Cities> locations = [
     latitude: 8.98167070,
     longitude: 79.92319020,
   ),
-
   Cities(
     id: 2200,
     districtId: 15,
@@ -23584,7 +21441,6 @@ final List<Cities> locations = [
     latitude: 9.08343000,
     longitude: 79.73437910,
   ),
-
   Cities(
     id: 2201,
     districtId: 15,
@@ -23595,7 +21451,6 @@ final List<Cities> locations = [
     latitude: 9.10229100,
     longitude: 79.72596580,
   ),
-
   Cities(
     id: 2202,
     districtId: 15,
@@ -23606,7 +21461,6 @@ final List<Cities> locations = [
     latitude: 9.08343000,
     longitude: 79.73437910,
   ),
-
   Cities(
     id: 2203,
     districtId: 15,
@@ -23617,7 +21471,6 @@ final List<Cities> locations = [
     latitude: 8.99092580,
     longitude: 79.88880120,
   ),
-
   Cities(
     id: 2204,
     districtId: 15,
@@ -23628,7 +21481,6 @@ final List<Cities> locations = [
     latitude: 9.01237950,
     longitude: 79.87588350,
   ),
-
   Cities(
     id: 2205,
     districtId: 15,
@@ -23639,7 +21491,6 @@ final List<Cities> locations = [
     latitude: 8.94443570,
     longitude: 79.95774040,
   ),
-
   Cities(
     id: 2206,
     districtId: 15,
@@ -23650,7 +21501,6 @@ final List<Cities> locations = [
     latitude: 8.88589160,
     longitude: 79.98361080,
   ),
-
   Cities(
     id: 2207,
     districtId: 15,
@@ -23661,7 +21511,6 @@ final List<Cities> locations = [
     latitude: 8.98632760,
     longitude: 79.90891460,
   ),
-
   Cities(
     id: 2208,
     districtId: 15,
@@ -23672,7 +21521,6 @@ final List<Cities> locations = [
     latitude: 8.90771000,
     longitude: 80.03532850,
   ),
-
   Cities(
     id: 2209,
     districtId: 15,
@@ -23683,7 +21531,6 @@ final List<Cities> locations = [
     latitude: 8.89409850,
     longitude: 79.93466030,
   ),
-
   Cities(
     id: 2210,
     districtId: 15,
@@ -23694,7 +21541,6 @@ final List<Cities> locations = [
     latitude: 9.18608900,
     longitude: 80.12648090,
   ),
-
   Cities(
     id: 2211,
     districtId: 15,
@@ -23705,7 +21551,6 @@ final List<Cities> locations = [
     latitude: 8.78602730,
     longitude: 80.01436560,
   ),
-
   Cities(
     id: 2212,
     districtId: 15,
@@ -23716,7 +21561,6 @@ final List<Cities> locations = [
     latitude: 9.02154990,
     longitude: 80.05086310,
   ),
-
   Cities(
     id: 2213,
     districtId: 7,
@@ -23732,13 +21576,15 @@ final List<Cities> locations = [
 // Optional: Helper function to find a city by ID
 Cities? getCityById(int id) {
   return locations.firstWhere(
-        (location) => location.id == id,
+    (location) => location.id == id,
   );
 }
 
 // Optional: Helper function to find all cities in a district by district ID
 List<Cities> getCitiesByDistrictId(int districtId) {
-  return locations.where((location) => location.districtId == districtId).toList();
+  return locations
+      .where((location) => location.districtId == districtId)
+      .toList();
 }
 
 // Optional: Helper function to find all cities by a postal code
@@ -23749,20 +21595,23 @@ List<Cities> getCitiesByPostcode(String postcode) {
 // Optional: Helper function to search cities by English name
 List<Cities> searchCitiesByNameEn(String name) {
   return locations
-      .where((location) => location.nameEn.toLowerCase().contains(name.toLowerCase()))
+      .where((location) =>
+          location.nameEn.toLowerCase().contains(name.toLowerCase()))
       .toList();
 }
 
 // Optional: Helper function to search cities by Sinhala name
 List<Cities> searchCitiesByNameSi(String name) {
   return locations
-      .where((location) => location.nameSi.toLowerCase().contains(name.toLowerCase()))
+      .where((location) =>
+          location.nameSi.toLowerCase().contains(name.toLowerCase()))
       .toList();
 }
 
 // Optional: Helper function to search cities by Tamil name
 List<Cities> searchCitiesByNameTa(String name) {
   return locations
-      .where((location) => location.nameTa.toLowerCase().contains(name.toLowerCase()))
+      .where((location) =>
+          location.nameTa.toLowerCase().contains(name.toLowerCase()))
       .toList();
 }
