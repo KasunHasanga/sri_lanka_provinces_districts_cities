@@ -1,13 +1,30 @@
+/// Represents a city with its associated details such as name, location, and district ID.
 class Cities {
+  /// Unique identifier for the city.
   final int id;
+
+  /// The ID of the district to which this city belongs.
   final int districtId;
+
+  /// The English name of the city.
   final String nameEn;
+
+  /// The Sinhala name of the city.
   final String nameSi;
+
+  /// The Tamil name of the city.
   final String nameTa;
+
+  /// The postcode of the city.
   final String postcode;
+
+  /// The latitude coordinate of the city.
   final double latitude;
+
+  /// The longitude coordinate of the city.
   final double longitude;
 
+  /// Creates a new [Cities] instance with the required properties.
   Cities({
     required this.id,
     required this.districtId,
@@ -18,7 +35,10 @@ class Cities {
     required this.latitude,
     required this.longitude,
   });
-  // Convert a Cities object to a JSON map
+
+  /// Converts a [Cities] object into a JSON map.
+  ///
+  /// Returns a `Map<String, dynamic>` representing the city's data.
   Map<String, dynamic> toJson() {
     return {
       'id': id,
@@ -32,7 +52,9 @@ class Cities {
     };
   }
 
-  // Create a Cities object from a JSON map
+  /// Creates a new [Cities] instance from a JSON map.
+  ///
+  /// Takes a `Map<String, dynamic>` [json] and returns a [Cities] object.
   factory Cities.fromJson(Map<String, dynamic> json) {
     return Cities(
       id: json['id'],
@@ -47,6 +69,11 @@ class Cities {
   }
 }
 
+/// A list of [Cities] objects representing the cities in your application.
+///
+/// This list is initialized with city data. It includes cities with
+/// their respective district IDs, names in multiple languages (English, Sinhala, Tamil),
+/// postcode, and geographical coordinates (latitude and longitude).
 final List<Cities> slCities = [
   Cities(
     id: 1,
@@ -21600,26 +21627,26 @@ final List<Cities> slCities = [
   ),
 ];
 
-// Optional: Helper function to find a city by ID
+/// Returns the [Cities] object with the matching [id], or `null` if no city is found.
 Cities? getCityById(int id) {
   return slCities.firstWhere(
     (location) => location.id == id,
   );
 }
 
-// Optional: Helper function to find all cities in a district by district ID
+/// Returns a list of [Cities] objects that belong to the specified district.
 List<Cities> getCitiesByDistrictId(int districtId) {
   return slCities
       .where((location) => location.districtId == districtId)
       .toList();
 }
 
-// Optional: Helper function to find all cities by a postal code
+/// Returns a list of [Cities] objects with the specified [postcode].
 List<Cities> getCitiesByPostcode(String postcode) {
   return slCities.where((location) => location.postcode == postcode).toList();
 }
 
-// Optional: Helper function to search cities by English name
+/// Returns a list of [Cities] objects whose English name contains the given [name] (case-insensitive).
 List<Cities> searchCitiesByNameEn(String name) {
   return slCities
       .where((location) =>
@@ -21627,7 +21654,7 @@ List<Cities> searchCitiesByNameEn(String name) {
       .toList();
 }
 
-// Optional: Helper function to search cities by Sinhala name
+/// Returns a list of [Cities] objects whose Sinhala name contains the given [name] (case-insensitive).
 List<Cities> searchCitiesByNameSi(String name) {
   return slCities
       .where((location) =>
@@ -21635,7 +21662,7 @@ List<Cities> searchCitiesByNameSi(String name) {
       .toList();
 }
 
-// Optional: Helper function to search cities by Tamil name
+/// Returns a list of [Cities] objects whose Tamil name contains the given [name] (case-insensitive).
 List<Cities> searchCitiesByNameTa(String name) {
   return slCities
       .where((location) =>

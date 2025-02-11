@@ -1,10 +1,21 @@
+/// Represents a district with details such as its name, province, and ID.
 class District {
+  /// Unique identifier for the district.
   final int id;
+
+  /// The ID of the province that the district belongs to.
   final int provinceId;
+
+  /// The English name of the district.
   final String nameEn;
+
+  /// The Sinhala name of the district.
   final String nameSi;
+
+  /// The Tamil name of the district.
   final String nameTa;
 
+  /// Creates a new [District] instance with the required properties.
   District({
     required this.id,
     required this.provinceId,
@@ -13,7 +24,10 @@ class District {
     required this.nameTa,
   });
 
-  // Example of a factory method to initialize a District from JSON (if needed)
+  /// Creates a new [District] instance from a JSON map.
+  ///
+  /// The [json] parameter is a [Map<String, dynamic>] containing the district data.
+  /// Returns a [District] object initialized with values from the [json] map.
   factory District.fromJson(Map<String, dynamic> json) {
     return District(
       id: json['id'],
@@ -25,7 +39,10 @@ class District {
   }
 }
 
-// Creating a list of districts based on your SQL data
+/// A list of [District] objects representing the districts in your application.
+///
+/// This list is initialized with districts. It can be used to access
+/// the details of each district, such as the English, Sinhala, and Tamil names, and their IDs.
 final List<District> slDistricts = [
   District(
       id: 1,
@@ -175,14 +192,14 @@ final List<District> slDistricts = [
       nameTa: 'வவுனியா'),
 ];
 
-// Optional: Helper function to find a district by ID
+/// Returns the [District] object with the matching [id], or `null` if no district is found.
 District? getDistrictById(int id) {
   return slDistricts.firstWhere(
     (district) => district.id == id,
   );
 }
 
-// Optional: Helper function to find districts by province ID
+/// Returns a list of [District] objects that belong to the specified province.
 List<District> getDistrictsByProvinceId(int provinceId) {
   return slDistricts
       .where((district) => district.provinceId == provinceId)
