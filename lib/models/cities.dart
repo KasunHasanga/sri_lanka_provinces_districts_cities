@@ -21669,3 +21669,10 @@ List<Cities> searchCitiesByNameTa(String name) {
           location.nameTa.toLowerCase().contains(name.toLowerCase()))
       .toList();
 }
+
+/// Returns `true` if the city belongs to that district, otherwise `false`.
+bool isCityInDistrict(int cityId, int districtId) {
+  final city = getCityById(cityId);
+  if (city == null) return false;
+  return city.districtId == districtId;
+}

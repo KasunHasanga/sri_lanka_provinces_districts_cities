@@ -78,6 +78,13 @@ class _CitiesHomePageState extends State<CitiesHomePage> {
     });
   }
 
+  void _checkCityDistrictMembership(int cityId, int districtId) {
+    bool foundCities = isCityInDistrict(cityId, districtId);
+    setState(() {
+      result = foundCities.toString();
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -103,6 +110,11 @@ class _CitiesHomePageState extends State<CitiesHomePage> {
             ElevatedButton(
               onPressed: () => _searchCityByName('Ampara'),
               child: const Text('Search Cities by English Name (e.g., Ampara)'),
+            ),
+            ElevatedButton(
+              onPressed: () => _checkCityDistrictMembership(9, 1),
+              child: const Text(
+                  'Check City belongs to a District (e.g., Gonagolla belongs Ampara)'),
             ),
             const SizedBox(height: 20),
             Text(
