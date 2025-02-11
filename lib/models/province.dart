@@ -1,9 +1,18 @@
+/// Represents a province with details such as its name and unique ID.
 class Province {
+  /// Unique identifier for the province.
   final int id;
+
+  /// The English name of the province.
   final String nameEn;
+
+  /// The Sinhala name of the province.
   final String nameSi;
+
+  /// The Tamil name of the province.
   final String nameTa;
 
+  /// Creates a new [Province] instance with the required properties.
   Province({
     required this.id,
     required this.nameEn,
@@ -11,7 +20,10 @@ class Province {
     required this.nameTa,
   });
 
-  // Example of a factory method to initialize a Province from JSON (if needed)
+  /// Creates a new [Province] instance from a JSON map.
+  ///
+  /// The [json] parameter is a [Map<String, dynamic>] containing the province data.
+  /// Returns a [Province] object initialized with values from the [json] map.
   factory Province.fromJson(Map<String, dynamic> json) {
     return Province(
       id: json['id'],
@@ -22,7 +34,10 @@ class Province {
   }
 }
 
-// Creating a list of provinces based on your SQL data
+/// A list of [Province] objects representing the provinces in your application.
+///
+/// This list is initialized with province data. It includes provinces
+/// with their respective names in multiple languages (English, Sinhala, Tamil).
 final List<Province> slProvinces = [
   Province(id: 1, nameEn: 'Western', nameSi: 'බස්නාහිර', nameTa: 'மேல்'),
   Province(id: 2, nameEn: 'Central', nameSi: 'මධ්‍යම', nameTa: 'மத்திய'),
@@ -36,7 +51,9 @@ final List<Province> slProvinces = [
   Province(id: 9, nameEn: 'Northern', nameSi: 'උතුරු', nameTa: 'வட'),
 ];
 
-// Optional: Helper function to find a province by ID
+/// Optional: Helper function to find a province by its unique [id].
+///
+/// Returns the [Province] object with the matching [id], or `null` if no province is found.
 Province? getProvinceById(int id) {
   return slProvinces.firstWhere(
     (province) => province.id == id,

@@ -1,5 +1,5 @@
 library sri_lanka_provinces_districts_cities;
 
-export '_models/cities.dart';
-export '_models/districs.dart';
-export '_models/province.dart';
+export 'models/cities.dart';
+export 'models/districs.dart';
+export 'models/province.dart';
