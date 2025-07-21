@@ -1,6 +1,6 @@
 name: sri_lanka_provinces_districts_cities
 description: "A Flutter package to access information about Sri Lanka's provinces, districts, and cities."
-version: 0.0.3+1
+version: 0.0.4
 homepage: https://github.com/KasunHasanga/sri_lanka_provinces_districts_cities
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: 6.0.0
 
 
 flutter:

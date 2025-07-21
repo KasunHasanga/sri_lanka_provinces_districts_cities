@@ -35,7 +35,7 @@ void main() {
       Cities? city = getCityById(1); // Akkaraipattu
       expect(city, isNotNull);
       expect(city?.nameEn, 'Akkaraipattu');
-      expect(city?.nameSi, 'අක්කරෙයිපත්තුව');
+      expect(city?.nameSi, 'අක්කරපත්තුව');
       expect(city?.nameTa, 'அக்கரைப்பற்று');
     });
 
